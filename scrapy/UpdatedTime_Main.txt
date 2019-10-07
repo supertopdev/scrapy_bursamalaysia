@@ -1,0 +1,3612 @@
+
+
+04-05-2015 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-05-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-05-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-05-2015 11:36:33
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-05-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-05-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-05-2015 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-05-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-05-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-05-2015 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-05-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-05-2015 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-05-2015 19:13:43
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-05-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-05-2015 19:13:00
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-05-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-05-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-05-2015 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-05-2015 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-05-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-05-2015 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-06-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-06-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-06-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-06-2015 19:13:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-06-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-06-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-06-2015 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-06-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-06-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-06-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-06-2015 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-06-2015 19:12:32
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-06-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-06-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-06-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-06-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-06-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-06-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-06-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-06-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-06-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-06-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-07-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-07-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-09-2015 21:17:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-09-2015 22:31:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-09-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-09-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-10-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-10-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-10-2015 19:12:57
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-10-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-10-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-10-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-10-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-10-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-10-2015 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-10-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-10-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-10-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-10-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-10-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-10-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-10-2015 19:13:15
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-10-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-10-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-10-2015 19:14:06
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-10-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-10-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-10-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-11-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-11-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-11-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-11-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-11-2015 19:14:01
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-11-2015 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-11-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-11-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-11-2015 19:14:36
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-11-2015 19:14:45
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-11-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-11-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-11-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-11-2015 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-11-2015 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-11-2015 19:13:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-11-2015 19:12:35
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-11-2015 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-11-2015 19:12:59
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-11-2015 19:12:40
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-11-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-12-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-12-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-12-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-12-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-12-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-12-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-12-2015 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-12-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-12-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-12-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-12-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-12-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-12-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-12-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-12-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-12-2015 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-12-2015 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-12-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-12-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-12-2015 19:14:13
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-12-2015 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-12-2015 19:14:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+31-12-2015 19:12:58
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-01-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-01-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-01-2016 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-01-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-01-2016 19:12:52
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-01-2016 19:13:45
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-01-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-01-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-01-2016 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-01-2016 19:12:54
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-01-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-01-2016 19:12:48
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-01-2016 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-01-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-01-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-01-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-01-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-01-2016 19:12:43
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-01-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-01-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-01-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-02-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-02-2016 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-02-2016 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-02-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-02-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-02-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-02-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-02-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-02-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-02-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-02-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-02-2016 19:14:05
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-02-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-02-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-02-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-02-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-02-2016 19:12:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-02-2016 19:12:57
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-02-2016 19:13:05
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-02-2016 19:14:07
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-02-2016 19:14:48
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-03-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-03-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-03-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-03-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-03-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-03-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-03-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-03-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-03-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-03-2016 19:12:58
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-03-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-03-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-03-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-03-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-03-2016 19:12:36
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-03-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-03-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-03-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-03-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-03-2016 19:12:36
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-03-2016 19:14:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-03-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+31-03-2016 19:14:35
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-04-2016 19:12:32
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-04-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-04-2016 19:12:36
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-04-2016 19:12:54
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-04-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-04-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-04-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-04-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-04-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-04-2016 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-04-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-04-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-04-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-04-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-04-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-04-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-04-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-04-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-04-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-04-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-04-2016 19:12:31
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-05-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-05-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-05-2016 19:13:39
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-05-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-05-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-05-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-05-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-05-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-05-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-05-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-05-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-05-2016 19:13:32
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-05-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-05-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-05-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-05-2016 19:15:12
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-05-2016 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-05-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-05-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-05-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-05-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+31-05-2016 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-06-2016 19:12:57
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-06-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-06-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-06-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-06-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-06-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-06-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-06-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-06-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-06-2016 19:13:59
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-06-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-06-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-06-2016 19:13:20
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-06-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-06-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-06-2016 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-06-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-06-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-06-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-06-2016 19:13:58
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-06-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-06-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-07-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-07-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-07-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-07-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-07-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-07-2016 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-07-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-07-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-07-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-07-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-07-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-07-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-07-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-07-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-07-2016 19:12:59
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-07-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-07-2016 19:13:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-07-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-07-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-07-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-07-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-08-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-08-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-08-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-08-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-08-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-08-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-08-2016 19:14:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-08-2016 19:13:37
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-08-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-08-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-08-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-08-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-08-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-08-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-08-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-08-2016 19:13:10
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-08-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-08-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-08-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-08-2016 19:12:42
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-08-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-08-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+31-08-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-09-2016 19:12:48
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-09-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-09-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-09-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-09-2016 19:13:37
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-09-2016 19:12:44
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-09-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-09-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-09-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-09-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-09-2016 19:13:21
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-09-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-09-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-09-2016 19:12:34
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-09-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-09-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-09-2016 19:14:41
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-09-2016 19:13:42
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-09-2016 19:15:49
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-09-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-09-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-09-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-10-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-10-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-10-2016 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-10-2016 19:13:50
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-10-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-10-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-10-2016 19:13:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-10-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-10-2016 19:13:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-10-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-10-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-10-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-10-2016 19:13:07
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-10-2016 19:14:22
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-10-2016 19:13:02
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-10-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-10-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-10-2016 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-10-2016 19:13:49
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-10-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+31-10-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-11-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-11-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-11-2016 19:14:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-11-2016 19:13:21
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-11-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-11-2016 19:13:56
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-11-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-11-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-11-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-11-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-11-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-11-2016 19:12:57
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-11-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-11-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-11-2016 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-11-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-11-2016 19:13:10
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-11-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-11-2016 19:16:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-11-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-11-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-12-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-12-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-12-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-12-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-12-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-12-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-12-2016 19:14:04
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-12-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-12-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-12-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-12-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-12-2016 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-12-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-12-2016 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-12-2016 19:12:38
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-12-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-12-2016 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-12-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-12-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-12-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-12-2016 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-12-2016 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-01-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-01-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-01-2017 19:12:32
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-01-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-01-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-01-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-01-2017 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-01-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-01-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-01-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-01-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-01-2017 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-01-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-01-2017 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-01-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-01-2017 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-01-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-01-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-01-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-01-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-01-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+31-01-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-02-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-02-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-02-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-02-2017 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-02-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-02-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-02-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-02-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-02-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-02-2017 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-02-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-02-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-02-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-02-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-02-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-02-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-02-2017 19:13:47
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-02-2017 19:12:33
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-02-2017 19:12:35
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-02-2017 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-03-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-03-2017 19:12:36
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-03-2017 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-03-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-03-2017 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-03-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-03-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-03-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-03-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-03-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-03-2017 19:12:38
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-03-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-03-2017 19:12:37
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-03-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-03-2017 19:12:31
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-03-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-03-2017 19:12:51
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-03-2017 19:12:36
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-03-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-03-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-03-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-03-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+31-03-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-04-2017 19:12:40
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-04-2017 19:12:36
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-04-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-04-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-04-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-04-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-04-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-04-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-04-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-04-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-04-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-04-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-04-2017 19:12:26
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-04-2017 19:12:34
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-04-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-04-2017 19:12:31
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-04-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-04-2017 19:12:38
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-04-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+28-04-2017 19:13:10
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-05-2017 19:12:32
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-05-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-05-2017 19:12:38
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-05-2017 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-05-2017 19:12:51
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-05-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-05-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-05-2017 19:12:31
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-05-2017 19:12:33
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-05-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-05-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-05-2017 19:12:31
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+17-05-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+18-05-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-05-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-05-2017 19:13:02
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-05-2017 19:12:32
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+24-05-2017 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+25-05-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-05-2017 19:12:36
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-05-2017 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-05-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+31-05-2017 19:12:31
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-06-2017 19:12:31
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-06-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-06-2017 19:12:38
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-06-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-06-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+08-06-2017 19:12:38
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+09-06-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-06-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+13-06-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+14-06-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+15-06-2017 19:12:39
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+16-06-2017 19:12:29
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+19-06-2017 19:12:33
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+20-06-2017 19:12:34
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+21-06-2017 19:12:36
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+22-06-2017 19:12:32
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+23-06-2017 19:12:30
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+26-06-2017 19:13:10
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+27-06-2017 19:12:24
+Stock Name=OCK GROUP BERHAD 
+Stock Code=
+Listing=
+Sector=None
+
+
+28-06-2017 19:12:27
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+29-06-2017 19:12:28
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+30-06-2017 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-07-2017 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+04-07-2017 19:12:31
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+05-07-2017 19:12:32
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+06-07-2017 19:14:17
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+07-07-2017 19:13:18
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+10-07-2017 19:12:33
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+11-07-2017 19:12:33
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+12-07-2017 19:12:50
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+01-01-2018 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+02-01-2018 19:12:23
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone
+
+
+03-01-2018 19:12:25
+Stock Name=OCK GROUP BERHAD 
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone

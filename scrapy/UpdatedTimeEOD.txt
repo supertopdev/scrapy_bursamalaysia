@@ -1,0 +1,12550 @@
+
+
+2015-05-04 18:10:24
+2015-05-04 18:10:24
+Close=0.895
+Adjustment=+0.005
+Open=0.890
+High=0.895
+Low=0.890
+Volume=4275None
+
+
+2015-05-05 18:10:24
+2015-05-05 18:10:24
+Close=0.890
+Adjustment=-0.005
+Open=0.890
+High=0.895
+Low=0.890
+Volume=2816None
+
+
+2015-05-06 18:11:29
+2015-05-06 18:11:29
+Close=0.865
+Adjustment=-0.025
+Open=0.885
+High=0.885
+Low=0.865
+Volume=14890None
+
+
+2015-05-07 18:11:39
+2015-05-07 18:11:39
+Close=0.865
+Adjustment=-
+Open=0.865
+High=0.865
+Low=0.860
+Volume=4108None
+
+
+2015-05-08 18:12:33
+2015-05-08 18:12:33
+Close=0.880
+Adjustment=+0.015
+Open=0.870
+High=0.890
+Low=0.870
+Volume=1770None
+
+
+2015-05-11 18:10:25
+2015-05-11 18:10:25
+Close=0.875
+Adjustment=-0.005
+Open=0.880
+High=0.880
+Low=0.875
+Volume=2500None
+
+
+2015-05-12 18:10:25
+2015-05-12 18:10:25
+Close=0.870
+Adjustment=-0.005
+Open=0.865
+High=0.875
+Low=0.860
+Volume=4093None
+
+
+2015-05-13 18:10:24
+2015-05-13 18:10:24
+Close=0.885
+Adjustment=+0.015
+Open=0.860
+High=0.885
+Low=0.860
+Volume=1395None
+
+
+2015-05-14 18:10:25
+2015-05-14 18:10:25
+Close=0.870
+Adjustment=-0.015
+Open=0.870
+High=0.880
+Low=0.870
+Volume=1897None
+
+
+2015-05-15 18:10:24
+2015-05-15 18:10:24
+Close=0.865
+Adjustment=-0.005
+Open=0.870
+High=0.870
+Low=0.860
+Volume=1327None
+
+
+2015-05-18 18:12:34
+2015-05-18 18:12:34
+Close=0.860
+Adjustment=-0.005
+Open=0.865
+High=0.865
+Low=0.855
+Volume=5210None
+
+
+2015-05-19 18:10:24
+2015-05-19 18:10:24
+Close=0.865
+Adjustment=+0.005
+Open=0.870
+High=0.875
+Low=0.865
+Volume=1325None
+
+
+2015-05-20 18:10:23
+2015-05-20 18:10:23
+Close=0.870
+Adjustment=+0.005
+Open=0.870
+High=0.885
+Low=0.865
+Volume=11403None
+
+
+2015-05-21 18:10:25
+2015-05-21 18:10:25
+Close=0.865
+Adjustment=-0.005
+Open=0.870
+High=0.870
+Low=0.865
+Volume=7366None
+
+
+2015-05-22 18:10:25
+2015-05-22 18:10:25
+Close=0.850
+Adjustment=-0.015
+Open=0.865
+High=0.865
+Low=0.845
+Volume=6056None
+
+
+2015-05-25 18:10:40
+2015-05-25 18:10:40
+Close=0.840
+Adjustment=-0.010
+Open=0.850
+High=0.850
+Low=0.835
+Volume=4312None
+
+
+2015-05-26 18:10:24
+2015-05-26 18:10:24
+Close=0.850
+Adjustment=+0.010
+Open=0.840
+High=0.855
+Low=0.840
+Volume=4144None
+
+
+2015-05-27 18:10:25
+2015-05-27 18:10:25
+Close=0.850
+Adjustment=-
+Open=0.850
+High=0.850
+Low=0.840
+Volume=3095None
+
+
+2015-05-28 18:13:19
+2015-05-28 18:13:19
+Close=0.850
+Adjustment=-
+Open=0.850
+High=0.860
+Low=0.840
+Volume=1992None
+
+
+2015-05-29 18:10:24
+2015-05-29 18:10:24
+Close=0.840
+Adjustment=-0.010
+Open=0.845
+High=0.845
+Low=0.835
+Volume=1361None
+
+
+2015-06-01 18:10:24
+2015-06-01 18:10:24
+Close=0.835
+Adjustment=-0.005
+Open=0.840
+High=0.840
+Low=0.825
+Volume=2034None
+
+
+2015-06-02 18:10:23
+2015-06-02 18:10:23
+Close=0.830
+Adjustment=-0.005
+Open=0.830
+High=0.840
+Low=0.830
+Volume=4393None
+
+
+2015-06-03 18:10:29
+2015-06-03 18:10:29
+Close=0.855
+Adjustment=+0.025
+Open=0.830
+High=0.855
+Low=0.830
+Volume=4189None
+
+
+2015-06-04 18:10:24
+2015-06-04 18:10:24
+Close=0.855
+Adjustment=-
+Open=0.850
+High=0.865
+Low=0.850
+Volume=8241None
+
+
+2015-06-05 18:10:24
+2015-06-05 18:10:24
+Close=0.855
+Adjustment=-
+Open=0.850
+High=0.855
+Low=0.850
+Volume=2743None
+
+
+2015-06-08 18:10:34
+2015-06-08 18:10:34
+Close=0.845
+Adjustment=-0.010
+Open=0.845
+High=0.850
+Low=0.835
+Volume=480None
+
+
+2015-06-09 18:10:29
+2015-06-09 18:10:29
+Close=0.845
+Adjustment=-
+Open=0.840
+High=0.850
+Low=0.840
+Volume=1163None
+
+
+2015-06-10 18:10:30
+2015-06-10 18:10:30
+Close=0.850
+Adjustment=+0.005
+Open=0.845
+High=0.850
+Low=0.840
+Volume=3263None
+
+
+2015-06-11 18:10:42
+2015-06-11 18:10:42
+Close=0.850
+Adjustment=-
+Open=0.850
+High=0.855
+Low=0.845
+Volume=5907None
+
+
+2015-06-12 18:10:24
+2015-06-12 18:10:24
+Close=0.845
+Adjustment=-0.005
+Open=0.850
+High=0.855
+Low=0.845
+Volume=5014None
+
+
+2015-06-15 18:10:24
+2015-06-15 18:10:24
+Close=0.815
+Adjustment=-0.030
+Open=0.840
+High=0.840
+Low=0.815
+Volume=2845None
+
+
+2015-06-16 18:10:24
+2015-06-16 18:10:24
+Close=0.815
+Adjustment=-
+Open=0.820
+High=0.820
+Low=0.810
+Volume=8388None
+
+
+2015-06-17 18:10:24
+2015-06-17 18:10:24
+Close=0.825
+Adjustment=+0.010
+Open=0.815
+High=0.825
+Low=0.810
+Volume=1584None
+
+
+2015-06-18 18:10:25
+2015-06-18 18:10:25
+Close=0.815
+Adjustment=-0.010
+Open=0.820
+High=0.845
+Low=0.815
+Volume=6166None
+
+
+2015-06-19 18:10:24
+2015-06-19 18:10:24
+Close=0.840
+Adjustment=+0.025
+Open=0.825
+High=0.840
+Low=0.825
+Volume=1816None
+
+
+2015-06-22 18:10:24
+2015-06-22 18:10:24
+Close=0.845
+Adjustment=+0.005
+Open=0.840
+High=0.860
+Low=0.840
+Volume=5512None
+
+
+2015-06-23 18:10:26
+2015-06-23 18:10:26
+Close=0.840
+Adjustment=-0.005
+Open=0.850
+High=0.850
+Low=0.835
+Volume=880None
+
+
+2015-06-24 18:10:24
+2015-06-24 18:10:24
+Close=0.820
+Adjustment=-0.020
+Open=0.830
+High=0.830
+Low=0.815
+Volume=9030None
+
+
+2015-06-25 18:10:25
+2015-06-25 18:10:25
+Close=0.840
+Adjustment=+0.020
+Open=0.820
+High=0.845
+Low=0.820
+Volume=9682None
+
+
+2015-06-26 18:10:24
+2015-06-26 18:10:24
+Close=0.840
+Adjustment=-
+Open=0.840
+High=0.850
+Low=0.840
+Volume=6849None
+
+
+2015-06-29 18:10:58
+2015-06-29 18:10:58
+Close=0.820
+Adjustment=-0.020
+Open=0.835
+High=0.835
+Low=0.815
+Volume=3608None
+
+
+2015-06-30 18:11:51
+2015-06-30 18:11:51
+Close=0.830
+Adjustment=+0.010
+Open=0.815
+High=0.830
+Low=0.815
+Volume=2544None
+
+
+2015-07-01 18:10:34
+2015-07-01 18:10:34
+Close=0.835
+Adjustment=+0.005
+Open=0.830
+High=0.840
+Low=0.830
+Volume=3387None
+
+
+2015-07-02 18:10:24
+2015-07-02 18:10:24
+Close=0.840
+Adjustment=+0.005
+Open=0.840
+High=0.845
+Low=0.825
+Volume=5855None
+
+
+2015-09-28 19:20:28
+2015-09-28 19:20:28
+Close=0.755
+Adjustment=-0.005
+Open=0.755
+High=0.755
+Low=0.745
+Volume=855None
+
+
+2015-09-28 19:21:22
+2015-09-28 19:21:22
+Close=0.755
+Adjustment=-0.005
+Open=0.755
+High=0.755
+Low=0.745
+Volume=855None
+
+
+2015-09-29 18:10:24
+2015-09-29 18:10:24
+Close=0.750
+Adjustment=-0.005
+Open=0.745
+High=0.750
+Low=0.745
+Volume=1233None
+
+
+2015-09-30 18:10:24
+2015-09-30 18:10:24
+Close=0.760
+Adjustment=+0.010
+Open=0.740
+High=0.760
+Low=0.730
+Volume=710None
+
+
+2015-10-01 18:11:53
+2015-10-01 18:11:53
+Close=0.760
+Adjustment=-
+Open=0.755
+High=0.765
+Low=0.735
+Volume=709None
+
+
+2015-10-02 18:10:24
+2015-10-02 18:10:24
+Close=0.755
+Adjustment=-0.005
+Open=0.755
+High=0.755
+Low=0.755
+Volume=40None
+
+
+2015-10-05 18:10:24
+2015-10-05 18:10:24
+Close=0.760
+Adjustment=+0.005
+Open=0.750
+High=0.760
+Low=0.750
+Volume=135None
+
+
+2015-10-06 18:12:09
+2015-10-06 18:12:09
+Close=0.770
+Adjustment=+0.010
+Open=0.750
+High=0.785
+Low=0.750
+Volume=4292None
+
+
+2015-10-07 18:10:24
+2015-10-07 18:10:24
+Close=0.820
+Adjustment=+0.050
+Open=0.770
+High=0.820
+Low=0.770
+Volume=10003None
+
+
+2015-10-08 18:10:25
+2015-10-08 18:10:25
+Close=0.835
+Adjustment=+0.015
+Open=0.820
+High=0.840
+Low=0.810
+Volume=23885None
+
+
+2015-10-09 18:10:24
+2015-10-09 18:10:24
+Close=0.830
+Adjustment=-0.005
+Open=0.835
+High=0.840
+Low=0.825
+Volume=8196None
+
+
+2015-10-12 18:10:55
+2015-10-12 18:10:55
+Close=0.820
+Adjustment=-0.010
+Open=0.820
+High=0.830
+Low=0.810
+Volume=1692None
+
+
+2015-10-13 18:10:25
+2015-10-13 18:10:25
+Close=0.800
+Adjustment=-0.020
+Open=0.815
+High=0.815
+Low=0.800
+Volume=390None
+
+
+2015-10-14 18:10:23
+2015-10-14 18:10:23
+Close=0.800
+Adjustment=-0.020
+Open=0.815
+High=0.815
+Low=0.800
+Volume=390None
+
+
+2015-10-15 18:10:24
+2015-10-15 18:10:24
+Close=0.770
+Adjustment=-0.030
+Open=0.800
+High=0.800
+Low=0.765
+Volume=5827None
+
+
+2015-10-16 18:10:25
+2015-10-16 18:10:25
+Close=0.820
+Adjustment=+0.050
+Open=0.770
+High=0.825
+Low=0.770
+Volume=11534None
+
+
+2015-10-19 18:10:29
+2015-10-19 18:10:29
+Close=0.800
+Adjustment=-0.020
+Open=0.810
+High=0.815
+Low=0.800
+Volume=2238None
+
+
+2015-10-20 18:10:24
+2015-10-20 18:10:24
+Close=0.775
+Adjustment=-0.025
+Open=0.795
+High=0.795
+Low=0.775
+Volume=3405None
+
+
+2015-10-21 18:11:22
+2015-10-21 18:11:22
+Close=0.790
+Adjustment=+0.015
+Open=0.780
+High=0.795
+Low=0.780
+Volume=2903None
+
+
+2015-10-22 18:10:31
+2015-10-22 18:10:31
+Close=0.790
+Adjustment=-
+Open=0.790
+High=0.795
+Low=0.780
+Volume=7980None
+
+
+2015-10-23 18:10:23
+2015-10-23 18:10:23
+Close=0.785
+Adjustment=-0.005
+Open=0.790
+High=0.795
+Low=0.785
+Volume=2880None
+
+
+2015-10-26 18:10:24
+2015-10-26 18:10:24
+Close=0.790
+Adjustment=+0.005
+Open=0.780
+High=0.810
+Low=0.780
+Volume=8413None
+
+
+2015-10-27 18:10:26
+2015-10-27 18:10:26
+Close=0.810
+Adjustment=+0.020
+Open=0.795
+High=0.815
+Low=0.785
+Volume=7152None
+
+
+2015-10-28 18:10:23
+2015-10-28 18:10:23
+Close=0.805
+Adjustment=-0.005
+Open=0.810
+High=0.815
+Low=0.805
+Volume=3011None
+
+
+2015-10-29 18:10:26
+2015-10-29 18:10:26
+Close=0.795
+Adjustment=-0.010
+Open=0.805
+High=0.810
+Low=0.795
+Volume=1485None
+
+
+2015-10-30 18:10:24
+2015-10-30 18:10:24
+Close=0.795
+Adjustment=-
+Open=0.790
+High=0.795
+Low=0.790
+Volume=6088None
+
+
+2015-11-02 18:10:24
+2015-11-02 18:10:24
+Close=0.820
+Adjustment=+0.025
+Open=0.790
+High=0.825
+Low=0.790
+Volume=12989None
+
+
+2015-11-03 18:10:31
+2015-11-03 18:10:31
+Close=0.810
+Adjustment=-0.010
+Open=0.820
+High=0.820
+Low=0.805
+Volume=4654None
+
+
+2015-11-04 18:10:25
+2015-11-04 18:10:25
+Close=0.805
+Adjustment=-0.005
+Open=0.810
+High=0.810
+Low=0.805
+Volume=520None
+
+
+2015-11-05 18:10:34
+2015-11-05 18:10:34
+Close=0.810
+Adjustment=+0.005
+Open=0.805
+High=0.820
+Low=0.805
+Volume=3074None
+
+
+2015-11-06 18:10:24
+2015-11-06 18:10:24
+Close=0.805
+Adjustment=-0.005
+Open=0.810
+High=0.810
+Low=0.795
+Volume=3766None
+
+
+2015-11-09 18:10:25
+2015-11-09 18:10:25
+Close=0.815
+Adjustment=+0.010
+Open=0.810
+High=0.825
+Low=0.800
+Volume=34048None
+
+
+2015-11-10 18:10:23
+2015-11-10 18:10:23
+Close=0.815
+Adjustment=+0.010
+Open=0.810
+High=0.825
+Low=0.800
+Volume=34048None
+
+
+2015-11-11 18:10:24
+2015-11-11 18:10:24
+Close=0.810
+Adjustment=-0.005
+Open=0.810
+High=0.810
+Low=0.800
+Volume=11799None
+
+
+2015-11-12 18:10:23
+2015-11-12 18:10:23
+Close=0.810
+Adjustment=-
+Open=0.805
+High=0.810
+Low=0.800
+Volume=11921None
+
+
+2015-11-13 18:10:25
+2015-11-13 18:10:25
+Close=0.795
+Adjustment=-0.015
+Open=0.805
+High=0.805
+Low=0.795
+Volume=8657None
+
+
+2015-11-16 18:10:24
+2015-11-16 18:10:24
+Close=0.795
+Adjustment=-
+Open=0.795
+High=0.800
+Low=0.790
+Volume=5243None
+
+
+2015-11-17 18:10:23
+2015-11-17 18:10:23
+Close=0.790
+Adjustment=-0.005
+Open=0.795
+High=0.795
+Low=0.775
+Volume=13693None
+
+
+2015-11-18 18:11:58
+2015-11-18 18:11:58
+Close=0.795
+Adjustment=+0.005
+Open=0.785
+High=0.800
+Low=0.780
+Volume=17219None
+
+
+2015-11-19 18:10:30
+2015-11-19 18:10:30
+Close=0.655
+Adjustment=-0.040
+Open=0.670
+High=0.670
+Low=0.640
+Volume=8367None
+
+
+2015-11-20 18:10:39
+2015-11-20 18:10:39
+Close=0.700
+Adjustment=+0.045
+Open=0.665
+High=0.715
+Low=0.660
+Volume=22591None
+
+
+2015-11-23 18:11:01
+2015-11-23 18:11:01
+Close=0.700
+Adjustment=-
+Open=0.710
+High=0.715
+Low=0.690
+Volume=11719None
+
+
+2015-11-24 18:10:36
+2015-11-24 18:10:36
+Close=0.675
+Adjustment=-0.025
+Open=0.695
+High=0.695
+Low=0.665
+Volume=6403None
+
+
+2015-11-25 18:10:43
+2015-11-25 18:10:43
+Close=0.675
+Adjustment=-
+Open=0.675
+High=0.700
+Low=0.670
+Volume=9507None
+
+
+2015-11-26 18:11:41
+2015-11-26 18:11:41
+Close=0.690
+Adjustment=+0.015
+Open=0.675
+High=0.695
+Low=0.675
+Volume=7380None
+
+
+2015-11-27 18:10:39
+2015-11-27 18:10:39
+Close=0.705
+Adjustment=+0.015
+Open=0.700
+High=0.705
+Low=0.690
+Volume=12138None
+
+
+2015-11-30 18:11:00
+2015-11-30 18:11:00
+Close=0.710
+Adjustment=+0.005
+Open=0.710
+High=0.730
+Low=0.700
+Volume=12571None
+
+
+2015-12-01 18:10:23
+2015-12-01 18:10:23
+Close=0.725
+Adjustment=+0.015
+Open=0.715
+High=0.725
+Low=0.710
+Volume=9271None
+
+
+2015-12-02 18:12:06
+2015-12-02 18:12:06
+Close=0.725
+Adjustment=-
+Open=0.730
+High=0.735
+Low=0.720
+Volume=12136None
+
+
+2015-12-03 18:10:23
+2015-12-03 18:10:23
+Close=0.725
+Adjustment=-
+Open=0.725
+High=0.730
+Low=0.725
+Volume=8627None
+
+
+2015-12-04 18:10:23
+2015-12-04 18:10:23
+Close=0.725
+Adjustment=-
+Open=0.725
+High=0.725
+Low=0.720
+Volume=8115None
+
+
+2015-12-07 18:10:24
+2015-12-07 18:10:24
+Close=0.725
+Adjustment=-
+Open=0.730
+High=0.735
+Low=0.725
+Volume=7110None
+
+
+2015-12-08 18:10:30
+2015-12-08 18:10:30
+Close=0.725
+Adjustment=-
+Open=0.725
+High=0.730
+Low=0.720
+Volume=8840None
+
+
+2015-12-09 18:10:23
+2015-12-09 18:10:23
+Close=0.730
+Adjustment=+0.005
+Open=0.725
+High=0.730
+Low=0.715
+Volume=3196None
+
+
+2015-12-10 18:10:26
+2015-12-10 18:10:26
+Close=0.730
+Adjustment=-
+Open=0.725
+High=0.730
+Low=0.700
+Volume=8595None
+
+
+2015-12-11 18:10:23
+2015-12-11 18:10:23
+Close=0.730
+Adjustment=-
+Open=0.730
+High=0.765
+Low=0.730
+Volume=8279None
+
+
+2015-12-14 18:10:29
+2015-12-14 18:10:29
+Close=0.725
+Adjustment=-0.005
+Open=0.730
+High=0.730
+Low=0.725
+Volume=3079None
+
+
+2015-12-15 18:10:23
+2015-12-15 18:10:23
+Close=0.725
+Adjustment=-
+Open=0.720
+High=0.725
+Low=0.710
+Volume=595None
+
+
+2015-12-16 18:11:10
+2015-12-16 18:11:10
+Close=0.725
+Adjustment=-
+Open=0.720
+High=0.725
+Low=0.710
+Volume=2985None
+
+
+2015-12-17 18:10:27
+2015-12-17 18:10:27
+Close=0.715
+Adjustment=-0.010
+Open=0.710
+High=0.720
+Low=0.705
+Volume=31109None
+
+
+2015-12-18 18:11:12
+2015-12-18 18:11:12
+Close=0.705
+Adjustment=-0.010
+Open=0.700
+High=0.710
+Low=0.695
+Volume=12630None
+
+
+2015-12-21 18:10:24
+2015-12-21 18:10:24
+Close=0.675
+Adjustment=-0.030
+Open=0.700
+High=0.700
+Low=0.660
+Volume=12178None
+
+
+2015-12-22 18:10:29
+2015-12-22 18:10:29
+Close=0.680
+Adjustment=+0.005
+Open=0.670
+High=0.690
+Low=0.655
+Volume=45078None
+
+
+2015-12-23 18:10:23
+2015-12-23 18:10:23
+Close=0.675
+Adjustment=-0.005
+Open=0.685
+High=0.700
+Low=0.675
+Volume=16702None
+
+
+2015-12-24 18:10:24
+2015-12-24 18:10:24
+Close=0.675
+Adjustment=-0.005
+Open=0.685
+High=0.700
+Low=0.675
+Volume=16702None
+
+
+2015-12-25 18:10:23
+2015-12-25 18:10:23
+Close=0.675
+Adjustment=-0.005
+Open=0.685
+High=0.700
+Low=0.675
+Volume=16702None
+
+
+2015-12-28 18:10:23
+2015-12-28 18:10:23
+Close=0.670
+Adjustment=-0.005
+Open=0.675
+High=0.695
+Low=0.665
+Volume=16509None
+
+
+2015-12-29 18:10:26
+2015-12-29 18:10:26
+Close=0.675
+Adjustment=+0.005
+Open=0.675
+High=0.680
+Low=0.665
+Volume=5060None
+
+
+2015-12-30 18:10:24
+2015-12-30 18:10:24
+Close=0.675
+Adjustment=-
+Open=0.675
+High=0.675
+Low=0.660
+Volume=19531None
+
+
+2015-12-31 18:10:23
+2015-12-31 18:10:23
+Close=0.675
+Adjustment=-
+Open=0.670
+High=0.680
+Low=0.670
+Volume=5789None
+
+
+2016-01-01 18:10:24
+2016-01-01 18:10:24
+Close=0.675
+Adjustment=-
+Open=0.670
+High=0.680
+Low=0.670
+Volume=5789None
+
+
+2016-01-04 18:10:24
+2016-01-04 18:10:24
+Close=0.680
+Adjustment=+0.005
+Open=0.670
+High=0.680
+Low=0.665
+Volume=7055None
+
+
+2016-01-05 18:10:27
+2016-01-05 18:10:27
+Close=0.710
+Adjustment=+0.030
+Open=0.680
+High=0.710
+Low=0.680
+Volume=41323None
+
+
+2016-01-06 18:10:23
+2016-01-06 18:10:23
+Close=0.735
+Adjustment=+0.025
+Open=0.715
+High=0.735
+Low=0.710
+Volume=40342None
+
+
+2016-01-07 18:10:24
+2016-01-07 18:10:24
+Close=0.720
+Adjustment=-0.015
+Open=0.730
+High=0.755
+Low=0.710
+Volume=59276None
+
+
+2016-01-08 18:10:24
+2016-01-08 18:10:24
+Close=0.730
+Adjustment=+0.010
+Open=0.705
+High=0.735
+Low=0.705
+Volume=41105None
+
+
+2016-01-11 18:10:28
+2016-01-11 18:10:28
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2016-01-12 18:10:24
+2016-01-12 18:10:24
+Close=0.715
+Adjustment=-0.005
+Open=0.710
+High=0.720
+Low=0.710
+Volume=6626None
+
+
+2016-01-13 18:10:24
+2016-01-13 18:10:24
+Close=0.720
+Adjustment=+0.005
+Open=0.715
+High=0.725
+Low=0.715
+Volume=17645None
+
+
+2016-01-14 18:10:23
+2016-01-14 18:10:23
+Close=0.730
+Adjustment=+0.010
+Open=0.720
+High=0.755
+Low=0.710
+Volume=104195None
+
+
+2016-01-15 18:10:24
+2016-01-15 18:10:24
+Close=0.715
+Adjustment=-0.015
+Open=0.725
+High=0.730
+Low=0.715
+Volume=25380None
+
+
+2016-01-18 18:10:24
+2016-01-18 18:10:24
+Close=0.705
+Adjustment=-0.010
+Open=0.705
+High=0.705
+Low=0.690
+Volume=6739None
+
+
+2016-01-19 18:10:24
+2016-01-19 18:10:24
+Close=0.700
+Adjustment=-0.005
+Open=0.710
+High=0.710
+Low=0.695
+Volume=8548None
+
+
+2016-01-20 18:10:24
+2016-01-20 18:10:24
+Close=0.695
+Adjustment=-0.005
+Open=0.700
+High=0.705
+Low=0.680
+Volume=10831None
+
+
+2016-01-21 18:10:25
+2016-01-21 18:10:25
+Close=0.665
+Adjustment=-0.030
+Open=0.690
+High=0.690
+Low=0.660
+Volume=13400None
+
+
+2016-01-22 18:10:24
+2016-01-22 18:10:24
+Close=0.685
+Adjustment=+0.020
+Open=0.670
+High=0.685
+Low=0.670
+Volume=7316None
+
+
+2016-01-25 18:10:25
+2016-01-25 18:10:25
+Close=0.685
+Adjustment=+0.020
+Open=0.670
+High=0.685
+Low=0.670
+Volume=7316None
+
+
+2016-01-26 18:10:24
+2016-01-26 18:10:24
+Close=0.670
+Adjustment=-0.015
+Open=0.670
+High=0.695
+Low=0.665
+Volume=12606None
+
+
+2016-01-27 18:10:24
+2016-01-27 18:10:24
+Close=0.665
+Adjustment=-0.005
+Open=0.675
+High=0.675
+Low=0.665
+Volume=7283None
+
+
+2016-01-28 18:10:28
+2016-01-28 18:10:28
+Close=0.665
+Adjustment=-
+Open=0.665
+High=0.675
+Low=0.660
+Volume=2672None
+
+
+2016-01-29 18:10:24
+2016-01-29 18:10:24
+Close=0.670
+Adjustment=+0.005
+Open=0.665
+High=0.675
+Low=0.665
+Volume=2403None
+
+
+2016-02-01 18:10:23
+2016-02-01 18:10:23
+Close=0.670
+Adjustment=+0.005
+Open=0.665
+High=0.675
+Low=0.665
+Volume=2403None
+
+
+2016-02-02 18:10:23
+2016-02-02 18:10:23
+Close=0.675
+Adjustment=+0.005
+Open=0.675
+High=0.675
+Low=0.665
+Volume=2209None
+
+
+2016-02-03 18:10:24
+2016-02-03 18:10:24
+Close=0.675
+Adjustment=-
+Open=0.675
+High=0.695
+Low=0.660
+Volume=4840None
+
+
+2016-02-04 18:10:22
+2016-02-04 18:10:22
+Close=0.685
+Adjustment=+0.010
+Open=0.680
+High=0.690
+Low=0.675
+Volume=4295None
+
+
+2016-02-05 18:10:24
+2016-02-05 18:10:24
+Close=0.710
+Adjustment=+0.025
+Open=0.685
+High=0.715
+Low=0.685
+Volume=28766None
+
+
+2016-02-08 18:10:25
+2016-02-08 18:10:25
+Close=0.710
+Adjustment=+0.025
+Open=0.685
+High=0.715
+Low=0.685
+Volume=28766None
+
+
+2016-02-09 18:10:24
+2016-02-09 18:10:24
+Close=0.710
+Adjustment=+0.025
+Open=0.685
+High=0.715
+Low=0.685
+Volume=28766None
+
+
+2016-02-10 18:10:24
+2016-02-10 18:10:24
+Close=0.700
+Adjustment=-0.010
+Open=0.700
+High=0.700
+Low=0.685
+Volume=905None
+
+
+2016-02-11 18:10:24
+2016-02-11 18:10:24
+Close=0.690
+Adjustment=-0.010
+Open=0.695
+High=0.695
+Low=0.690
+Volume=1295None
+
+
+2016-02-12 18:10:48
+2016-02-12 18:10:48
+Close=0.695
+Adjustment=+0.005
+Open=0.685
+High=0.695
+Low=0.680
+Volume=3960None
+
+
+2016-02-15 18:10:26
+2016-02-15 18:10:26
+Close=0.700
+Adjustment=+0.005
+Open=0.680
+High=0.700
+Low=0.680
+Volume=727None
+
+
+2016-02-16 18:10:24
+2016-02-16 18:10:24
+Close=0.710
+Adjustment=+0.010
+Open=0.695
+High=0.715
+Low=0.695
+Volume=11566None
+
+
+2016-02-17 18:10:25
+2016-02-17 18:10:25
+Close=0.710
+Adjustment=-
+Open=0.710
+High=0.710
+Low=0.710
+Volume=3540None
+
+
+2016-02-18 18:11:03
+2016-02-18 18:11:03
+Close=0.700
+Adjustment=-0.010
+Open=0.700
+High=0.700
+Low=0.695
+Volume=2477None
+
+
+2016-02-19 18:12:04
+2016-02-19 18:12:04
+Close=0.710
+Adjustment=+0.010
+Open=0.700
+High=0.710
+Low=0.700
+Volume=10075None
+
+
+2016-02-22 18:10:24
+2016-02-22 18:10:24
+Close=0.700
+Adjustment=-0.010
+Open=0.700
+High=0.700
+Low=0.685
+Volume=2230None
+
+
+2016-02-23 18:10:25
+2016-02-23 18:10:25
+Close=0.700
+Adjustment=-
+Open=0.700
+High=0.705
+Low=0.695
+Volume=5548None
+
+
+2016-02-24 18:11:02
+2016-02-24 18:11:02
+Close=0.690
+Adjustment=-0.010
+Open=0.700
+High=0.700
+Low=0.690
+Volume=1854None
+
+
+2016-02-25 18:11:07
+2016-02-25 18:11:07
+Close=0.700
+Adjustment=+0.010
+Open=0.695
+High=0.705
+Low=0.695
+Volume=8886None
+
+
+2016-02-26 18:11:11
+2016-02-26 18:11:11
+Close=0.695
+Adjustment=-0.005
+Open=0.695
+High=0.700
+Low=0.695
+Volume=1179None
+
+
+2016-02-29 18:10:31
+2016-02-29 18:10:31
+Close=0.700
+Adjustment=+0.005
+Open=0.690
+High=0.700
+Low=0.690
+Volume=798None
+
+
+2016-03-01 18:11:57
+2016-03-01 18:11:57
+Close=0.720
+Adjustment=+0.020
+Open=0.710
+High=0.720
+Low=0.700
+Volume=8129None
+
+
+2016-03-02 18:10:24
+2016-03-02 18:10:24
+Close=0.710
+Adjustment=-0.010
+Open=0.710
+High=0.710
+Low=0.700
+Volume=1382None
+
+
+2016-03-03 18:10:23
+2016-03-03 18:10:23
+Close=0.710
+Adjustment=-
+Open=0.710
+High=0.715
+Low=0.705
+Volume=6470None
+
+
+2016-03-04 18:10:25
+2016-03-04 18:10:25
+Close=0.715
+Adjustment=+0.005
+Open=0.710
+High=0.715
+Low=0.710
+Volume=7585None
+
+
+2016-03-07 18:10:29
+2016-03-07 18:10:29
+Close=0.710
+Adjustment=-0.005
+Open=0.710
+High=0.715
+Low=0.705
+Volume=4024None
+
+
+2016-03-08 18:10:25
+2016-03-08 18:10:25
+Close=0.695
+Adjustment=-0.015
+Open=0.710
+High=0.710
+Low=0.695
+Volume=7305None
+
+
+2016-03-09 18:10:25
+2016-03-09 18:10:25
+Close=0.695
+Adjustment=-
+Open=0.695
+High=0.695
+Low=0.695
+Volume=5849None
+
+
+2016-03-10 18:10:25
+2016-03-10 18:10:25
+Close=0.695
+Adjustment=-
+Open=0.710
+High=0.710
+Low=0.695
+Volume=2194None
+
+
+2016-03-11 18:10:30
+2016-03-11 18:10:30
+Close=0.710
+Adjustment=+0.015
+Open=0.700
+High=0.710
+Low=0.700
+Volume=5019None
+
+
+2016-03-14 18:10:27
+2016-03-14 18:10:27
+Close=0.725
+Adjustment=+0.015
+Open=0.715
+High=0.725
+Low=0.715
+Volume=10418None
+
+
+2016-03-15 18:10:28
+2016-03-15 18:10:28
+Close=0.800
+Adjustment=+0.075
+Open=0.730
+High=0.805
+Low=0.730
+Volume=125468None
+
+
+2016-03-16 18:10:28
+2016-03-16 18:10:28
+Close=0.785
+Adjustment=-0.015
+Open=0.800
+High=0.810
+Low=0.755
+Volume=65016None
+
+
+2016-03-17 18:10:29
+2016-03-17 18:10:29
+Close=0.790
+Adjustment=+0.005
+Open=0.785
+High=0.805
+Low=0.770
+Volume=115202None
+
+
+2016-03-18 18:10:31
+2016-03-18 18:10:31
+Close=0.835
+Adjustment=+0.045
+Open=0.800
+High=0.840
+Low=0.800
+Volume=87640None
+
+
+2016-03-21 18:10:35
+2016-03-21 18:10:35
+Close=0.825
+Adjustment=-0.010
+Open=0.840
+High=0.840
+Low=0.805
+Volume=18919None
+
+
+2016-03-22 18:12:48
+2016-03-22 18:12:48
+Close=0.825
+Adjustment=-
+Open=0.825
+High=0.840
+Low=0.805
+Volume=24778None
+
+
+2016-03-23 18:10:31
+2016-03-23 18:10:31
+Close=0.815
+Adjustment=-0.010
+Open=0.825
+High=0.830
+Low=0.790
+Volume=51070None
+
+
+2016-03-24 18:10:31
+2016-03-24 18:10:31
+Close=0.815
+Adjustment=-
+Open=0.810
+High=0.825
+Low=0.795
+Volume=36522None
+
+
+2016-03-25 18:10:33
+2016-03-25 18:10:33
+Close=0.795
+Adjustment=-0.020
+Open=0.825
+High=0.830
+Low=0.795
+Volume=97774None
+
+
+2016-03-28 18:10:33
+2016-03-28 18:10:33
+Close=0.780
+Adjustment=-0.005
+Open=0.780
+High=0.785
+Low=0.765
+Volume=27438None
+
+
+2016-03-29 18:10:41
+2016-03-29 18:10:41
+Close=0.775
+Adjustment=-0.005
+Open=0.780
+High=0.785
+Low=0.765
+Volume=29374None
+
+
+2016-03-30 18:10:40
+2016-03-30 18:10:40
+Close=0.770
+Adjustment=-0.005
+Open=0.775
+High=0.775
+Low=0.765
+Volume=18092None
+
+
+2016-03-31 18:10:31
+2016-03-31 18:10:31
+Close=0.775
+Adjustment=+0.005
+Open=0.770
+High=0.775
+Low=0.760
+Volume=22615None
+
+
+2016-04-01 18:10:33
+2016-04-01 18:10:33
+Close=0.770
+Adjustment=-0.005
+Open=0.765
+High=0.775
+Low=0.760
+Volume=25480None
+
+
+2016-04-04 18:10:43
+2016-04-04 18:10:43
+Close=0.800
+Adjustment=+0.030
+Open=0.770
+High=0.805
+Low=0.765
+Volume=41758None
+
+
+2016-04-05 18:10:30
+2016-04-05 18:10:30
+Close=0.820
+Adjustment=+0.020
+Open=0.810
+High=0.820
+Low=0.785
+Volume=27525None
+
+
+2016-04-06 18:10:36
+2016-04-06 18:10:36
+Close=0.800
+Adjustment=-0.020
+Open=0.810
+High=0.825
+Low=0.795
+Volume=28291None
+
+
+2016-04-07 18:10:34
+2016-04-07 18:10:34
+Close=0.800
+Adjustment=-
+Open=0.790
+High=0.805
+Low=0.790
+Volume=2237None
+
+
+2016-04-08 18:10:34
+2016-04-08 18:10:34
+Close=0.810
+Adjustment=+0.010
+Open=0.800
+High=0.810
+Low=0.790
+Volume=7687None
+
+
+2016-04-11 18:11:45
+2016-04-11 18:11:45
+Close=0.800
+Adjustment=-0.010
+Open=0.810
+High=0.815
+Low=0.790
+Volume=5305None
+
+
+2016-04-12 18:10:32
+2016-04-12 18:10:32
+Close=0.800
+Adjustment=-
+Open=0.800
+High=0.805
+Low=0.790
+Volume=4626None
+
+
+2016-04-13 18:11:17
+2016-04-13 18:11:17
+Close=0.800
+Adjustment=-
+Open=0.800
+High=0.805
+Low=0.795
+Volume=3252None
+
+
+2016-04-14 18:10:24
+2016-04-14 18:10:24
+Close=0.795
+Adjustment=-0.005
+Open=0.800
+High=0.805
+Low=0.795
+Volume=4886None
+
+
+2016-04-15 18:10:38
+2016-04-15 18:10:38
+Close=0.800
+Adjustment=+0.005
+Open=0.800
+High=0.805
+Low=0.790
+Volume=4813None
+
+
+2016-04-18 18:10:30
+2016-04-18 18:10:30
+Close=0.800
+Adjustment=-
+Open=0.790
+High=0.805
+Low=0.790
+Volume=2521None
+
+
+2016-04-19 18:10:34
+2016-04-19 18:10:34
+Close=0.820
+Adjustment=+0.020
+Open=0.795
+High=0.825
+Low=0.795
+Volume=22722None
+
+
+2016-04-20 18:10:37
+2016-04-20 18:10:37
+Close=0.830
+Adjustment=+0.010
+Open=0.820
+High=0.835
+Low=0.815
+Volume=26755None
+
+
+2016-04-21 18:10:30
+2016-04-21 18:10:30
+Close=0.830
+Adjustment=-
+Open=0.830
+High=0.840
+Low=0.820
+Volume=21531None
+
+
+2016-04-22 18:13:03
+2016-04-22 18:13:03
+Close=0.825
+Adjustment=-0.005
+Open=0.830
+High=0.835
+Low=0.825
+Volume=6806None
+
+
+2016-04-25 18:10:35
+2016-04-25 18:10:35
+Close=0.810
+Adjustment=-0.015
+Open=0.825
+High=0.830
+Low=0.805
+Volume=13036None
+
+
+2016-04-26 18:10:37
+2016-04-26 18:10:37
+Close=0.785
+Adjustment=-0.025
+Open=0.810
+High=0.820
+Low=0.785
+Volume=36124None
+
+
+2016-04-27 18:10:30
+2016-04-27 18:10:30
+Close=0.805
+Adjustment=+0.020
+Open=0.795
+High=0.810
+Low=0.790
+Volume=15889None
+
+
+2016-04-28 18:10:37
+2016-04-28 18:10:37
+Close=0.800
+Adjustment=-0.005
+Open=0.810
+High=0.810
+Low=0.790
+Volume=9670None
+
+
+2016-04-29 18:10:31
+2016-04-29 18:10:31
+Close=0.780
+Adjustment=-0.020
+Open=0.795
+High=0.795
+Low=0.770
+Volume=11705None
+
+
+2016-05-02 18:10:37
+2016-05-02 18:10:37
+Close=0.780
+Adjustment=-0.020
+Open=0.795
+High=0.795
+Low=0.770
+Volume=11705None
+
+
+2016-05-03 18:10:38
+2016-05-03 18:10:38
+Close=0.770
+Adjustment=-0.010
+Open=0.780
+High=0.780
+Low=0.770
+Volume=13055None
+
+
+2016-05-04 18:10:36
+2016-05-04 18:10:36
+Close=0.795
+Adjustment=+0.025
+Open=0.775
+High=0.795
+Low=0.775
+Volume=4691None
+
+
+2016-05-05 18:10:41
+2016-05-05 18:10:41
+Close=0.835
+Adjustment=+0.040
+Open=0.810
+High=0.840
+Low=0.810
+Volume=59989None
+
+
+2016-05-06 18:10:40
+2016-05-06 18:10:40
+Close=0.830
+Adjustment=-0.005
+Open=0.830
+High=0.835
+Low=0.820
+Volume=17475None
+
+
+2016-05-09 18:12:29
+2016-05-09 18:12:29
+Close=0.820
+Adjustment=-0.010
+Open=0.825
+High=0.825
+Low=0.815
+Volume=3773None
+
+
+2016-05-10 18:10:37
+2016-05-10 18:10:37
+Close=0.825
+Adjustment=+0.005
+Open=0.815
+High=0.840
+Low=0.810
+Volume=19109None
+
+
+2016-05-11 18:10:31
+2016-05-11 18:10:31
+Close=0.810
+Adjustment=-0.015
+Open=0.825
+High=0.825
+Low=0.805
+Volume=19175None
+
+
+2016-05-12 18:10:32
+2016-05-12 18:10:32
+Close=0.800
+Adjustment=-0.010
+Open=0.815
+High=0.815
+Low=0.795
+Volume=18169None
+
+
+2016-05-13 18:10:49
+2016-05-13 18:10:49
+Close=0.795
+Adjustment=-0.005
+Open=0.810
+High=0.810
+Low=0.790
+Volume=5875None
+
+
+2016-05-16 18:10:36
+2016-05-16 18:10:36
+Close=0.785
+Adjustment=-0.010
+Open=0.790
+High=0.795
+Low=0.775
+Volume=36719None
+
+
+2016-05-17 18:10:29
+2016-05-17 18:10:29
+Close=0.780
+Adjustment=-0.005
+Open=0.785
+High=0.795
+Low=0.775
+Volume=28169None
+
+
+2016-05-18 18:10:37
+2016-05-18 18:10:37
+Close=0.780
+Adjustment=-
+Open=0.780
+High=0.785
+Low=0.775
+Volume=27525None
+
+
+2016-05-19 18:13:04
+2016-05-19 18:13:04
+Close=0.800
+Adjustment=+0.020
+Open=0.780
+High=0.810
+Low=0.780
+Volume=46572None
+
+
+2016-05-20 18:10:31
+2016-05-20 18:10:31
+Close=0.820
+Adjustment=+0.020
+Open=0.800
+High=0.820
+Low=0.800
+Volume=14554None
+
+
+2016-05-23 18:10:33
+2016-05-23 18:10:33
+Close=0.815
+Adjustment=-0.005
+Open=0.820
+High=0.825
+Low=0.805
+Volume=15785None
+
+
+2016-05-24 18:10:39
+2016-05-24 18:10:39
+Close=0.815
+Adjustment=-
+Open=0.810
+High=0.815
+Low=0.805
+Volume=3644None
+
+
+2016-05-25 18:10:42
+2016-05-25 18:10:42
+Close=0.810
+Adjustment=-0.005
+Open=0.815
+High=0.815
+Low=0.800
+Volume=3830None
+
+
+2016-05-26 18:13:56
+2016-05-26 18:13:56
+Close=0.815
+Adjustment=+0.005
+Open=0.800
+High=0.815
+Low=0.795
+Volume=12746None
+
+
+2016-05-27 18:10:40
+2016-05-27 18:10:40
+Close=0.830
+Adjustment=+0.015
+Open=0.820
+High=0.835
+Low=0.810
+Volume=24396None
+
+
+2016-05-30 18:10:48
+2016-05-30 18:10:48
+Close=0.805
+Adjustment=-0.025
+Open=0.830
+High=0.830
+Low=0.805
+Volume=5977None
+
+
+2016-05-31 18:11:14
+2016-05-31 18:11:14
+Close=0.830
+Adjustment=+0.025
+Open=0.815
+High=0.840
+Low=0.815
+Volume=19008None
+
+
+2016-06-01 18:10:38
+2016-06-01 18:10:38
+Close=0.840
+Adjustment=+0.010
+Open=0.835
+High=0.850
+Low=0.820
+Volume=20243None
+
+
+2016-06-02 18:10:37
+2016-06-02 18:10:37
+Close=0.830
+Adjustment=-0.010
+Open=0.840
+High=0.840
+Low=0.830
+Volume=6292None
+
+
+2016-06-03 18:10:42
+2016-06-03 18:10:42
+Close=0.840
+Adjustment=+0.010
+Open=0.830
+High=0.840
+Low=0.825
+Volume=4129None
+
+
+2016-06-06 18:10:24
+2016-06-06 18:10:24
+Close=0.820
+Adjustment=-0.020
+Open=0.830
+High=0.835
+Low=0.820
+Volume=4387None
+
+
+2016-06-07 18:10:24
+2016-06-07 18:10:24
+Close=0.840
+Adjustment=+0.020
+Open=0.830
+High=0.860
+Low=0.825
+Volume=53451None
+
+
+2016-06-08 18:10:23
+2016-06-08 18:10:23
+Close=0.825
+Adjustment=-0.015
+Open=0.840
+High=0.855
+Low=0.825
+Volume=23261None
+
+
+2016-06-09 18:10:23
+2016-06-09 18:10:23
+Close=0.830
+Adjustment=+0.005
+Open=0.830
+High=0.840
+Low=0.825
+Volume=13270None
+
+
+2016-06-10 18:10:28
+2016-06-10 18:10:28
+Close=0.830
+Adjustment=-
+Open=0.830
+High=0.840
+Low=0.825
+Volume=21255None
+
+
+2016-06-13 18:10:24
+2016-06-13 18:10:24
+Close=0.825
+Adjustment=-0.005
+Open=0.830
+High=0.845
+Low=0.820
+Volume=17218None
+
+
+2016-06-14 18:10:24
+2016-06-14 18:10:24
+Close=0.825
+Adjustment=-
+Open=0.825
+High=0.830
+Low=0.820
+Volume=3919None
+
+
+2016-06-15 18:10:23
+2016-06-15 18:10:23
+Close=0.810
+Adjustment=-0.015
+Open=0.825
+High=0.830
+Low=0.810
+Volume=19816None
+
+
+2016-06-16 18:10:24
+2016-06-16 18:10:24
+Close=0.815
+Adjustment=+0.005
+Open=0.810
+High=0.820
+Low=0.810
+Volume=8728None
+
+
+2016-06-17 18:10:25
+2016-06-17 18:10:25
+Close=0.820
+Adjustment=+0.005
+Open=0.815
+High=0.820
+Low=0.810
+Volume=5355None
+
+
+2016-06-20 18:10:23
+2016-06-20 18:10:23
+Close=0.820
+Adjustment=-
+Open=0.820
+High=0.820
+Low=0.810
+Volume=2580None
+
+
+2016-06-21 18:11:04
+2016-06-21 18:11:04
+Close=0.835
+Adjustment=+0.015
+Open=0.810
+High=0.840
+Low=0.810
+Volume=31621None
+
+
+2016-06-22 18:10:23
+2016-06-22 18:10:23
+Close=0.835
+Adjustment=+0.015
+Open=0.810
+High=0.840
+Low=0.810
+Volume=31621None
+
+
+2016-06-23 18:10:23
+2016-06-23 18:10:23
+Close=0.820
+Adjustment=-0.015
+Open=0.835
+High=0.840
+Low=0.815
+Volume=8590None
+
+
+2016-06-24 18:10:34
+2016-06-24 18:10:34
+Close=0.810
+Adjustment=-0.010
+Open=0.815
+High=0.825
+Low=0.800
+Volume=20357None
+
+
+2016-06-27 18:10:23
+2016-06-27 18:10:23
+Close=0.800
+Adjustment=-0.010
+Open=0.805
+High=0.805
+Low=0.795
+Volume=14733None
+
+
+2016-06-28 18:10:24
+2016-06-28 18:10:24
+Close=0.805
+Adjustment=+0.005
+Open=0.800
+High=0.810
+Low=0.795
+Volume=17228None
+
+
+2016-06-29 18:10:24
+2016-06-29 18:10:24
+Close=0.805
+Adjustment=-
+Open=0.810
+High=0.815
+Low=0.805
+Volume=10721None
+
+
+2016-06-30 18:10:25
+2016-06-30 18:10:25
+Close=0.810
+Adjustment=+0.005
+Open=0.810
+High=0.810
+Low=0.805
+Volume=4497None
+
+
+2016-07-01 18:10:54
+2016-07-01 18:10:54
+Close=0.805
+Adjustment=-0.005
+Open=0.810
+High=0.810
+Low=0.805
+Volume=7491None
+
+
+2016-07-04 18:10:26
+2016-07-04 18:10:26
+Close=0.810
+Adjustment=+0.005
+Open=0.800
+High=0.825
+Low=0.800
+Volume=8354None
+
+
+2016-07-05 18:10:35
+2016-07-05 18:10:35
+Close=0.815
+Adjustment=+0.005
+Open=0.815
+High=0.820
+Low=0.815
+Volume=1280None
+
+
+2016-07-06 18:10:25
+2016-07-06 18:10:25
+Close=0.815
+Adjustment=+0.005
+Open=0.815
+High=0.820
+Low=0.815
+Volume=1280None
+
+
+2016-07-07 18:10:24
+2016-07-07 18:10:24
+Close=0.815
+Adjustment=+0.005
+Open=0.815
+High=0.820
+Low=0.815
+Volume=1280None
+
+
+2016-07-08 18:10:24
+2016-07-08 18:10:24
+Close=0.810
+Adjustment=-0.005
+Open=0.820
+High=0.820
+Low=0.810
+Volume=28None
+
+
+2016-07-11 18:10:24
+2016-07-11 18:10:24
+Close=0.820
+Adjustment=+0.010
+Open=0.820
+High=0.820
+Low=0.810
+Volume=5211None
+
+
+2016-07-12 18:10:24
+2016-07-12 18:10:24
+Close=0.825
+Adjustment=+0.005
+Open=0.820
+High=0.825
+Low=0.815
+Volume=8289None
+
+
+2016-07-13 18:10:25
+2016-07-13 18:10:25
+Close=0.835
+Adjustment=+0.010
+Open=0.825
+High=0.835
+Low=0.820
+Volume=13950None
+
+
+2016-07-14 18:10:24
+2016-07-14 18:10:24
+Close=0.835
+Adjustment=-
+Open=0.840
+High=0.845
+Low=0.835
+Volume=11090None
+
+
+2016-07-15 18:10:25
+2016-07-15 18:10:25
+Close=0.835
+Adjustment=-
+Open=0.835
+High=0.840
+Low=0.830
+Volume=4520None
+
+
+2016-07-18 18:10:24
+2016-07-18 18:10:24
+Close=0.825
+Adjustment=-0.010
+Open=0.840
+High=0.845
+Low=0.825
+Volume=8744None
+
+
+2016-07-19 18:10:26
+2016-07-19 18:10:26
+Close=0.835
+Adjustment=+0.010
+Open=0.830
+High=0.840
+Low=0.825
+Volume=27359None
+
+
+2016-07-20 18:10:25
+2016-07-20 18:10:25
+Close=0.835
+Adjustment=-
+Open=0.840
+High=0.840
+Low=0.830
+Volume=9700None
+
+
+2016-07-21 18:10:31
+2016-07-21 18:10:31
+Close=0.825
+Adjustment=-0.010
+Open=0.830
+High=0.830
+Low=0.825
+Volume=8356None
+
+
+2016-07-22 18:10:30
+2016-07-22 18:10:30
+Close=0.820
+Adjustment=-0.005
+Open=0.820
+High=0.825
+Low=0.815
+Volume=2255None
+
+
+2016-07-25 18:11:54
+2016-07-25 18:11:54
+Close=0.830
+Adjustment=+0.010
+Open=0.825
+High=0.830
+Low=0.820
+Volume=4295None
+
+
+2016-07-26 18:10:23
+2016-07-26 18:10:23
+Close=0.815
+Adjustment=-0.015
+Open=0.830
+High=0.845
+Low=0.815
+Volume=34807None
+
+
+2016-07-27 18:10:47
+2016-07-27 18:10:47
+Close=0.825
+Adjustment=+0.010
+Open=0.820
+High=0.830
+Low=0.820
+Volume=2987None
+
+
+2016-07-28 18:10:24
+2016-07-28 18:10:24
+Close=0.830
+Adjustment=+0.005
+Open=0.825
+High=0.830
+Low=0.825
+Volume=2859None
+
+
+2016-07-29 18:10:30
+2016-07-29 18:10:30
+Close=0.830
+Adjustment=-
+Open=0.830
+High=0.840
+Low=0.825
+Volume=23652None
+
+
+2016-08-01 18:11:40
+2016-08-01 18:11:40
+Close=0.825
+Adjustment=-0.005
+Open=0.830
+High=0.835
+Low=0.825
+Volume=4342None
+
+
+2016-08-02 18:10:30
+2016-08-02 18:10:30
+Close=0.820
+Adjustment=-0.005
+Open=0.830
+High=0.830
+Low=0.820
+Volume=10445None
+
+
+2016-08-03 20:22:25
+2016-08-03 20:22:25
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2016-08-04 18:10:27
+2016-08-04 18:10:27
+Close=0.825
+Adjustment=-
+Open=0.830
+High=0.830
+Low=0.825
+Volume=874None
+
+
+2016-08-05 18:10:25
+2016-08-05 18:10:25
+Close=0.830
+Adjustment=+0.005
+Open=0.855
+High=0.855
+Low=0.825
+Volume=29533None
+
+
+2016-08-08 18:10:25
+2016-08-08 18:10:25
+Close=0.840
+Adjustment=+0.010
+Open=0.835
+High=0.860
+Low=0.825
+Volume=61255None
+
+
+2016-08-09 18:10:24
+2016-08-09 18:10:24
+Close=0.835
+Adjustment=-0.005
+Open=0.850
+High=0.855
+Low=0.835
+Volume=9544None
+
+
+2016-08-10 18:10:25
+2016-08-10 18:10:25
+Close=0.830
+Adjustment=-0.005
+Open=0.840
+High=0.840
+Low=0.830
+Volume=2185None
+
+
+2016-08-11 18:10:30
+2016-08-11 18:10:30
+Close=0.835
+Adjustment=+0.005
+Open=0.835
+High=0.835
+Low=0.825
+Volume=4911None
+
+
+2016-08-12 18:10:29
+2016-08-12 18:10:29
+Close=0.820
+Adjustment=-0.015
+Open=0.835
+High=0.845
+Low=0.815
+Volume=26084None
+
+
+2016-08-15 18:12:30
+2016-08-15 18:12:30
+Close=0.820
+Adjustment=-
+Open=0.825
+High=0.825
+Low=0.815
+Volume=31165None
+
+
+2016-08-16 18:10:32
+2016-08-16 18:10:32
+Close=0.820
+Adjustment=-
+Open=0.825
+High=0.825
+Low=0.815
+Volume=15182None
+
+
+2016-08-17 18:10:24
+2016-08-17 18:10:24
+Close=0.820
+Adjustment=-
+Open=0.820
+High=0.820
+Low=0.815
+Volume=21961None
+
+
+2016-08-18 18:10:26
+2016-08-18 18:10:26
+Close=0.815
+Adjustment=-0.005
+Open=0.820
+High=0.820
+Low=0.810
+Volume=17049None
+
+
+2016-08-19 18:10:32
+2016-08-19 18:10:32
+Close=0.815
+Adjustment=-
+Open=0.815
+High=0.815
+Low=0.805
+Volume=12392None
+
+
+2016-08-22 18:10:26
+2016-08-22 18:10:26
+Close=0.805
+Adjustment=-0.010
+Open=0.815
+High=0.815
+Low=0.805
+Volume=4818None
+
+
+2016-08-23 18:10:27
+2016-08-23 18:10:27
+Close=0.805
+Adjustment=-
+Open=0.805
+High=0.810
+Low=0.800
+Volume=7562None
+
+
+2016-08-24 18:12:45
+2016-08-24 18:12:45
+Close=0.800
+Adjustment=-0.005
+Open=0.800
+High=0.805
+Low=0.795
+Volume=20587None
+
+
+2016-08-25 18:12:15
+2016-08-25 18:12:15
+Close=0.790
+Adjustment=-0.010
+Open=0.805
+High=0.805
+Low=0.785
+Volume=11690None
+
+
+2016-08-26 18:10:43
+2016-08-26 18:10:43
+Close=0.785
+Adjustment=-0.005
+Open=0.790
+High=0.795
+Low=0.785
+Volume=22816None
+
+
+2016-08-29 18:13:07
+2016-08-29 18:13:07
+Close=0.785
+Adjustment=-
+Open=0.785
+High=0.790
+Low=0.785
+Volume=7449None
+
+
+2016-08-30 18:13:01
+2016-08-30 18:13:01
+Close=0.795
+Adjustment=+0.010
+Open=0.795
+High=0.800
+Low=0.785
+Volume=7296None
+
+
+2016-08-31 18:10:23
+2016-08-31 18:10:23
+Close=0.795
+Adjustment=+0.010
+Open=0.795
+High=0.800
+Low=0.785
+Volume=7296None
+
+
+2016-09-01 18:10:25
+2016-09-01 18:10:25
+Close=0.800
+Adjustment=+0.005
+Open=0.800
+High=0.805
+Low=0.800
+Volume=6144None
+
+
+2016-09-02 18:11:32
+2016-09-02 18:11:32
+Close=0.800
+Adjustment=-
+Open=0.795
+High=0.800
+Low=0.795
+Volume=5705None
+
+
+2016-09-05 18:10:25
+2016-09-05 18:10:25
+Close=0.800
+Adjustment=-
+Open=0.805
+High=0.805
+Low=0.795
+Volume=3247None
+
+
+2016-09-06 18:10:25
+2016-09-06 18:10:25
+Close=0.805
+Adjustment=+0.005
+Open=0.795
+High=0.805
+Low=0.795
+Volume=5097None
+
+
+2016-09-07 18:10:39
+2016-09-07 18:10:39
+Close=0.815
+Adjustment=+0.010
+Open=0.805
+High=0.815
+Low=0.800
+Volume=3152None
+
+
+2016-09-08 18:10:24
+2016-09-08 18:10:24
+Close=0.815
+Adjustment=-
+Open=0.815
+High=0.815
+Low=0.810
+Volume=956None
+
+
+2016-09-09 18:10:25
+2016-09-09 18:10:25
+Close=0.810
+Adjustment=-0.005
+Open=0.810
+High=0.815
+Low=0.810
+Volume=1410None
+
+
+2016-09-12 18:10:39
+2016-09-12 18:10:39
+Close=0.810
+Adjustment=-0.005
+Open=0.810
+High=0.815
+Low=0.810
+Volume=1410None
+
+
+2016-09-13 18:10:24
+2016-09-13 18:10:24
+Close=0.800
+Adjustment=-0.010
+Open=0.800
+High=0.805
+Low=0.795
+Volume=1976None
+
+
+2016-09-14 18:10:33
+2016-09-14 18:10:33
+Close=0.800
+Adjustment=-
+Open=0.800
+High=0.810
+Low=0.795
+Volume=4434None
+
+
+2016-09-15 18:10:27
+2016-09-15 18:10:27
+Close=0.795
+Adjustment=-0.005
+Open=0.795
+High=0.800
+Low=0.795
+Volume=2283None
+
+
+2016-09-16 18:10:24
+2016-09-16 18:10:24
+Close=0.795
+Adjustment=-0.005
+Open=0.795
+High=0.800
+Low=0.795
+Volume=2283None
+
+
+2016-09-19 18:12:55
+2016-09-19 18:12:55
+Close=0.790
+Adjustment=-0.005
+Open=0.795
+High=0.800
+Low=0.790
+Volume=2175None
+
+
+2016-09-20 18:10:24
+2016-09-20 18:10:24
+Close=0.805
+Adjustment=+0.015
+Open=0.800
+High=0.805
+Low=0.795
+Volume=1912None
+
+
+2016-09-21 18:12:32
+2016-09-21 18:12:32
+Close=0.800
+Adjustment=-0.005
+Open=0.795
+High=0.800
+Low=0.795
+Volume=738None
+
+
+2016-09-22 18:10:24
+2016-09-22 18:10:24
+Close=0.800
+Adjustment=-
+Open=0.800
+High=0.800
+Low=0.795
+Volume=3929None
+
+
+2016-09-23 18:10:27
+2016-09-23 18:10:27
+Close=0.800
+Adjustment=-
+Open=0.800
+High=0.800
+Low=0.790
+Volume=1330None
+
+
+2016-09-26 18:10:29
+2016-09-26 18:10:29
+Close=0.795
+Adjustment=-0.005
+Open=0.800
+High=0.800
+Low=0.790
+Volume=1897None
+
+
+2016-09-27 18:11:07
+2016-09-27 18:11:07
+Close=0.795
+Adjustment=-
+Open=0.795
+High=0.800
+Low=0.795
+Volume=1180None
+
+
+2016-09-28 18:10:25
+2016-09-28 18:10:25
+Close=0.800
+Adjustment=+0.005
+Open=0.800
+High=0.800
+Low=0.790
+Volume=6569None
+
+
+2016-09-29 18:10:24
+2016-09-29 18:10:24
+Close=0.805
+Adjustment=+0.005
+Open=0.795
+High=0.805
+Low=0.790
+Volume=4608None
+
+
+2016-09-30 18:10:27
+2016-09-30 18:10:27
+Close=0.800
+Adjustment=-0.005
+Open=0.800
+High=0.805
+Low=0.795
+Volume=4176None
+
+
+2016-10-03 18:10:24
+2016-10-03 18:10:24
+Close=0.800
+Adjustment=-0.005
+Open=0.800
+High=0.805
+Low=0.795
+Volume=4176None
+
+
+2016-10-04 18:10:25
+2016-10-04 18:10:25
+Close=0.800
+Adjustment=-
+Open=0.800
+High=0.800
+Low=0.795
+Volume=2370None
+
+
+2016-10-05 18:10:34
+2016-10-05 18:10:34
+Close=0.800
+Adjustment=-
+Open=0.795
+High=0.800
+Low=0.790
+Volume=3828None
+
+
+2016-10-06 18:10:24
+2016-10-06 18:10:24
+Close=0.790
+Adjustment=-0.010
+Open=0.795
+High=0.795
+Low=0.790
+Volume=645None
+
+
+2016-10-07 18:10:32
+2016-10-07 18:10:32
+Close=0.805
+Adjustment=+0.015
+Open=0.815
+High=0.840
+Low=0.805
+Volume=46781None
+
+
+2016-10-10 18:10:40
+2016-10-10 18:10:40
+Close=0.815
+Adjustment=+0.010
+Open=0.820
+High=0.825
+Low=0.810
+Volume=5940None
+
+
+2016-10-11 18:10:24
+2016-10-11 18:10:24
+Close=0.810
+Adjustment=-0.005
+Open=0.820
+High=0.835
+Low=0.810
+Volume=18430None
+
+
+2016-10-12 18:10:24
+2016-10-12 18:10:24
+Close=0.800
+Adjustment=-0.010
+Open=0.805
+High=0.810
+Low=0.795
+Volume=24690None
+
+
+2016-10-13 18:10:24
+2016-10-13 18:10:24
+Close=0.800
+Adjustment=-
+Open=0.800
+High=0.800
+Low=0.795
+Volume=5283None
+
+
+2016-10-14 18:10:22
+2016-10-14 18:10:22
+Close=0.805
+Adjustment=+0.005
+Open=0.800
+High=0.810
+Low=0.800
+Volume=3437None
+
+
+2016-10-17 18:10:26
+2016-10-17 18:10:26
+Close=0.800
+Adjustment=-0.005
+Open=0.805
+High=0.810
+Low=0.800
+Volume=2065None
+
+
+2016-10-18 18:10:33
+2016-10-18 18:10:33
+Close=0.800
+Adjustment=-
+Open=0.805
+High=0.830
+Low=0.800
+Volume=30562None
+
+
+2016-10-19 18:10:23
+2016-10-19 18:10:23
+Close=0.810
+Adjustment=+0.010
+Open=0.805
+High=0.810
+Low=0.805
+Volume=3512None
+
+
+2016-10-20 18:10:55
+2016-10-20 18:10:55
+Close=0.810
+Adjustment=-
+Open=0.805
+High=0.810
+Low=0.800
+Volume=25067None
+
+
+2016-10-21 18:13:21
+2016-10-21 18:13:21
+Close=0.810
+Adjustment=-
+Open=0.800
+High=0.810
+Low=0.800
+Volume=3931None
+
+
+2016-10-24 18:10:23
+2016-10-24 18:10:23
+Close=0.810
+Adjustment=-
+Open=0.810
+High=0.815
+Low=0.805
+Volume=1977None
+
+
+2016-10-25 18:10:33
+2016-10-25 18:10:33
+Close=0.805
+Adjustment=-0.005
+Open=0.805
+High=0.810
+Low=0.805
+Volume=2167None
+
+
+2016-10-26 18:10:26
+2016-10-26 18:10:26
+Close=0.820
+Adjustment=+0.015
+Open=0.805
+High=0.825
+Low=0.805
+Volume=6898None
+
+
+2016-10-27 18:10:27
+2016-10-27 18:10:27
+Close=0.805
+Adjustment=-0.015
+Open=0.810
+High=0.810
+Low=0.805
+Volume=915None
+
+
+2016-10-28 18:10:24
+2016-10-28 18:10:24
+Close=0.820
+Adjustment=+0.015
+Open=0.810
+High=0.820
+Low=0.805
+Volume=2375None
+
+
+2016-10-31 18:10:24
+2016-10-31 18:10:24
+Close=0.815
+Adjustment=-0.005
+Open=0.815
+High=0.820
+Low=0.805
+Volume=4039None
+
+
+2016-11-01 18:10:38
+2016-11-01 18:10:38
+Close=0.805
+Adjustment=-0.010
+Open=0.810
+High=0.810
+Low=0.805
+Volume=1085None
+
+
+2016-11-02 18:10:32
+2016-11-02 18:10:32
+Close=0.810
+Adjustment=+0.005
+Open=0.805
+High=0.810
+Low=0.800
+Volume=3600None
+
+
+2016-11-03 18:10:32
+2016-11-03 18:10:32
+Close=0.810
+Adjustment=-
+Open=0.805
+High=0.810
+Low=0.800
+Volume=7188None
+
+
+2016-11-04 18:10:24
+2016-11-04 18:10:24
+Close=0.795
+Adjustment=-0.015
+Open=0.800
+High=0.805
+Low=0.795
+Volume=2920None
+
+
+2016-11-07 18:10:26
+2016-11-07 18:10:26
+Close=0.795
+Adjustment=-
+Open=0.800
+High=0.810
+Low=0.795
+Volume=5573None
+
+
+2016-11-08 18:10:28
+2016-11-08 18:10:28
+Close=0.810
+Adjustment=+0.015
+Open=0.805
+High=0.815
+Low=0.800
+Volume=15085None
+
+
+2016-11-09 18:10:26
+2016-11-09 18:10:26
+Close=0.800
+Adjustment=-0.010
+Open=0.810
+High=0.810
+Low=0.785
+Volume=25684None
+
+
+2016-11-10 18:10:25
+2016-11-10 18:10:25
+Close=0.805
+Adjustment=+0.005
+Open=0.800
+High=0.815
+Low=0.800
+Volume=7785None
+
+
+2016-11-11 18:10:24
+2016-11-11 18:10:24
+Close=0.795
+Adjustment=-0.010
+Open=0.805
+High=0.805
+Low=0.795
+Volume=14990None
+
+
+2016-11-14 18:10:24
+2016-11-14 18:10:24
+Close=0.790
+Adjustment=-0.005
+Open=0.795
+High=0.795
+Low=0.785
+Volume=21194None
+
+
+2016-11-15 18:10:24
+2016-11-15 18:10:24
+Close=0.795
+Adjustment=+0.005
+Open=0.795
+High=0.795
+Low=0.790
+Volume=6277None
+
+
+2016-11-16 18:10:25
+2016-11-16 18:10:25
+Close=0.790
+Adjustment=-0.005
+Open=0.795
+High=0.795
+Low=0.785
+Volume=4876None
+
+
+2016-11-17 18:10:30
+2016-11-17 18:10:30
+Close=0.790
+Adjustment=-
+Open=0.790
+High=0.790
+Low=0.785
+Volume=6935None
+
+
+2016-11-18 18:12:44
+2016-11-18 18:12:44
+Close=0.795
+Adjustment=+0.005
+Open=0.790
+High=0.795
+Low=0.790
+Volume=5353None
+
+
+2016-11-21 18:10:43
+2016-11-21 18:10:43
+Close=0.795
+Adjustment=-
+Open=0.795
+High=0.795
+Low=0.785
+Volume=6689None
+
+
+2016-11-22 18:10:52
+2016-11-22 18:10:52
+Close=0.795
+Adjustment=-
+Open=0.795
+High=0.800
+Low=0.790
+Volume=3800None
+
+
+2016-11-23 18:11:20
+2016-11-23 18:11:20
+Close=0.790
+Adjustment=-0.005
+Open=0.790
+High=0.795
+Low=0.785
+Volume=3600None
+
+
+2016-11-24 18:11:25
+2016-11-24 18:11:25
+Close=0.800
+Adjustment=+0.010
+Open=0.790
+High=0.800
+Low=0.790
+Volume=2533None
+
+
+2016-11-25 18:13:37
+2016-11-25 18:13:37
+Close=0.785
+Adjustment=-0.015
+Open=0.800
+High=0.800
+Low=0.785
+Volume=2405None
+
+
+2016-11-28 18:10:44
+2016-11-28 18:10:44
+Close=0.795
+Adjustment=+0.010
+Open=0.785
+High=0.795
+Low=0.785
+Volume=6085None
+
+
+2016-11-29 18:10:52
+2016-11-29 18:10:52
+Close=0.800
+Adjustment=+0.005
+Open=0.795
+High=0.800
+Low=0.785
+Volume=4085None
+
+
+2016-11-30 18:11:09
+2016-11-30 18:11:09
+Close=0.790
+Adjustment=-0.010
+Open=0.800
+High=0.800
+Low=0.790
+Volume=2521None
+
+
+2016-12-01 18:10:25
+2016-12-01 18:10:25
+Close=0.795
+Adjustment=+0.005
+Open=0.790
+High=0.795
+Low=0.790
+Volume=6440None
+
+
+2016-12-02 18:10:26
+2016-12-02 18:10:26
+Close=0.800
+Adjustment=+0.005
+Open=0.795
+High=0.800
+Low=0.795
+Volume=3855None
+
+
+2016-12-05 18:10:32
+2016-12-05 18:10:32
+Close=0.790
+Adjustment=-0.010
+Open=0.800
+High=0.800
+Low=0.790
+Volume=8943None
+
+
+2016-12-06 18:10:30
+2016-12-06 18:10:30
+Close=0.785
+Adjustment=-0.005
+Open=0.790
+High=0.790
+Low=0.785
+Volume=2082None
+
+
+2016-12-07 18:10:30
+2016-12-07 18:10:30
+Close=0.780
+Adjustment=-0.005
+Open=0.785
+High=0.785
+Low=0.770
+Volume=5623None
+
+
+2016-12-08 18:10:34
+2016-12-08 18:10:34
+Close=0.765
+Adjustment=-0.015
+Open=0.770
+High=0.780
+Low=0.765
+Volume=15678None
+
+
+2016-12-09 18:10:36
+2016-12-09 18:10:36
+Close=0.770
+Adjustment=+0.005
+Open=0.765
+High=0.775
+Low=0.765
+Volume=22032None
+
+
+2016-12-12 18:10:33
+2016-12-12 18:10:33
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2016-12-14 18:10:37
+2016-12-14 18:10:37
+Close=0.765
+Adjustment=-
+Open=0.770
+High=0.780
+Low=0.765
+Volume=4740None
+
+
+2016-12-15 18:10:31
+2016-12-15 18:10:31
+Close=0.770
+Adjustment=+0.005
+Open=0.765
+High=0.775
+Low=0.765
+Volume=5270None
+
+
+2016-12-16 18:10:35
+2016-12-16 18:10:35
+Close=0.775
+Adjustment=+0.005
+Open=0.770
+High=0.775
+Low=0.765
+Volume=4695None
+
+
+2016-12-19 18:10:33
+2016-12-19 18:10:33
+Close=0.765
+Adjustment=-0.010
+Open=0.770
+High=0.775
+Low=0.765
+Volume=7432None
+
+
+2016-12-20 18:10:33
+2016-12-20 18:10:33
+Close=0.770
+Adjustment=+0.005
+Open=0.770
+High=0.770
+Low=0.760
+Volume=6823None
+
+
+2016-12-21 18:10:36
+2016-12-21 18:10:36
+Close=0.775
+Adjustment=+0.005
+Open=0.765
+High=0.785
+Low=0.765
+Volume=8688None
+
+
+2016-12-22 18:10:33
+2016-12-22 18:10:33
+Close=0.770
+Adjustment=-0.005
+Open=0.770
+High=0.775
+Low=0.770
+Volume=2079None
+
+
+2016-12-23 18:10:32
+2016-12-23 18:10:32
+Close=0.770
+Adjustment=-
+Open=0.765
+High=0.770
+Low=0.765
+Volume=1384None
+
+
+2016-12-26 18:10:34
+2016-12-26 18:10:34
+Close=0.770
+Adjustment=-
+Open=0.765
+High=0.770
+Low=0.765
+Volume=1384None
+
+
+2016-12-27 18:10:33
+2016-12-27 18:10:33
+Close=0.770
+Adjustment=-
+Open=0.770
+High=0.770
+Low=0.765
+Volume=3517None
+
+
+2016-12-28 18:10:33
+2016-12-28 18:10:33
+Close=0.765
+Adjustment=-0.005
+Open=0.770
+High=0.775
+Low=0.755
+Volume=18916None
+
+
+2016-12-29 18:10:36
+2016-12-29 18:10:36
+Close=0.765
+Adjustment=-
+Open=0.765
+High=0.765
+Low=0.760
+Volume=3865None
+
+
+2016-12-30 18:10:32
+2016-12-30 18:10:32
+Close=0.760
+Adjustment=-0.005
+Open=0.770
+High=0.775
+Low=0.760
+Volume=10441None
+
+
+2017-01-02 18:10:37
+2017-01-02 18:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2017-01-03 18:10:31
+2017-01-03 18:10:31
+Close=0.760
+Adjustment=-
+Open=0.760
+High=0.765
+Low=0.755
+Volume=3163None
+
+
+2017-01-04 18:10:30
+2017-01-04 18:10:30
+Close=0.775
+Adjustment=+0.015
+Open=0.765
+High=0.775
+Low=0.760
+Volume=4971None
+
+
+2017-01-05 18:10:32
+2017-01-05 18:10:32
+Close=0.770
+Adjustment=-0.005
+Open=0.770
+High=0.780
+Low=0.770
+Volume=3374None
+
+
+2017-01-06 18:10:30
+2017-01-06 18:10:30
+Close=0.780
+Adjustment=+0.010
+Open=0.775
+High=0.785
+Low=0.770
+Volume=5890None
+
+
+2017-01-09 18:10:34
+2017-01-09 18:10:34
+Close=0.770
+Adjustment=-0.010
+Open=0.780
+High=0.780
+Low=0.770
+Volume=9649None
+
+
+2017-01-10 18:10:33
+2017-01-10 18:10:33
+Close=0.770
+Adjustment=-
+Open=0.770
+High=0.785
+Low=0.770
+Volume=4960None
+
+
+2017-01-11 18:10:32
+2017-01-11 18:10:32
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2017-01-12 18:10:29
+2017-01-12 18:10:29
+Close=0.770
+Adjustment=-0.005
+Open=0.775
+High=0.780
+Low=0.770
+Volume=4740None
+
+
+2017-01-13 18:10:31
+2017-01-13 18:10:31
+Close=0.775
+Adjustment=+0.005
+Open=0.775
+High=0.775
+Low=0.770
+Volume=5901None
+
+
+2017-01-16 18:10:34
+2017-01-16 18:10:34
+Close=0.785
+Adjustment=+0.010
+Open=0.775
+High=0.790
+Low=0.775
+Volume=15419None
+
+
+2017-01-17 18:10:32
+2017-01-17 18:10:32
+Close=0.785
+Adjustment=-
+Open=0.785
+High=0.790
+Low=0.780
+Volume=9585None
+
+
+2017-01-18 18:10:31
+2017-01-18 18:10:31
+Close=0.765
+Adjustment=-0.020
+Open=0.780
+High=0.780
+Low=0.765
+Volume=28059None
+
+
+2017-01-19 18:10:34
+2017-01-19 18:10:34
+Close=0.760
+Adjustment=-0.005
+Open=0.770
+High=0.775
+Low=0.750
+Volume=25365None
+
+
+2017-01-20 18:10:33
+2017-01-20 18:10:33
+Close=0.755
+Adjustment=-0.005
+Open=0.755
+High=0.760
+Low=0.750
+Volume=10667None
+
+
+2017-01-23 18:10:32
+2017-01-23 18:10:32
+Close=0.760
+Adjustment=+0.005
+Open=0.755
+High=0.760
+Low=0.755
+Volume=5556None
+
+
+2017-01-24 18:10:34
+2017-01-24 18:10:34
+Close=0.755
+Adjustment=-0.005
+Open=0.755
+High=0.760
+Low=0.755
+Volume=6280None
+
+
+2017-01-25 18:10:32
+2017-01-25 18:10:32
+Close=0.760
+Adjustment=+0.005
+Open=0.755
+High=0.760
+Low=0.750
+Volume=5667None
+
+
+2017-01-26 18:10:31
+2017-01-26 18:10:31
+Close=0.765
+Adjustment=+0.005
+Open=0.770
+High=0.770
+Low=0.755
+Volume=2599None
+
+
+2017-01-27 18:10:36
+2017-01-27 18:10:36
+Close=0.770
+Adjustment=+0.005
+Open=0.765
+High=0.770
+Low=0.765
+Volume=602None
+
+
+2017-01-30 18:10:33
+2017-01-30 18:10:33
+Close=0.770
+Adjustment=+0.005
+Open=0.765
+High=0.770
+Low=0.765
+Volume=602None
+
+
+2017-01-31 18:10:31
+2017-01-31 18:10:31
+Close=0.790
+Adjustment=+0.020
+Open=0.770
+High=0.795
+Low=0.770
+Volume=15899None
+
+
+2017-02-01 18:10:31
+2017-02-01 18:10:31
+Close=0.790
+Adjustment=+0.020
+Open=0.770
+High=0.795
+Low=0.770
+Volume=15899None
+
+
+2017-02-02 18:10:34
+2017-02-02 18:10:34
+Close=0.815
+Adjustment=+0.025
+Open=0.795
+High=0.815
+Low=0.795
+Volume=36606None
+
+
+2017-02-03 18:10:31
+2017-02-03 18:10:31
+Close=0.810
+Adjustment=-0.005
+Open=0.815
+High=0.825
+Low=0.805
+Volume=13249None
+
+
+2017-02-06 18:10:31
+2017-02-06 18:10:31
+Close=0.810
+Adjustment=-
+Open=0.815
+High=0.815
+Low=0.805
+Volume=14499None
+
+
+2017-02-07 18:10:32
+2017-02-07 18:10:32
+Close=0.810
+Adjustment=-
+Open=0.810
+High=0.810
+Low=0.800
+Volume=11904None
+
+
+2017-02-08 18:10:34
+2017-02-08 18:10:34
+Close=0.820
+Adjustment=+0.010
+Open=0.815
+High=0.830
+Low=0.810
+Volume=28374None
+
+
+2017-02-09 18:10:32
+2017-02-09 18:10:32
+Close=0.820
+Adjustment=+0.010
+Open=0.815
+High=0.830
+Low=0.810
+Volume=28374None
+
+
+2017-02-10 18:10:32
+2017-02-10 18:10:32
+Close=0.825
+Adjustment=+0.005
+Open=0.820
+High=0.845
+Low=0.820
+Volume=48243None
+
+
+2017-02-13 18:10:33
+2017-02-13 18:10:33
+Close=0.825
+Adjustment=-
+Open=0.825
+High=0.830
+Low=0.825
+Volume=26823None
+
+
+2017-02-14 18:10:34
+2017-02-14 18:10:34
+Close=0.830
+Adjustment=+0.005
+Open=0.830
+High=0.835
+Low=0.825
+Volume=17371None
+
+
+2017-02-15 18:10:34
+2017-02-15 18:10:34
+Close=0.830
+Adjustment=-
+Open=0.830
+High=0.830
+Low=0.820
+Volume=6500None
+
+
+2017-02-16 18:10:35
+2017-02-16 18:10:35
+Close=0.830
+Adjustment=-
+Open=0.825
+High=0.830
+Low=0.825
+Volume=11451None
+
+
+2017-02-17 18:10:33
+2017-02-17 18:10:33
+Close=0.825
+Adjustment=-0.005
+Open=0.830
+High=0.830
+Low=0.825
+Volume=7409None
+
+
+2017-02-20 18:10:33
+2017-02-20 18:10:33
+Close=0.830
+Adjustment=+0.005
+Open=0.820
+High=0.830
+Low=0.820
+Volume=10649None
+
+
+2017-02-21 18:10:34
+2017-02-21 18:10:34
+Close=0.830
+Adjustment=-
+Open=0.830
+High=0.835
+Low=0.830
+Volume=14800None
+
+
+2017-02-22 18:10:36
+2017-02-22 18:10:36
+Close=0.830
+Adjustment=-
+Open=0.830
+High=0.835
+Low=0.830
+Volume=9365None
+
+
+2017-02-23 18:10:44
+2017-02-23 18:10:44
+Close=0.830
+Adjustment=-
+Open=0.830
+High=0.830
+Low=0.820
+Volume=8412None
+
+
+2017-02-24 18:10:36
+2017-02-24 18:10:36
+Close=0.830
+Adjustment=-
+Open=0.820
+High=0.830
+Low=0.820
+Volume=5920None
+
+
+2017-02-27 18:10:58
+2017-02-27 18:10:58
+Close=0.830
+Adjustment=-
+Open=0.830
+High=0.830
+Low=0.820
+Volume=15673None
+
+
+2017-02-28 18:11:09
+2017-02-28 18:11:09
+Close=0.820
+Adjustment=-0.010
+Open=0.825
+High=0.825
+Low=0.805
+Volume=20342None
+
+
+2017-03-01 18:10:33
+2017-03-01 18:10:33
+Close=0.820
+Adjustment=-
+Open=0.820
+High=0.825
+Low=0.805
+Volume=19075None
+
+
+2017-03-02 18:10:38
+2017-03-02 18:10:38
+Close=0.820
+Adjustment=-
+Open=0.820
+High=0.825
+Low=0.815
+Volume=15460None
+
+
+2017-03-03 18:10:34
+2017-03-03 18:10:34
+Close=0.845
+Adjustment=+0.025
+Open=0.825
+High=0.855
+Low=0.820
+Volume=54974None
+
+
+2017-03-06 18:10:34
+2017-03-06 18:10:34
+Close=0.870
+Adjustment=+0.025
+Open=0.850
+High=0.875
+Low=0.850
+Volume=84918None
+
+
+2017-03-07 18:10:34
+2017-03-07 18:10:34
+Close=0.865
+Adjustment=-0.005
+Open=0.880
+High=0.900
+Low=0.860
+Volume=90790None
+
+
+2017-03-08 18:10:35
+2017-03-08 18:10:35
+Close=0.875
+Adjustment=+0.010
+Open=0.865
+High=0.875
+Low=0.860
+Volume=38551None
+
+
+2017-03-09 18:10:31
+2017-03-09 18:10:31
+Close=0.870
+Adjustment=-0.005
+Open=0.865
+High=0.870
+Low=0.855
+Volume=24062None
+
+
+2017-03-10 18:10:33
+2017-03-10 18:10:33
+Close=0.860
+Adjustment=-0.010
+Open=0.870
+High=0.870
+Low=0.860
+Volume=9821None
+
+
+2017-03-13 18:10:33
+2017-03-13 18:10:33
+Close=0.860
+Adjustment=-
+Open=0.860
+High=0.870
+Low=0.855
+Volume=13448None
+
+
+2017-03-14 18:10:33
+2017-03-14 18:10:33
+Close=0.860
+Adjustment=-
+Open=0.865
+High=0.865
+Low=0.855
+Volume=8252None
+
+
+2017-03-15 18:11:41
+2017-03-15 18:11:41
+Close=0.870
+Adjustment=+0.010
+Open=0.855
+High=0.870
+Low=0.850
+Volume=16109None
+
+
+2017-03-16 18:11:01
+2017-03-16 18:11:01
+Close=0.890
+Adjustment=+0.020
+Open=0.870
+High=0.900
+Low=0.865
+Volume=45360None
+
+
+2017-03-17 18:10:38
+2017-03-17 18:10:38
+Close=0.890
+Adjustment=-
+Open=0.895
+High=0.910
+Low=0.890
+Volume=49863None
+
+
+2017-03-20 18:10:36
+2017-03-20 18:10:36
+Close=0.885
+Adjustment=-0.005
+Open=0.895
+High=0.900
+Low=0.870
+Volume=18153None
+
+
+2017-03-21 18:10:40
+2017-03-21 18:10:40
+Close=0.880
+Adjustment=-0.005
+Open=0.890
+High=0.890
+Low=0.880
+Volume=8811None
+
+
+2017-03-22 18:10:36
+2017-03-22 18:10:36
+Close=0.875
+Adjustment=-0.005
+Open=0.890
+High=0.890
+Low=0.870
+Volume=9667None
+
+
+2017-03-23 18:10:40
+2017-03-23 18:10:40
+Close=0.870
+Adjustment=-0.005
+Open=0.880
+High=0.880
+Low=0.870
+Volume=16169None
+
+
+2017-03-24 18:10:53
+2017-03-24 18:10:53
+Close=0.870
+Adjustment=-
+Open=0.875
+High=0.875
+Low=0.860
+Volume=17125None
+
+
+2017-03-27 18:10:31
+2017-03-27 18:10:31
+Close=0.885
+Adjustment=+0.015
+Open=0.870
+High=0.890
+Low=0.865
+Volume=14686None
+
+
+2017-03-28 18:10:34
+2017-03-28 18:10:34
+Close=0.880
+Adjustment=-0.005
+Open=0.895
+High=0.895
+Low=0.880
+Volume=7527None
+
+
+2017-03-29 18:10:27
+2017-03-29 18:10:27
+Close=0.915
+Adjustment=+0.035
+Open=0.885
+High=0.915
+Low=0.885
+Volume=36376None
+
+
+2017-03-30 18:10:36
+2017-03-30 18:10:36
+Close=0.900
+Adjustment=-0.015
+Open=0.915
+High=0.915
+Low=0.890
+Volume=23221None
+
+
+2017-03-31 18:10:34
+2017-03-31 18:10:34
+Close=0.920
+Adjustment=+0.020
+Open=0.905
+High=0.960
+Low=0.900
+Volume=93379None
+
+
+2017-04-03 18:10:40
+2017-04-03 18:10:40
+Close=0.920
+Adjustment=-
+Open=0.925
+High=0.925
+Low=0.910
+Volume=15267None
+
+
+2017-04-04 18:10:34
+2017-04-04 18:10:34
+Close=0.900
+Adjustment=-0.020
+Open=0.920
+High=0.920
+Low=0.900
+Volume=9327None
+
+
+2017-04-05 18:10:35
+2017-04-05 18:10:35
+Close=0.915
+Adjustment=+0.015
+Open=0.900
+High=0.925
+Low=0.900
+Volume=22742None
+
+
+2017-04-06 18:10:35
+2017-04-06 18:10:35
+Close=0.910
+Adjustment=-0.005
+Open=0.920
+High=0.920
+Low=0.900
+Volume=13889None
+
+
+2017-04-07 18:10:24
+2017-04-07 18:10:24
+Close=0.900
+Adjustment=-0.010
+Open=0.910
+High=0.910
+Low=0.900
+Volume=2588None
+
+
+2017-04-10 18:10:34
+2017-04-10 18:10:34
+Close=0.905
+Adjustment=+0.005
+Open=0.900
+High=0.915
+Low=0.900
+Volume=7847None
+
+
+2017-04-11 18:10:35
+2017-04-11 18:10:35
+Close=0.895
+Adjustment=-0.010
+Open=0.905
+High=0.915
+Low=0.890
+Volume=16278None
+
+
+2017-04-12 18:10:43
+2017-04-12 18:10:43
+Close=0.900
+Adjustment=+0.005
+Open=0.895
+High=0.900
+Low=0.885
+Volume=5384None
+
+
+2017-04-13 18:10:34
+2017-04-13 18:10:34
+Close=0.875
+Adjustment=-0.025
+Open=0.895
+High=0.895
+Low=0.875
+Volume=8328None
+
+
+2017-04-14 18:10:34
+2017-04-14 18:10:34
+Close=0.875
+Adjustment=-
+Open=0.875
+High=0.875
+Low=0.835
+Volume=15646None
+
+
+2017-04-18 18:10:38
+2017-04-18 18:10:38
+Close=0.900
+Adjustment=+0.030
+Open=0.875
+High=0.900
+Low=0.875
+Volume=16977None
+
+
+2017-04-19 18:10:34
+2017-04-19 18:10:34
+Close=0.890
+Adjustment=-0.010
+Open=0.900
+High=0.900
+Low=0.880
+Volume=7857None
+
+
+2017-04-20 18:10:38
+2017-04-20 18:10:38
+Close=0.900
+Adjustment=+0.010
+Open=0.890
+High=0.905
+Low=0.885
+Volume=19133None
+
+
+2017-04-21 18:10:35
+2017-04-21 18:10:35
+Close=0.905
+Adjustment=+0.005
+Open=0.905
+High=0.930
+Low=0.900
+Volume=40564None
+
+
+2017-04-24 18:10:34
+2017-04-24 18:10:34
+Close=0.905
+Adjustment=+0.005
+Open=0.905
+High=0.930
+Low=0.900
+Volume=40564None
+
+
+2017-04-25 18:10:34
+2017-04-25 18:10:34
+Close=0.900
+Adjustment=-0.005
+Open=0.905
+High=0.915
+Low=0.895
+Volume=34843None
+
+
+2017-04-26 18:10:37
+2017-04-26 18:10:37
+Close=0.910
+Adjustment=+0.010
+Open=0.905
+High=0.915
+Low=0.905
+Volume=32144None
+
+
+2017-04-27 18:10:38
+2017-04-27 18:10:38
+Close=0.900
+Adjustment=-0.010
+Open=0.915
+High=0.915
+Low=0.900
+Volume=12705None
+
+
+2017-04-28 18:10:49
+2017-04-28 18:10:49
+Close=0.905
+Adjustment=+0.005
+Open=0.910
+High=0.910
+Low=0.900
+Volume=6006None
+
+
+2017-05-01 18:10:40
+2017-05-01 18:10:40
+Close=0.905
+Adjustment=+0.005
+Open=0.910
+High=0.910
+Low=0.900
+Volume=6006None
+
+
+2017-05-02 18:10:46
+2017-05-02 18:10:46
+Close=0.900
+Adjustment=-0.005
+Open=0.905
+High=0.905
+Low=0.900
+Volume=8222None
+
+
+2017-05-03 18:10:42
+2017-05-03 18:10:42
+Close=0.895
+Adjustment=-0.005
+Open=0.900
+High=0.910
+Low=0.895
+Volume=16689None
+
+
+2017-05-04 18:10:36
+2017-05-04 18:10:36
+Close=0.880
+Adjustment=-0.015
+Open=0.890
+High=0.900
+Low=0.880
+Volume=8293None
+
+
+2017-05-05 18:10:42
+2017-05-05 18:10:42
+Close=0.885
+Adjustment=+0.005
+Open=0.885
+High=0.900
+Low=0.880
+Volume=9184None
+
+
+2017-05-08 18:10:52
+2017-05-08 18:10:52
+Close=0.895
+Adjustment=+0.010
+Open=0.890
+High=0.900
+Low=0.890
+Volume=39815None
+
+
+2017-05-09 18:10:35
+2017-05-09 18:10:35
+Close=0.895
+Adjustment=-
+Open=0.895
+High=0.905
+Low=0.895
+Volume=12122None
+
+
+2017-05-10 18:10:38
+2017-05-10 18:10:38
+Close=0.895
+Adjustment=-
+Open=0.895
+High=0.905
+Low=0.895
+Volume=12122None
+
+
+2017-05-11 18:10:34
+2017-05-11 18:10:34
+Close=0.895
+Adjustment=-
+Open=0.900
+High=0.910
+Low=0.895
+Volume=9721None
+
+
+2017-05-12 18:10:35
+2017-05-12 18:10:35
+Close=0.920
+Adjustment=+0.025
+Open=0.900
+High=0.920
+Low=0.900
+Volume=25920None
+
+
+2017-05-15 18:10:36
+2017-05-15 18:10:36
+Close=0.950
+Adjustment=+0.030
+Open=0.930
+High=0.960
+Low=0.930
+Volume=68721None
+
+
+2017-05-16 18:10:34
+2017-05-16 18:10:34
+Close=0.945
+Adjustment=-0.005
+Open=0.960
+High=0.965
+Low=0.935
+Volume=29847None
+
+
+2017-05-17 18:10:38
+2017-05-17 18:10:38
+Close=0.940
+Adjustment=-0.005
+Open=0.945
+High=0.945
+Low=0.935
+Volume=12764None
+
+
+2017-05-18 18:10:37
+2017-05-18 18:10:37
+Close=0.940
+Adjustment=-
+Open=0.935
+High=0.940
+Low=0.925
+Volume=8447None
+
+
+2017-05-19 18:10:35
+2017-05-19 18:10:35
+Close=0.950
+Adjustment=+0.010
+Open=0.940
+High=0.960
+Low=0.935
+Volume=14288None
+
+
+2017-05-22 18:10:36
+2017-05-22 18:10:36
+Close=0.955
+Adjustment=+0.005
+Open=0.960
+High=0.960
+Low=0.945
+Volume=13644None
+
+
+2017-05-23 18:10:43
+2017-05-23 18:10:43
+Close=0.955
+Adjustment=-
+Open=0.955
+High=0.955
+Low=0.945
+Volume=8388None
+
+
+2017-05-24 18:10:28
+2017-05-24 18:10:28
+Close=0.975
+Adjustment=+0.020
+Open=0.955
+High=0.985
+Low=0.950
+Volume=49287None
+
+
+2017-05-25 18:11:20
+2017-05-25 18:11:20
+Close=0.945
+Adjustment=-0.030
+Open=0.975
+High=0.975
+Low=0.940
+Volume=9602None
+
+
+2017-05-26 18:10:37
+2017-05-26 18:10:37
+Close=0.930
+Adjustment=-0.015
+Open=0.945
+High=0.950
+Low=0.930
+Volume=9528None
+
+
+2017-05-29 18:10:38
+2017-05-29 18:10:38
+Close=0.935
+Adjustment=+0.005
+Open=0.930
+High=0.940
+Low=0.925
+Volume=8155None
+
+
+2017-05-30 18:10:36
+2017-05-30 18:10:36
+Close=0.920
+Adjustment=-0.015
+Open=0.935
+High=0.940
+Low=0.905
+Volume=24230None
+
+
+2017-05-31 18:10:39
+2017-05-31 18:10:39
+Close=0.950
+Adjustment=+0.030
+Open=0.905
+High=0.950
+Low=0.890
+Volume=29422None
+
+
+2017-06-01 18:10:52
+2017-06-01 18:10:52
+Close=0.930
+Adjustment=-0.020
+Open=0.955
+High=0.955
+Low=0.915
+Volume=14697None
+
+
+2017-06-02 18:10:36
+2017-06-02 18:10:36
+Close=0.935
+Adjustment=+0.005
+Open=0.930
+High=0.935
+Low=0.925
+Volume=1522None
+
+
+2017-06-05 18:10:35
+2017-06-05 18:10:35
+Close=0.930
+Adjustment=-0.005
+Open=0.930
+High=0.940
+Low=0.930
+Volume=7847None
+
+
+2017-06-06 18:10:36
+2017-06-06 18:10:36
+Close=0.935
+Adjustment=+0.005
+Open=0.930
+High=0.955
+Low=0.925
+Volume=12167None
+
+
+2017-06-07 18:10:38
+2017-06-07 18:10:38
+Close=0.945
+Adjustment=+0.010
+Open=0.950
+High=0.950
+Low=0.930
+Volume=4119None
+
+
+2017-06-08 18:10:41
+2017-06-08 18:10:41
+Close=0.945
+Adjustment=-
+Open=0.945
+High=0.950
+Low=0.945
+Volume=12183None
+
+
+2017-06-09 18:10:38
+2017-06-09 18:10:38
+Close=0.925
+Adjustment=-0.020
+Open=0.940
+High=0.945
+Low=0.925
+Volume=4603None
+
+
+2017-06-12 18:10:25
+2017-06-12 18:10:25
+Close=0.925
+Adjustment=-0.020
+Open=0.940
+High=0.945
+Low=0.925
+Volume=4603None
+
+
+2017-06-13 18:10:35
+2017-06-13 18:10:35
+Close=0.925
+Adjustment=-
+Open=0.920
+High=0.945
+Low=0.920
+Volume=2630None
+
+
+2017-06-14 18:10:34
+2017-06-14 18:10:34
+Close=0.950
+Adjustment=+0.025
+Open=0.930
+High=0.950
+Low=0.930
+Volume=17257None
+
+
+2017-06-15 18:10:39
+2017-06-15 18:10:39
+Close=0.960
+Adjustment=+0.010
+Open=0.955
+High=0.960
+Low=0.935
+Volume=21957None
+
+
+2017-06-16 18:10:37
+2017-06-16 18:10:37
+Close=0.960
+Adjustment=-
+Open=0.960
+High=0.965
+Low=0.950
+Volume=16018None
+
+
+2017-06-19 18:10:57
+2017-06-19 18:10:57
+Close=0.965
+Adjustment=0.005
+Open=0.950
+High=0.970
+Low=0.945
+Volume=15215None
+
+
+2017-06-20 18:10:38
+2017-06-20 18:10:38
+Close=0.975
+Adjustment=0.010
+Open=0.970
+High=0.975
+Low=0.960
+Volume=11573None
+
+
+2017-06-21 18:10:35
+2017-06-21 18:10:35
+Close=0.970
+Adjustment=-0.005
+Open=0.970
+High=0.975
+Low=0.970
+Volume=7297None
+
+
+2017-06-22 18:10:36
+2017-06-22 18:10:36
+Close=0.970
+Adjustment=-
+Open=0.970
+High=0.975
+Low=0.960
+Volume=4625None
+
+
+2017-06-23 18:10:31
+2017-06-23 18:10:31
+Close=0.980
+Adjustment=0.010
+Open=0.970
+High=0.985
+Low=0.970
+Volume=9802None
+
+
+2017-06-26 18:10:35
+2017-06-26 18:10:35
+Close=0.980
+Adjustment=0.010
+Open=0.970
+High=0.985
+Low=0.970
+Volume=9802None
+
+
+2017-06-27 18:10:29
+2017-06-27 18:10:29
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2017-06-28 18:10:34
+2017-06-28 18:10:34
+Close=0.975
+Adjustment=-0.005
+Open=0.980
+High=0.985
+Low=0.975
+Volume=21398None
+
+
+2017-06-29 18:10:59
+2017-06-29 18:10:59
+Close=0.960
+Adjustment=-0.015
+Open=0.975
+High=0.975
+Low=0.960
+Volume=13969None
+
+
+2017-06-30 18:10:24
+2017-06-30 18:10:24
+Close=0.960
+Adjustment=-
+Open=0.960
+High=0.970
+Low=0.960
+Volume=22385None
+
+
+2017-07-03 18:10:33
+2017-07-03 18:10:33
+Close=0.955
+Adjustment=-0.005
+Open=0.970
+High=0.975
+Low=0.950
+Volume=5228None
+
+
+2017-07-04 18:10:34
+2017-07-04 18:10:34
+Close=0.950
+Adjustment=-0.005
+Open=0.955
+High=0.955
+Low=0.945
+Volume=39258None
+
+
+2017-07-05 18:10:44
+2017-07-05 18:10:44
+Close=0.945
+Adjustment=-0.005
+Open=0.940
+High=0.950
+Low=0.940
+Volume=7442None
+
+
+2017-07-06 18:10:55
+2017-07-06 18:10:55
+Close=0.940
+Adjustment=-0.005
+Open=0.945
+High=0.945
+Low=0.940
+Volume=10636None
+
+
+2017-07-07 18:10:55
+2017-07-07 18:10:55
+Close=0.935
+Adjustment=-0.005
+Open=0.940
+High=0.940
+Low=0.935
+Volume=2705None
+
+
+2017-07-10 18:10:42
+2017-07-10 18:10:42
+Close=0.940
+Adjustment=0.005
+Open=0.940
+High=0.940
+Low=0.935
+Volume=340None
+
+
+2017-07-11 18:10:39
+2017-07-11 18:10:39
+Close=0.930
+Adjustment=-0.010
+Open=0.940
+High=0.940
+Low=0.925
+Volume=9510None
+
+
+2017-07-12 18:10:54
+2017-07-12 18:10:54
+Close=0.940
+Adjustment=0.010
+Open=0.925
+High=0.940
+Low=0.925
+Volume=8184None
+
+
+2018-01-01 18:10:35
+2018-01-01 18:10:35
+Close=0.900
+Adjustment=-
+Open=0.890
+High=0.945
+Low=0.890
+Volume=30150None
+
+
+2018-01-02 18:10:22
+2018-01-02 18:10:22
+Close=0.900
+Adjustment=-
+Open=0.900
+High=0.905
+Low=0.900
+Volume=521None
+
+
+2018-01-03 18:10:21
+2018-01-03 18:10:21
+Close=0.900
+Adjustment=-
+Open=0.910
+High=0.910
+Low=0.900
+Volume=2224None
+
+
+2018-02-25 16:37:19
+2018-02-25 16:37:19
+Close=0.820
+Adjustment=0.015
+Open=0.825
+High=0.860
+Low=0.820
+Volume=6176None
+
+
+2018-02-26 18:10:34
+2018-02-26 18:10:34
+Close=0.825
+Adjustment=0.005
+Open=0.825
+High=0.830
+Low=0.825
+Volume=1581None
+
+
+2018-02-26 22:10:50
+2018-02-26 22:10:50
+Close=0.825
+Adjustment=0.005
+Open=0.825
+High=0.830
+Low=0.825
+Volume=1581None
+
+
+2018-02-27 18:11:25
+2018-02-27 18:11:25
+Close=0.805
+Adjustment=-0.010
+Open=0.805
+High=0.820
+Low=0.800
+Volume=7040None
+
+
+2018-02-27 22:10:35
+2018-02-27 22:10:35
+Close=0.805
+Adjustment=-0.010
+Open=0.805
+High=0.820
+Low=0.800
+Volume=7040None
+
+
+2018-02-28 18:10:36
+2018-02-28 18:10:36
+Close=0.805
+Adjustment=-
+Open=0.805
+High=0.805
+Low=0.795
+Volume=1632None
+
+
+2018-02-28 22:10:30
+2018-02-28 22:10:30
+Close=0.805
+Adjustment=-
+Open=0.805
+High=0.805
+Low=0.795
+Volume=1632None
+
+
+2018-03-01 18:10:36
+2018-03-01 18:10:36
+Close=0.805
+Adjustment=-
+Open=0.800
+High=0.805
+Low=0.800
+Volume=2363None
+
+
+2018-03-01 22:10:33
+2018-03-01 22:10:33
+Close=0.805
+Adjustment=-
+Open=0.800
+High=0.805
+Low=0.800
+Volume=2363None
+
+
+2018-03-02 18:10:33
+2018-03-02 18:10:33
+Close=0.805
+Adjustment=-
+Open=0.805
+High=0.805
+Low=0.800
+Volume=12437None
+
+
+2018-03-02 22:10:32
+2018-03-02 22:10:32
+Close=0.805
+Adjustment=-
+Open=0.805
+High=0.805
+Low=0.800
+Volume=12437None
+
+
+2018-03-05 18:10:41
+2018-03-05 18:10:41
+Close=0.805
+Adjustment=-
+Open=0.805
+High=0.805
+Low=0.795
+Volume=861None
+
+
+2018-03-05 22:10:35
+2018-03-05 22:10:35
+Close=0.805
+Adjustment=-
+Open=0.805
+High=0.805
+Low=0.795
+Volume=861None
+
+
+2018-03-06 22:10:42
+2018-03-06 22:10:42
+Close=0.805
+Adjustment=-
+Open=0.800
+High=0.805
+Low=0.800
+Volume=3892None
+
+
+2018-03-07 18:10:32
+2018-03-07 18:10:32
+Close=0.800
+Adjustment=-0.005
+Open=0.800
+High=0.805
+Low=0.780
+Volume=3243None
+
+
+2018-03-07 22:10:37
+2018-03-07 22:10:37
+Close=0.800
+Adjustment=-0.005
+Open=0.800
+High=0.805
+Low=0.780
+Volume=3243None
+
+
+2018-03-08 18:10:32
+2018-03-08 18:10:32
+Close=0.805
+Adjustment=0.005
+Open=0.800
+High=0.820
+Low=0.785
+Volume=4066None
+
+
+2018-03-08 22:10:32
+2018-03-08 22:10:32
+Close=0.805
+Adjustment=0.005
+Open=0.800
+High=0.820
+Low=0.785
+Volume=4066None
+
+
+2018-03-09 18:10:35
+2018-03-09 18:10:35
+Close=0.805
+Adjustment=-
+Open=0.810
+High=0.810
+Low=0.805
+Volume=2908None
+
+
+2018-03-09 22:10:31
+2018-03-09 22:10:31
+Close=0.805
+Adjustment=-
+Open=0.810
+High=0.810
+Low=0.805
+Volume=2908None
+
+
+2018-03-12 18:10:32
+2018-03-12 18:10:32
+Close=0.805
+Adjustment=-
+Open=0.805
+High=0.805
+Low=0.795
+Volume=5210None
+
+
+2018-03-12 22:10:35
+2018-03-12 22:10:35
+Close=0.805
+Adjustment=-
+Open=0.805
+High=0.805
+Low=0.795
+Volume=5210None
+
+
+2018-03-13 18:10:34
+2018-03-13 18:10:34
+Close=0.800
+Adjustment=-0.005
+Open=0.800
+High=0.805
+Low=0.795
+Volume=535None
+
+
+2018-03-13 22:10:33
+2018-03-13 22:10:33
+Close=0.800
+Adjustment=-0.005
+Open=0.800
+High=0.805
+Low=0.795
+Volume=535None
+
+
+2018-03-14 22:10:31
+2018-03-14 22:10:31
+Close=0.795
+Adjustment=-0.005
+Open=0.795
+High=0.795
+Low=0.795
+Volume=80None
+
+
+2018-03-15 18:10:34
+2018-03-15 18:10:34
+Close=0.800
+Adjustment=0.005
+Open=0.800
+High=0.800
+Low=0.795
+Volume=2167None
+
+
+2018-03-15 22:10:34
+2018-03-15 22:10:34
+Close=0.800
+Adjustment=0.005
+Open=0.800
+High=0.800
+Low=0.795
+Volume=2167None
+
+
+2018-03-16 18:10:36
+2018-03-16 18:10:36
+Close=0.795
+Adjustment=-0.005
+Open=0.805
+High=0.815
+Low=0.790
+Volume=1279None
+
+
+2018-03-16 22:10:34
+2018-03-16 22:10:34
+Close=0.795
+Adjustment=-0.005
+Open=0.805
+High=0.815
+Low=0.790
+Volume=1279None
+
+
+2018-03-19 18:10:35
+2018-03-19 18:10:35
+Close=0.800
+Adjustment=0.005
+Open=0.810
+High=0.810
+Low=0.795
+Volume=1250None
+
+
+2018-03-19 22:10:34
+2018-03-19 22:10:34
+Close=0.800
+Adjustment=0.005
+Open=0.810
+High=0.810
+Low=0.795
+Volume=1250None
+
+
+2018-03-20 18:10:40
+2018-03-20 18:10:40
+Close=0.800
+Adjustment=-
+Open=0.800
+High=0.800
+Low=0.795
+Volume=620None
+
+
+2018-03-20 22:10:53
+2018-03-20 22:10:53
+Close=0.800
+Adjustment=-
+Open=0.800
+High=0.800
+Low=0.795
+Volume=620None
+
+
+2018-03-21 18:10:41
+2018-03-21 18:10:41
+Close=0.790
+Adjustment=-0.010
+Open=0.800
+High=0.805
+Low=0.790
+Volume=720None
+
+
+2018-03-21 22:10:36
+2018-03-21 22:10:36
+Close=0.790
+Adjustment=-0.010
+Open=0.800
+High=0.805
+Low=0.790
+Volume=720None
+
+
+2018-03-22 18:10:40
+2018-03-22 18:10:40
+Close=0.810
+Adjustment=0.020
+Open=0.800
+High=0.810
+Low=0.800
+Volume=3888None
+
+
+2018-03-22 22:10:36
+2018-03-22 22:10:36
+Close=0.810
+Adjustment=0.020
+Open=0.800
+High=0.810
+Low=0.800
+Volume=3888None
+
+
+2018-03-23 22:10:37
+2018-03-23 22:10:37
+Close=0.790
+Adjustment=-0.020
+Open=0.790
+High=0.805
+Low=0.790
+Volume=5453None
+
+
+2018-03-26 18:10:39
+2018-03-26 18:10:39
+Close=0.790
+Adjustment=-
+Open=0.795
+High=0.800
+Low=0.790
+Volume=6205None
+
+
+2018-03-26 22:10:33
+2018-03-26 22:10:33
+Close=0.790
+Adjustment=-
+Open=0.795
+High=0.800
+Low=0.790
+Volume=6205None
+
+
+2018-03-27 18:10:23
+2018-03-27 18:10:23
+Close=0.785
+Adjustment=-0.005
+Open=0.790
+High=0.795
+Low=0.785
+Volume=3767None
+
+
+2018-03-27 22:10:34
+2018-03-27 22:10:34
+Close=0.785
+Adjustment=-0.005
+Open=0.790
+High=0.795
+Low=0.785
+Volume=3767None
+
+
+2018-03-28 18:10:43
+2018-03-28 18:10:43
+Close=0.800
+Adjustment=0.015
+Open=0.795
+High=0.800
+Low=0.770
+Volume=7808None
+
+
+2018-03-28 22:10:34
+2018-03-28 22:10:34
+Close=0.800
+Adjustment=0.015
+Open=0.795
+High=0.800
+Low=0.770
+Volume=7808None
+
+
+2018-03-29 22:10:46
+2018-03-29 22:10:46
+Close=0.805
+Adjustment=0.005
+Open=0.800
+High=0.805
+Low=0.800
+Volume=370None
+
+
+2018-03-30 18:10:36
+2018-03-30 18:10:36
+Close=0.805
+Adjustment=-
+Open=0.800
+High=0.805
+Low=0.790
+Volume=1866None
+
+
+2018-03-30 22:10:34
+2018-03-30 22:10:34
+Close=0.805
+Adjustment=-
+Open=0.800
+High=0.805
+Low=0.790
+Volume=1866None
+
+
+2018-04-02 18:10:32
+2018-04-02 18:10:32
+Close=0.795
+Adjustment=-0.010
+Open=0.800
+High=0.805
+Low=0.790
+Volume=1376None
+
+
+2018-04-02 22:10:33
+2018-04-02 22:10:33
+Close=0.795
+Adjustment=-0.010
+Open=0.800
+High=0.805
+Low=0.790
+Volume=1376None
+
+
+2018-04-03 18:10:48
+2018-04-03 18:10:48
+Close=0.785
+Adjustment=-0.010
+Open=0.795
+High=0.800
+Low=0.760
+Volume=1016None
+
+
+2018-04-03 22:10:34
+2018-04-03 22:10:34
+Close=0.785
+Adjustment=-0.010
+Open=0.795
+High=0.800
+Low=0.760
+Volume=1016None
+
+
+2018-04-04 18:10:42
+2018-04-04 18:10:42
+Close=0.775
+Adjustment=-0.010
+Open=0.785
+High=0.800
+Low=0.770
+Volume=6120None
+
+
+2018-04-04 22:10:31
+2018-04-04 22:10:31
+Close=0.775
+Adjustment=-0.010
+Open=0.785
+High=0.800
+Low=0.770
+Volume=6120None
+
+
+2018-04-05 18:10:41
+2018-04-05 18:10:41
+Close=0.780
+Adjustment=0.005
+Open=0.775
+High=0.800
+Low=0.755
+Volume=14407None
+
+
+2018-04-05 22:10:32
+2018-04-05 22:10:32
+Close=0.780
+Adjustment=0.005
+Open=0.775
+High=0.800
+Low=0.755
+Volume=14407None
+
+
+2018-04-06 18:10:38
+2018-04-06 18:10:38
+Close=0.780
+Adjustment=-
+Open=0.770
+High=0.780
+Low=0.765
+Volume=1283None
+
+
+2018-04-06 22:10:36
+2018-04-06 22:10:36
+Close=0.780
+Adjustment=-
+Open=0.770
+High=0.780
+Low=0.765
+Volume=1283None
+
+
+2018-04-09 18:10:35
+2018-04-09 18:10:35
+Close=0.750
+Adjustment=-0.030
+Open=0.770
+High=0.780
+Low=0.750
+Volume=7799None
+
+
+2018-04-09 22:10:35
+2018-04-09 22:10:35
+Close=0.750
+Adjustment=-0.030
+Open=0.770
+High=0.780
+Low=0.750
+Volume=7799None
+
+
+2018-04-10 18:10:43
+2018-04-10 18:10:43
+Close=0.740
+Adjustment=-0.010
+Open=0.750
+High=0.760
+Low=0.735
+Volume=19516None
+
+
+2018-04-10 22:10:34
+2018-04-10 22:10:34
+Close=0.740
+Adjustment=-0.010
+Open=0.750
+High=0.760
+Low=0.735
+Volume=19516None
+
+
+2018-04-11 18:10:44
+2018-04-11 18:10:44
+Close=0.760
+Adjustment=0.020
+Open=0.760
+High=0.760
+Low=0.740
+Volume=3242None
+
+
+2018-04-11 22:10:34
+2018-04-11 22:10:34
+Close=0.760
+Adjustment=0.020
+Open=0.760
+High=0.760
+Low=0.740
+Volume=3242None
+
+
+2018-04-12 22:10:35
+2018-04-12 22:10:35
+Close=0.760
+Adjustment=-
+Open=0.750
+High=0.775
+Low=0.750
+Volume=2054None
+
+
+2018-04-13 22:10:34
+2018-04-13 22:10:34
+Close=0.770
+Adjustment=0.010
+Open=0.775
+High=0.775
+Low=0.750
+Volume=1000None
+
+
+2018-04-16 18:10:39
+2018-04-16 18:10:39
+Close=0.770
+Adjustment=-
+Open=0.770
+High=0.785
+Low=0.760
+Volume=11715None
+
+
+2018-04-16 22:10:37
+2018-04-16 22:10:37
+Close=0.770
+Adjustment=-
+Open=0.770
+High=0.785
+Low=0.760
+Volume=11715None
+
+
+2018-04-17 18:11:00
+2018-04-17 18:11:00
+Close=0.790
+Adjustment=0.020
+Open=0.780
+High=0.795
+Low=0.780
+Volume=161None
+
+
+2018-04-17 22:10:34
+2018-04-17 22:10:34
+Close=0.790
+Adjustment=0.020
+Open=0.780
+High=0.795
+Low=0.780
+Volume=161None
+
+
+2018-04-18 18:10:39
+2018-04-18 18:10:39
+Close=0.795
+Adjustment=0.005
+Open=0.795
+High=0.800
+Low=0.790
+Volume=6938None
+
+
+2018-04-18 22:10:36
+2018-04-18 22:10:36
+Close=0.795
+Adjustment=0.005
+Open=0.795
+High=0.800
+Low=0.790
+Volume=6938None
+
+
+2018-04-19 18:10:36
+2018-04-19 18:10:36
+Close=0.800
+Adjustment=0.005
+Open=0.800
+High=0.805
+Low=0.795
+Volume=18868None
+
+
+2018-04-19 22:10:34
+2018-04-19 22:10:34
+Close=0.800
+Adjustment=0.005
+Open=0.800
+High=0.805
+Low=0.795
+Volume=18868None
+
+
+2018-04-20 18:10:32
+2018-04-20 18:10:32
+Close=0.795
+Adjustment=-0.005
+Open=0.795
+High=0.800
+Low=0.790
+Volume=9891None
+
+
+2018-04-20 22:10:25
+2018-04-20 22:10:25
+Close=0.795
+Adjustment=-0.005
+Open=0.795
+High=0.800
+Low=0.790
+Volume=9891None
+
+
+2018-04-23 18:10:27
+2018-04-23 18:10:27
+Close=11.300
+Adjustment=0.200
+Open=11.200
+High=11.500
+Low=11.200
+Volume=80None
+
+
+2018-04-23 22:10:21
+2018-04-23 22:10:21
+Close=11.300
+Adjustment=0.200
+Open=11.200
+High=11.500
+Low=11.200
+Volume=80None
+
+
+2018-04-24 18:10:28
+2018-04-24 18:10:28
+Close=11.000
+Adjustment=-0.300
+Open=11.300
+High=11.300
+Low=10.800
+Volume=25None
+
+
+2018-04-24 22:10:31
+2018-04-24 22:10:31
+Close=11.000
+Adjustment=-0.300
+Open=11.300
+High=11.300
+Low=10.800
+Volume=25None
+
+
+2018-04-25 18:10:39
+2018-04-25 18:10:39
+Close=11.000
+Adjustment=-
+Open=11.000
+High=11.000
+Low=11.000
+Volume=62None
+
+
+2018-04-25 22:10:35
+2018-04-25 22:10:35
+Close=11.000
+Adjustment=-
+Open=11.000
+High=11.000
+Low=11.000
+Volume=62None
+
+
+2018-04-26 18:10:43
+2018-04-26 18:10:43
+Close=11.000
+Adjustment=-
+Open=11.000
+High=11.000
+Low=11.000
+Volume=30None
+
+
+2018-04-26 22:10:38
+2018-04-26 22:10:38
+Close=11.000
+Adjustment=-
+Open=11.000
+High=11.000
+Low=11.000
+Volume=30None
+
+
+2018-04-27 18:10:22
+2018-04-27 18:10:22
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2018-04-27 22:10:34
+2018-04-27 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-04-30 18:10:37
+2018-04-30 18:10:37
+Close=11.000
+Adjustment=-
+Open=11.000
+High=11.000
+Low=11.000
+Volume=37None
+
+
+2018-04-30 22:10:31
+2018-04-30 22:10:31
+Close=11.000
+Adjustment=-
+Open=11.000
+High=11.000
+Low=11.000
+Volume=37None
+
+
+2018-05-01 18:10:38
+2018-05-01 18:10:38
+Close=11.000
+Adjustment=-
+Open=11.000
+High=11.000
+Low=11.000
+Volume=37None
+
+
+2018-05-01 22:10:33
+2018-05-01 22:10:33
+Close=11.000
+Adjustment=-
+Open=11.000
+High=11.000
+Low=11.000
+Volume=37None
+
+
+2018-05-02 18:10:43
+2018-05-02 18:10:43
+Close=11.100
+Adjustment=0.100
+Open=11.000
+High=11.100
+Low=11.000
+Volume=91None
+
+
+2018-05-02 22:10:31
+2018-05-02 22:10:31
+Close=11.100
+Adjustment=0.100
+Open=11.000
+High=11.100
+Low=11.000
+Volume=91None
+
+
+2018-05-03 18:10:23
+2018-05-03 18:10:23
+Close=11.100
+Adjustment=-
+Open=11.100
+High=11.100
+Low=11.100
+Volume=50None
+
+
+2018-05-03 22:10:25
+2018-05-03 22:10:25
+Close=11.100
+Adjustment=-
+Open=11.100
+High=11.100
+Low=11.100
+Volume=50None
+
+
+2018-05-04 18:10:29
+2018-05-04 18:10:29
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-05-04 22:10:25
+2018-05-04 22:10:25
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-05-07 18:10:47
+2018-05-07 18:10:47
+Close=11.100
+Adjustment=-
+Open=11.000
+High=11.100
+Low=11.000
+Volume=154None
+
+
+2018-05-07 22:10:29
+2018-05-07 22:10:29
+Close=11.100
+Adjustment=-
+Open=11.000
+High=11.100
+Low=11.000
+Volume=154None
+
+
+2018-05-08 18:10:34
+2018-05-08 18:10:34
+Close=10.400
+Adjustment=-0.700
+Open=10.400
+High=10.400
+Low=10.400
+Volume=5None
+
+
+2018-05-08 22:10:31
+2018-05-08 22:10:31
+Close=10.400
+Adjustment=-0.700
+Open=10.400
+High=10.400
+Low=10.400
+Volume=5None
+
+
+2018-05-09 18:10:40
+2018-05-09 18:10:40
+Close=10.400
+Adjustment=-0.700
+Open=10.400
+High=10.400
+Low=10.400
+Volume=5None
+
+
+2018-05-09 22:10:31
+2018-05-09 22:10:31
+Close=10.400
+Adjustment=-0.700
+Open=10.400
+High=10.400
+Low=10.400
+Volume=5None
+
+
+2018-05-10 18:10:54
+2018-05-10 18:10:54
+Close=10.400
+Adjustment=-0.700
+Open=10.400
+High=10.400
+Low=10.400
+Volume=5None
+
+
+2018-05-10 22:10:29
+2018-05-10 22:10:29
+Close=10.400
+Adjustment=-0.700
+Open=10.400
+High=10.400
+Low=10.400
+Volume=5None
+
+
+2018-05-11 18:10:40
+2018-05-11 18:10:40
+Close=10.400
+Adjustment=-0.700
+Open=10.400
+High=10.400
+Low=10.400
+Volume=5None
+
+
+2018-05-11 22:10:39
+2018-05-11 22:10:39
+Close=10.400
+Adjustment=-0.700
+Open=10.400
+High=10.400
+Low=10.400
+Volume=5None
+
+
+2018-05-14 18:10:36
+2018-05-14 18:10:36
+Close=10.720
+Adjustment=0.320
+Open=10.600
+High=10.720
+Low=10.600
+Volume=37None
+
+
+2018-05-14 22:10:33
+2018-05-14 22:10:33
+Close=10.720
+Adjustment=0.320
+Open=10.600
+High=10.720
+Low=10.600
+Volume=37None
+
+
+2018-05-15 18:10:33
+2018-05-15 18:10:33
+Close=10.820
+Adjustment=0.100
+Open=10.820
+High=10.820
+Low=10.820
+Volume=25None
+
+
+2018-05-15 22:10:34
+2018-05-15 22:10:34
+Close=10.820
+Adjustment=0.100
+Open=10.820
+High=10.820
+Low=10.820
+Volume=25None
+
+
+2018-05-16 18:10:35
+2018-05-16 18:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-05-16 22:10:32
+2018-05-16 22:10:32
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-05-17 18:10:36
+2018-05-17 18:10:36
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-05-17 22:10:35
+2018-05-17 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-05-18 22:10:38
+2018-05-18 22:10:38
+Close=11.080
+Adjustment=0.260
+Open=11.100
+High=11.100
+Low=11.080
+Volume=41None
+
+
+2018-05-21 18:10:32
+2018-05-21 18:10:32
+Close=11.000
+Adjustment=-0.080
+Open=11.000
+High=11.000
+Low=11.000
+Volume=20None
+
+
+2018-05-21 22:10:37
+2018-05-21 22:10:37
+Close=11.000
+Adjustment=-0.080
+Open=11.000
+High=11.000
+Low=11.000
+Volume=20None
+
+
+2018-05-22 18:10:42
+2018-05-22 18:10:42
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-05-22 22:10:31
+2018-05-22 22:10:31
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-05-23 18:10:39
+2018-05-23 18:10:39
+Close=10.820
+Adjustment=-0.180
+Open=10.820
+High=10.840
+Low=10.820
+Volume=10None
+
+
+2018-05-23 22:10:32
+2018-05-23 22:10:32
+Close=10.820
+Adjustment=-0.180
+Open=10.820
+High=10.840
+Low=10.820
+Volume=10None
+
+
+2018-05-24 18:10:30
+2018-05-24 18:10:30
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-05-24 22:10:34
+2018-05-24 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-05-25 18:10:40
+2018-05-25 18:10:40
+Close=10.100
+Adjustment=-0.720
+Open=10.800
+High=10.800
+Low=10.100
+Volume=2None
+
+
+2018-05-25 22:10:32
+2018-05-25 22:10:32
+Close=10.100
+Adjustment=-0.720
+Open=10.800
+High=10.800
+Low=10.100
+Volume=2None
+
+
+2018-05-28 18:10:39
+2018-05-28 18:10:39
+Close=11.100
+Adjustment=1.000
+Open=10.300
+High=11.200
+Low=10.100
+Volume=52None
+
+
+2018-05-28 22:10:34
+2018-05-28 22:10:34
+Close=11.100
+Adjustment=1.000
+Open=10.300
+High=11.200
+Low=10.100
+Volume=52None
+
+
+2018-05-29 18:10:40
+2018-05-29 18:10:40
+Close=11.100
+Adjustment=1.000
+Open=10.300
+High=11.200
+Low=10.100
+Volume=52None
+
+
+2018-05-29 22:10:32
+2018-05-29 22:10:32
+Close=11.100
+Adjustment=1.000
+Open=10.300
+High=11.200
+Low=10.100
+Volume=52None
+
+
+2018-05-30 18:10:47
+2018-05-30 18:10:47
+Close=11.600
+Adjustment=0.500
+Open=11.600
+High=11.600
+Low=11.600
+Volume=1None
+
+
+2018-05-30 22:10:38
+2018-05-30 22:10:38
+Close=11.600
+Adjustment=0.500
+Open=11.600
+High=11.600
+Low=11.600
+Volume=1None
+
+
+2018-05-31 22:10:33
+2018-05-31 22:10:33
+Close=10.800
+Adjustment=-0.540
+Open=10.800
+High=10.800
+Low=10.800
+Volume=10None
+
+
+2018-06-01 22:10:37
+2018-06-01 22:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-04 22:10:37
+2018-06-04 22:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-05 18:10:37
+2018-06-05 18:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-05 22:10:40
+2018-06-05 22:10:40
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-06 18:10:38
+2018-06-06 18:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-06 22:10:30
+2018-06-06 22:10:30
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-07 18:10:39
+2018-06-07 18:10:39
+Close=11.000
+Adjustment=0.200
+Open=11.000
+High=11.000
+Low=11.000
+Volume=90None
+
+
+2018-06-07 22:10:35
+2018-06-07 22:10:35
+Close=11.000
+Adjustment=0.200
+Open=11.000
+High=11.000
+Low=11.000
+Volume=90None
+
+
+2018-06-08 18:10:41
+2018-06-08 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-08 22:10:33
+2018-06-08 22:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-11 18:10:39
+2018-06-11 18:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-11 22:10:38
+2018-06-11 22:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-12 18:10:37
+2018-06-12 18:10:37
+Close=10.500
+Adjustment=-0.500
+Open=10.500
+High=10.500
+Low=10.500
+Volume=1None
+
+
+2018-06-12 22:10:28
+2018-06-12 22:10:28
+Close=10.500
+Adjustment=-0.500
+Open=10.500
+High=10.500
+Low=10.500
+Volume=1None
+
+
+2018-06-13 22:10:34
+2018-06-13 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-14 22:10:35
+2018-06-14 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-18 18:10:41
+2018-06-18 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-18 22:10:34
+2018-06-18 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-19 18:10:37
+2018-06-19 18:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-19 22:11:02
+2018-06-19 22:11:02
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-20 18:10:52
+2018-06-20 18:10:52
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-20 22:10:35
+2018-06-20 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-21 18:10:40
+2018-06-21 18:10:40
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-21 22:10:44
+2018-06-21 22:10:44
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-22 18:10:36
+2018-06-22 18:10:36
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-22 22:10:57
+2018-06-22 22:10:57
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-25 18:10:36
+2018-06-25 18:10:36
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-25 22:10:34
+2018-06-25 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-26 22:10:35
+2018-06-26 22:10:35
+Close=10.500
+Adjustment=-
+Open=10.500
+High=10.500
+Low=10.500
+Volume=3None
+
+
+2018-06-27 18:10:41
+2018-06-27 18:10:41
+Close=10.500
+Adjustment=-
+Open=10.500
+High=10.500
+Low=10.500
+Volume=22None
+
+
+2018-06-27 22:10:32
+2018-06-27 22:10:32
+Close=10.500
+Adjustment=-
+Open=10.500
+High=10.500
+Low=10.500
+Volume=22None
+
+
+2018-06-28 18:10:41
+2018-06-28 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-28 22:10:32
+2018-06-28 22:10:32
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-29 18:10:38
+2018-06-29 18:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-06-29 22:10:32
+2018-06-29 22:10:32
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-02 18:10:37
+2018-07-02 18:10:37
+Close=10.500
+Adjustment=-
+Open=10.500
+High=10.500
+Low=10.500
+Volume=10None
+
+
+2018-07-02 22:10:33
+2018-07-02 22:10:33
+Close=10.500
+Adjustment=-
+Open=10.500
+High=10.500
+Low=10.500
+Volume=10None
+
+
+2018-07-03 22:10:34
+2018-07-03 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-04 18:10:41
+2018-07-04 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-04 22:10:38
+2018-07-04 22:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-05 18:10:41
+2018-07-05 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-05 22:10:34
+2018-07-05 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-06 18:10:41
+2018-07-06 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-06 22:10:33
+2018-07-06 22:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-09 18:10:38
+2018-07-09 18:10:38
+Close=10.500
+Adjustment=-
+Open=10.500
+High=10.500
+Low=10.500
+Volume=10None
+
+
+2018-07-09 22:10:36
+2018-07-09 22:10:36
+Close=10.500
+Adjustment=-
+Open=10.500
+High=10.500
+Low=10.500
+Volume=10None
+
+
+2018-07-10 18:10:39
+2018-07-10 18:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-10 22:10:33
+2018-07-10 22:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-11 18:10:35
+2018-07-11 18:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-11 22:10:30
+2018-07-11 22:10:30
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-12 18:11:02
+2018-07-12 18:11:02
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-12 22:10:29
+2018-07-12 22:10:29
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2018-07-13 18:10:40
+2018-07-13 18:10:40
+Close=10.500
+Adjustment=-
+Open=10.500
+High=10.500
+Low=10.500
+Volume=22None
+
+
+2018-07-13 22:10:36
+2018-07-13 22:10:36
+Close=10.500
+Adjustment=-
+Open=10.500
+High=10.500
+Low=10.500
+Volume=22None
+
+
+2018-07-16 18:10:38
+2018-07-16 18:10:38
+Close=10.500
+Adjustment=-
+Open=10.500
+High=10.500
+Low=10.500
+Volume=7None
+
+
+2018-07-16 22:10:35
+2018-07-16 22:10:35
+Close=10.500
+Adjustment=-
+Open=10.500
+High=10.500
+Low=10.500
+Volume=7None
+
+
+2018-07-17 18:10:37
+2018-07-17 18:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-17 22:10:35
+2018-07-17 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-18 18:10:36
+2018-07-18 18:10:36
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-18 22:10:34
+2018-07-18 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-19 18:10:38
+2018-07-19 18:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-19 22:10:36
+2018-07-19 22:10:36
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-20 18:10:41
+2018-07-20 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-20 22:10:57
+2018-07-20 22:10:57
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-25 18:10:35
+2018-07-25 18:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-25 22:10:42
+2018-07-25 22:10:42
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-26 18:10:36
+2018-07-26 18:10:36
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-26 22:10:35
+2018-07-26 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-27 22:10:40
+2018-07-27 22:10:40
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-07-30 18:11:13
+2018-07-30 18:11:13
+Close=11.980
+Adjustment=1.480
+Open=11.000
+High=11.980
+Low=11.000
+Volume=75None
+
+
+2018-07-30 22:10:37
+2018-07-30 22:10:37
+Close=11.980
+Adjustment=1.480
+Open=11.000
+High=11.980
+Low=11.000
+Volume=75None
+
+
+2018-07-31 18:10:39
+2018-07-31 18:10:39
+Close=12.200
+Adjustment=0.220
+Open=12.000
+High=12.500
+Low=11.680
+Volume=197None
+
+
+2018-07-31 22:10:35
+2018-07-31 22:10:35
+Close=12.200
+Adjustment=0.220
+Open=12.000
+High=12.500
+Low=11.680
+Volume=197None
+
+
+2018-08-01 18:10:39
+2018-08-01 18:10:39
+Close=12.400
+Adjustment=0.200
+Open=12.400
+High=12.400
+Low=12.000
+Volume=66None
+
+
+2018-08-01 22:10:30
+2018-08-01 22:10:30
+Close=12.400
+Adjustment=0.200
+Open=12.400
+High=12.400
+Low=12.000
+Volume=66None
+
+
+2018-08-02 18:10:38
+2018-08-02 18:10:38
+Close=12.400
+Adjustment=-
+Open=12.400
+High=12.400
+Low=12.400
+Volume=10None
+
+
+2018-08-02 22:10:36
+2018-08-02 22:10:36
+Close=12.400
+Adjustment=-
+Open=12.400
+High=12.400
+Low=12.400
+Volume=10None
+
+
+2018-08-03 18:10:36
+2018-08-03 18:10:36
+Close=12.400
+Adjustment=-
+Open=12.500
+High=12.500
+Low=12.100
+Volume=42None
+
+
+2018-08-03 22:10:37
+2018-08-03 22:10:37
+Close=12.400
+Adjustment=-
+Open=12.500
+High=12.500
+Low=12.100
+Volume=42None
+
+
+2018-08-06 18:10:37
+2018-08-06 18:10:37
+Close=12.500
+Adjustment=0.100
+Open=12.400
+High=12.600
+Low=12.400
+Volume=136None
+
+
+2018-08-06 22:10:36
+2018-08-06 22:10:36
+Close=12.500
+Adjustment=0.100
+Open=12.400
+High=12.600
+Low=12.400
+Volume=136None
+
+
+2018-08-07 18:10:34
+2018-08-07 18:10:34
+Close=13.200
+Adjustment=0.700
+Open=12.500
+High=13.500
+Low=12.500
+Volume=208None
+
+
+2018-08-07 22:10:28
+2018-08-07 22:10:28
+Close=13.200
+Adjustment=0.700
+Open=12.500
+High=13.500
+Low=12.500
+Volume=208None
+
+
+2018-08-08 22:10:34
+2018-08-08 22:10:34
+Close=14.200
+Adjustment=1.000
+Open=13.500
+High=14.500
+Low=13.500
+Volume=332None
+
+
+2018-08-09 18:10:36
+2018-08-09 18:10:36
+Close=14.480
+Adjustment=0.280
+Open=14.500
+High=14.600
+Low=14.400
+Volume=435None
+
+
+2018-08-09 22:10:36
+2018-08-09 22:10:36
+Close=14.480
+Adjustment=0.280
+Open=14.500
+High=14.600
+Low=14.400
+Volume=435None
+
+
+2018-08-10 18:10:35
+2018-08-10 18:10:35
+Close=14.000
+Adjustment=-0.480
+Open=14.480
+High=14.480
+Low=13.840
+Volume=388None
+
+
+2018-08-10 22:10:31
+2018-08-10 22:10:31
+Close=14.000
+Adjustment=-0.480
+Open=14.480
+High=14.480
+Low=13.840
+Volume=388None
+
+
+2018-08-13 18:10:38
+2018-08-13 18:10:38
+Close=13.500
+Adjustment=-0.500
+Open=14.000
+High=14.040
+Low=13.500
+Volume=705None
+
+
+2018-08-13 22:10:31
+2018-08-13 22:10:31
+Close=13.500
+Adjustment=-0.500
+Open=14.000
+High=14.040
+Low=13.500
+Volume=705None
+
+
+2018-08-14 18:10:36
+2018-08-14 18:10:36
+Close=3.340
+Adjustment=0.130
+Open=3.400
+High=3.450
+Low=3.220
+Volume=2336None
+
+
+2018-08-14 22:10:35
+2018-08-14 22:10:35
+Close=3.340
+Adjustment=0.130
+Open=3.400
+High=3.450
+Low=3.220
+Volume=2336None
+
+
+2018-08-15 18:10:33
+2018-08-15 18:10:33
+Close=3.400
+Adjustment=0.060
+Open=3.400
+High=3.400
+Low=3.340
+Volume=1156None
+
+
+2018-08-15 22:10:33
+2018-08-15 22:10:33
+Close=3.400
+Adjustment=0.060
+Open=3.400
+High=3.400
+Low=3.340
+Volume=1156None
+
+
+2018-08-16 18:10:35
+2018-08-16 18:10:35
+Close=3.380
+Adjustment=-0.020
+Open=3.370
+High=3.380
+Low=3.350
+Volume=707None
+
+
+2018-08-16 22:10:30
+2018-08-16 22:10:30
+Close=3.380
+Adjustment=-0.020
+Open=3.370
+High=3.380
+Low=3.350
+Volume=707None
+
+
+2018-08-17 22:10:33
+2018-08-17 22:10:33
+Close=3.200
+Adjustment=-0.180
+Open=3.380
+High=3.380
+Low=3.200
+Volume=1853None
+
+
+2018-08-20 18:10:36
+2018-08-20 18:10:36
+Close=3.020
+Adjustment=-0.180
+Open=3.180
+High=3.180
+Low=3.010
+Volume=1679None
+
+
+2018-08-20 22:10:34
+2018-08-20 22:10:34
+Close=3.020
+Adjustment=-0.180
+Open=3.180
+High=3.180
+Low=3.010
+Volume=1679None
+
+
+2018-08-21 18:10:38
+2018-08-21 18:10:38
+Close=2.960
+Adjustment=-0.060
+Open=3.020
+High=3.020
+Low=2.950
+Volume=1625None
+
+
+2018-08-21 22:10:35
+2018-08-21 22:10:35
+Close=2.960
+Adjustment=-0.060
+Open=3.020
+High=3.020
+Low=2.950
+Volume=1625None
+
+
+2018-08-22 18:10:39
+2018-08-22 18:10:39
+Close=2.960
+Adjustment=-0.060
+Open=3.020
+High=3.020
+Low=2.950
+Volume=1625None
+
+
+2018-08-22 22:10:34
+2018-08-22 22:10:34
+Close=2.960
+Adjustment=-0.060
+Open=3.020
+High=3.020
+Low=2.950
+Volume=1625None
+
+
+2018-08-23 18:10:38
+2018-08-23 18:10:38
+Close=3.000
+Adjustment=0.040
+Open=2.960
+High=3.020
+Low=2.960
+Volume=280None
+
+
+2018-08-23 22:10:35
+2018-08-23 22:10:35
+Close=3.000
+Adjustment=0.040
+Open=2.960
+High=3.020
+Low=2.960
+Volume=280None
+
+
+2018-08-24 18:10:45
+2018-08-24 18:10:45
+Close=2.970
+Adjustment=-0.030
+Open=3.000
+High=3.000
+Low=2.970
+Volume=181None
+
+
+2018-08-24 22:10:35
+2018-08-24 22:10:35
+Close=2.970
+Adjustment=-0.030
+Open=3.000
+High=3.000
+Low=2.970
+Volume=181None
+
+
+2018-08-27 18:10:41
+2018-08-27 18:10:41
+Close=2.970
+Adjustment=-
+Open=2.970
+High=3.000
+Low=2.970
+Volume=268None
+
+
+2018-08-27 22:10:33
+2018-08-27 22:10:33
+Close=2.970
+Adjustment=-
+Open=2.970
+High=3.000
+Low=2.970
+Volume=268None
+
+
+2018-08-28 18:10:34
+2018-08-28 18:10:34
+Close=2.980
+Adjustment=0.010
+Open=3.070
+High=3.070
+Low=2.980
+Volume=109None
+
+
+2018-08-28 22:10:34
+2018-08-28 22:10:34
+Close=2.980
+Adjustment=0.010
+Open=3.070
+High=3.070
+Low=2.980
+Volume=109None
+
+
+2018-08-29 18:10:35
+2018-08-29 18:10:35
+Close=2.980
+Adjustment=-
+Open=2.980
+High=3.020
+Low=2.980
+Volume=95None
+
+
+2018-08-29 22:10:33
+2018-08-29 22:10:33
+Close=2.980
+Adjustment=-
+Open=2.980
+High=3.020
+Low=2.980
+Volume=95None
+
+
+2018-08-30 18:10:37
+2018-08-30 18:10:37
+Close=2.950
+Adjustment=-0.030
+Open=3.000
+High=3.000
+Low=2.950
+Volume=483None
+
+
+2018-08-30 22:10:35
+2018-08-30 22:10:35
+Close=2.950
+Adjustment=-0.030
+Open=3.000
+High=3.000
+Low=2.950
+Volume=483None
+
+
+2018-08-31 18:10:42
+2018-08-31 18:10:42
+Close=2.950
+Adjustment=-0.030
+Open=3.000
+High=3.000
+Low=2.950
+Volume=483None
+
+
+2018-08-31 22:10:32
+2018-08-31 22:10:32
+Close=2.950
+Adjustment=-0.030
+Open=3.000
+High=3.000
+Low=2.950
+Volume=483None
+
+
+2018-09-03 18:10:41
+2018-09-03 18:10:41
+Close=2.930
+Adjustment=-0.020
+Open=2.950
+High=2.950
+Low=2.870
+Volume=300None
+
+
+2018-09-03 22:10:32
+2018-09-03 22:10:32
+Close=2.930
+Adjustment=-0.020
+Open=2.950
+High=2.950
+Low=2.870
+Volume=300None
+
+
+2018-09-04 22:10:35
+2018-09-04 22:10:35
+Close=2.900
+Adjustment=-0.030
+Open=3.000
+High=3.000
+Low=2.900
+Volume=79None
+
+
+2018-09-05 18:10:37
+2018-09-05 18:10:37
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=190None
+
+
+2018-09-05 22:10:37
+2018-09-05 22:10:37
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=190None
+
+
+2018-09-06 18:10:34
+2018-09-06 18:10:34
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=28None
+
+
+2018-09-06 22:10:37
+2018-09-06 22:10:37
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=28None
+
+
+2018-09-07 18:10:36
+2018-09-07 18:10:36
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=7None
+
+
+2018-09-07 22:10:36
+2018-09-07 22:10:36
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=7None
+
+
+2018-09-10 18:10:38
+2018-09-10 18:10:38
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=7None
+
+
+2018-09-10 22:10:31
+2018-09-10 22:10:31
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=7None
+
+
+2018-09-11 18:10:38
+2018-09-11 18:10:38
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=7None
+
+
+2018-09-11 22:10:36
+2018-09-11 22:10:36
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=7None
+
+
+2018-09-12 18:10:45
+2018-09-12 18:10:45
+Close=3.000
+Adjustment=0.100
+Open=2.900
+High=3.000
+Low=2.900
+Volume=55None
+
+
+2018-09-12 22:10:40
+2018-09-12 22:10:40
+Close=3.000
+Adjustment=0.100
+Open=2.900
+High=3.000
+Low=2.900
+Volume=55None
+
+
+2018-09-13 18:10:35
+2018-09-13 18:10:35
+Close=2.900
+Adjustment=-0.100
+Open=3.020
+High=3.020
+Low=2.900
+Volume=17None
+
+
+2018-09-13 22:10:37
+2018-09-13 22:10:37
+Close=2.900
+Adjustment=-0.100
+Open=3.020
+High=3.020
+Low=2.900
+Volume=17None
+
+
+2018-09-14 22:10:37
+2018-09-14 22:10:37
+Close=2.900
+Adjustment=-
+Open=2.920
+High=2.920
+Low=2.900
+Volume=10None
+
+
+2018-09-17 18:11:12
+2018-09-17 18:11:12
+Close=2.900
+Adjustment=-
+Open=2.920
+High=2.920
+Low=2.900
+Volume=10None
+
+
+2018-09-17 22:10:34
+2018-09-17 22:10:34
+Close=2.900
+Adjustment=-
+Open=2.920
+High=2.920
+Low=2.900
+Volume=10None
+
+
+2018-09-18 18:10:35
+2018-09-18 18:10:35
+Close=2.920
+Adjustment=0.020
+Open=2.920
+High=2.920
+Low=2.920
+Volume=50None
+
+
+2018-09-18 22:10:37
+2018-09-18 22:10:37
+Close=2.920
+Adjustment=0.020
+Open=2.920
+High=2.920
+Low=2.920
+Volume=50None
+
+
+2018-09-19 18:11:30
+2018-09-19 18:11:30
+Close=2.900
+Adjustment=-0.020
+Open=2.900
+High=2.920
+Low=2.900
+Volume=123None
+
+
+2018-09-19 22:10:38
+2018-09-19 22:10:38
+Close=2.900
+Adjustment=-0.020
+Open=2.900
+High=2.920
+Low=2.900
+Volume=123None
+
+
+2018-09-20 18:10:41
+2018-09-20 18:10:41
+Close=2.850
+Adjustment=-0.050
+Open=2.860
+High=2.860
+Low=2.850
+Volume=131None
+
+
+2018-09-20 22:10:36
+2018-09-20 22:10:36
+Close=2.850
+Adjustment=-0.050
+Open=2.860
+High=2.860
+Low=2.850
+Volume=131None
+
+
+2018-09-21 18:10:45
+2018-09-21 18:10:45
+Close=2.850
+Adjustment=-
+Open=2.850
+High=2.850
+Low=2.850
+Volume=111None
+
+
+2018-09-21 22:10:35
+2018-09-21 22:10:35
+Close=2.850
+Adjustment=-
+Open=2.850
+High=2.850
+Low=2.850
+Volume=111None
+
+
+2018-09-24 18:10:42
+2018-09-24 18:10:42
+Close=2.900
+Adjustment=0.050
+Open=2.900
+High=2.900
+Low=2.900
+Volume=10None
+
+
+2018-09-24 22:10:37
+2018-09-24 22:10:37
+Close=2.900
+Adjustment=0.050
+Open=2.900
+High=2.900
+Low=2.900
+Volume=10None
+
+
+2018-09-25 18:10:38
+2018-09-25 18:10:38
+Close=3.000
+Adjustment=0.100
+Open=2.970
+High=3.000
+Low=2.970
+Volume=390None
+
+
+2018-09-25 22:10:33
+2018-09-25 22:10:33
+Close=3.000
+Adjustment=0.100
+Open=2.970
+High=3.000
+Low=2.970
+Volume=390None
+
+
+2018-09-26 18:10:35
+2018-09-26 18:10:35
+Close=2.900
+Adjustment=-0.100
+Open=3.000
+High=3.000
+Low=2.900
+Volume=23None
+
+
+2018-09-26 22:10:33
+2018-09-26 22:10:33
+Close=2.900
+Adjustment=-0.100
+Open=3.000
+High=3.000
+Low=2.900
+Volume=23None
+
+
+2018-09-27 18:10:38
+2018-09-27 18:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-09-27 22:10:33
+2018-09-27 22:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-09-28 18:10:34
+2018-09-28 18:10:34
+Close=2.940
+Adjustment=0.040
+Open=2.950
+High=2.950
+Low=2.920
+Volume=93None
+
+
+2018-09-28 22:10:32
+2018-09-28 22:10:32
+Close=2.940
+Adjustment=0.040
+Open=2.950
+High=2.950
+Low=2.920
+Volume=93None
+
+
+2018-10-01 18:10:42
+2018-10-01 18:10:42
+Close=2.960
+Adjustment=0.020
+Open=2.990
+High=2.990
+Low=2.960
+Volume=59None
+
+
+2018-10-01 22:10:36
+2018-10-01 22:10:36
+Close=2.960
+Adjustment=0.020
+Open=2.990
+High=2.990
+Low=2.960
+Volume=59None
+
+
+2018-10-02 22:10:31
+2018-10-02 22:10:31
+Close=2.960
+Adjustment=-
+Open=2.960
+High=2.960
+Low=2.960
+Volume=146None
+
+
+2018-10-03 18:10:31
+2018-10-03 18:10:31
+Close=2.970
+Adjustment=0.010
+Open=2.960
+High=2.980
+Low=2.960
+Volume=101None
+
+
+2018-10-03 22:10:36
+2018-10-03 22:10:36
+Close=2.970
+Adjustment=0.010
+Open=2.960
+High=2.980
+Low=2.960
+Volume=101None
+
+
+2018-10-04 18:10:34
+2018-10-04 18:10:34
+Close=2.910
+Adjustment=-0.060
+Open=2.910
+High=2.910
+Low=2.910
+Volume=8None
+
+
+2018-10-04 22:10:38
+2018-10-04 22:10:38
+Close=2.910
+Adjustment=-0.060
+Open=2.910
+High=2.910
+Low=2.910
+Volume=8None
+
+
+2018-10-05 18:11:07
+2018-10-05 18:11:07
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-10-05 22:10:38
+2018-10-05 22:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-10-08 18:10:36
+2018-10-08 18:10:36
+Close=2.920
+Adjustment=0.010
+Open=2.900
+High=2.920
+Low=2.900
+Volume=108None
+
+
+2018-10-08 22:10:37
+2018-10-08 22:10:37
+Close=2.920
+Adjustment=0.010
+Open=2.900
+High=2.920
+Low=2.900
+Volume=108None
+
+
+2018-10-09 18:10:45
+2018-10-09 18:10:45
+Close=2.900
+Adjustment=-0.020
+Open=2.920
+High=2.920
+Low=2.850
+Volume=401None
+
+
+2018-10-09 22:10:32
+2018-10-09 22:10:32
+Close=2.900
+Adjustment=-0.020
+Open=2.920
+High=2.920
+Low=2.850
+Volume=401None
+
+
+2018-10-10 18:10:34
+2018-10-10 18:10:34
+Close=2.900
+Adjustment=-
+Open=2.920
+High=2.920
+Low=2.900
+Volume=68None
+
+
+2018-10-10 22:10:33
+2018-10-10 22:10:33
+Close=2.900
+Adjustment=-
+Open=2.920
+High=2.920
+Low=2.900
+Volume=68None
+
+
+2018-10-11 18:10:40
+2018-10-11 18:10:40
+Close=2.920
+Adjustment=0.020
+Open=2.900
+High=2.920
+Low=2.900
+Volume=184None
+
+
+2018-10-11 22:10:31
+2018-10-11 22:10:31
+Close=2.920
+Adjustment=0.020
+Open=2.900
+High=2.920
+Low=2.900
+Volume=184None
+
+
+2018-10-12 18:10:37
+2018-10-12 18:10:37
+Close=2.920
+Adjustment=-
+Open=2.920
+High=2.920
+Low=2.920
+Volume=5None
+
+
+2018-10-12 22:10:33
+2018-10-12 22:10:33
+Close=2.920
+Adjustment=-
+Open=2.920
+High=2.920
+Low=2.920
+Volume=5None
+
+
+2018-10-15 18:10:37
+2018-10-15 18:10:37
+Close=2.950
+Adjustment=0.030
+Open=2.950
+High=2.950
+Low=2.950
+Volume=82None
+
+
+2018-10-15 22:10:34
+2018-10-15 22:10:34
+Close=2.950
+Adjustment=0.030
+Open=2.950
+High=2.950
+Low=2.950
+Volume=82None
+
+
+2018-10-16 18:10:42
+2018-10-16 18:10:42
+Close=2.950
+Adjustment=-
+Open=2.900
+High=2.950
+Low=2.900
+Volume=32None
+
+
+2018-10-16 22:10:34
+2018-10-16 22:10:34
+Close=2.950
+Adjustment=-
+Open=2.900
+High=2.950
+Low=2.900
+Volume=32None
+
+
+2018-10-17 18:10:45
+2018-10-17 18:10:45
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-10-17 22:10:37
+2018-10-17 22:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-10-18 18:10:38
+2018-10-18 18:10:38
+Close=2.950
+Adjustment=-
+Open=2.950
+High=2.950
+Low=2.950
+Volume=10None
+
+
+2018-10-18 22:10:31
+2018-10-18 22:10:31
+Close=2.950
+Adjustment=-
+Open=2.950
+High=2.950
+Low=2.950
+Volume=10None
+
+
+2018-10-19 18:10:36
+2018-10-19 18:10:36
+Close=2.810
+Adjustment=-0.140
+Open=2.810
+High=2.810
+Low=2.810
+Volume=11None
+
+
+2018-10-19 22:10:33
+2018-10-19 22:10:33
+Close=2.810
+Adjustment=-0.140
+Open=2.810
+High=2.810
+Low=2.810
+Volume=11None
+
+
+2018-10-22 18:10:40
+2018-10-22 18:10:40
+Close=2.940
+Adjustment=0.130
+Open=2.800
+High=2.940
+Low=2.800
+Volume=6None
+
+
+2018-10-22 22:10:35
+2018-10-22 22:10:35
+Close=2.940
+Adjustment=0.130
+Open=2.800
+High=2.940
+Low=2.800
+Volume=6None
+
+
+2018-10-23 18:10:36
+2018-10-23 18:10:36
+Close=2.850
+Adjustment=-0.090
+Open=2.850
+High=2.860
+Low=2.850
+Volume=210None
+
+
+2018-10-23 22:10:35
+2018-10-23 22:10:35
+Close=2.850
+Adjustment=-0.090
+Open=2.850
+High=2.860
+Low=2.850
+Volume=210None
+
+
+2018-10-24 18:10:40
+2018-10-24 18:10:40
+Close=2.900
+Adjustment=0.050
+Open=2.900
+High=2.900
+Low=2.900
+Volume=30None
+
+
+2018-10-24 22:10:33
+2018-10-24 22:10:33
+Close=2.900
+Adjustment=0.050
+Open=2.900
+High=2.900
+Low=2.900
+Volume=30None
+
+
+2018-10-25 22:10:34
+2018-10-25 22:10:34
+Close=2.850
+Adjustment=-0.050
+Open=2.850
+High=2.850
+Low=2.850
+Volume=118None
+
+
+2018-10-26 22:10:36
+2018-10-26 22:10:36
+Close=2.820
+Adjustment=-0.030
+Open=2.820
+High=2.820
+Low=2.820
+Volume=8None
+
+
+2018-10-29 22:10:39
+2018-10-29 22:10:39
+Close=2.900
+Adjustment=0.080
+Open=2.840
+High=2.900
+Low=2.840
+Volume=527None
+
+
+2018-10-30 22:10:34
+2018-10-30 22:10:34
+Close=2.950
+Adjustment=0.050
+Open=2.950
+High=2.950
+Low=2.950
+Volume=230None
+
+
+2018-10-31 18:10:38
+2018-10-31 18:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-10-31 22:10:38
+2018-10-31 22:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-11-01 18:10:41
+2018-11-01 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-11-01 22:10:37
+2018-11-01 22:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-11-02 18:10:38
+2018-11-02 18:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-11-02 22:10:35
+2018-11-02 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-11-05 18:10:36
+2018-11-05 18:10:36
+Close=2.900
+Adjustment=-0.050
+Open=2.900
+High=2.950
+Low=2.900
+Volume=237None
+
+
+2018-11-05 22:10:37
+2018-11-05 22:10:37
+Close=2.900
+Adjustment=-0.050
+Open=2.900
+High=2.950
+Low=2.900
+Volume=237None
+
+
+2018-11-06 22:10:32
+2018-11-06 22:10:32
+Close=2.900
+Adjustment=-0.050
+Open=2.900
+High=2.950
+Low=2.900
+Volume=237None
+
+
+2018-11-07 22:10:36
+2018-11-07 22:10:36
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=38None
+
+
+2018-11-08 18:10:25
+2018-11-08 18:10:25
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=93None
+
+
+2018-11-08 22:10:38
+2018-11-08 22:10:38
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=93None
+
+
+2018-11-09 18:10:44
+2018-11-09 18:10:44
+Close=2.850
+Adjustment=-0.050
+Open=2.850
+High=2.850
+Low=2.850
+Volume=15None
+
+
+2018-11-09 22:10:33
+2018-11-09 22:10:33
+Close=2.850
+Adjustment=-0.050
+Open=2.850
+High=2.850
+Low=2.850
+Volume=15None
+
+
+2018-11-12 22:10:32
+2018-11-12 22:10:32
+Close=3.010
+Adjustment=0.160
+Open=3.010
+High=3.010
+Low=3.010
+Volume=57None
+
+
+2018-11-13 22:10:34
+2018-11-13 22:10:34
+Close=2.860
+Adjustment=-0.150
+Open=2.860
+High=2.860
+Low=2.850
+Volume=277None
+
+
+2018-11-14 18:10:35
+2018-11-14 18:10:35
+Close=2.860
+Adjustment=-
+Open=2.860
+High=2.860
+Low=2.860
+Volume=10None
+
+
+2018-11-14 22:10:34
+2018-11-14 22:10:34
+Close=2.860
+Adjustment=-
+Open=2.860
+High=2.860
+Low=2.860
+Volume=10None
+
+
+2018-11-15 18:10:44
+2018-11-15 18:10:44
+Close=2.900
+Adjustment=0.040
+Open=2.870
+High=2.900
+Low=2.870
+Volume=51None
+
+
+2018-11-15 22:10:36
+2018-11-15 22:10:36
+Close=2.900
+Adjustment=0.040
+Open=2.870
+High=2.900
+Low=2.870
+Volume=51None
+
+
+2018-11-16 18:10:36
+2018-11-16 18:10:36
+Close=2.880
+Adjustment=-0.020
+Open=2.900
+High=2.900
+Low=2.800
+Volume=246None
+
+
+2018-11-16 22:10:34
+2018-11-16 22:10:34
+Close=2.880
+Adjustment=-0.020
+Open=2.900
+High=2.900
+Low=2.800
+Volume=246None
+
+
+2018-11-19 22:10:32
+2018-11-19 22:10:32
+Close=2.900
+Adjustment=0.020
+Open=2.900
+High=2.900
+Low=2.900
+Volume=116None
+
+
+2018-11-20 22:10:37
+2018-11-20 22:10:37
+Close=2.900
+Adjustment=0.020
+Open=2.900
+High=2.900
+Low=2.900
+Volume=116None
+
+
+2018-11-21 18:10:37
+2018-11-21 18:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-11-21 22:10:30
+2018-11-21 22:10:30
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-11-22 18:10:37
+2018-11-22 18:10:37
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.950
+Low=2.900
+Volume=204None
+
+
+2018-11-22 22:10:37
+2018-11-22 22:10:37
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.950
+Low=2.900
+Volume=204None
+
+
+2018-11-23 18:10:46
+2018-11-23 18:10:46
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=40None
+
+
+2018-11-23 22:10:34
+2018-11-23 22:10:34
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=40None
+
+
+2018-11-26 18:10:35
+2018-11-26 18:10:35
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=106None
+
+
+2018-11-26 22:10:34
+2018-11-26 22:10:34
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=106None
+
+
+2018-11-27 18:10:56
+2018-11-27 18:10:56
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=76None
+
+
+2018-11-27 22:10:45
+2018-11-27 22:10:45
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=76None
+
+
+2018-11-28 18:10:28
+2018-11-28 18:10:28
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=456None
+
+
+2018-11-28 22:11:00
+2018-11-28 22:11:00
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=456None
+
+
+2018-11-29 18:10:43
+2018-11-29 18:10:43
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-11-29 22:10:34
+2018-11-29 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-11-30 18:10:37
+2018-11-30 18:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-11-30 22:10:37
+2018-11-30 22:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-03 18:10:33
+2018-12-03 18:10:33
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=330None
+
+
+2018-12-03 22:10:37
+2018-12-03 22:10:37
+Close=2.900
+Adjustment=-
+Open=2.900
+High=2.900
+Low=2.900
+Volume=330None
+
+
+2018-12-04 18:10:45
+2018-12-04 18:10:45
+Close=2.870
+Adjustment=-0.030
+Open=2.870
+High=2.870
+Low=2.870
+Volume=40None
+
+
+2018-12-04 22:10:32
+2018-12-04 22:10:32
+Close=2.870
+Adjustment=-0.030
+Open=2.870
+High=2.870
+Low=2.870
+Volume=40None
+
+
+2018-12-05 18:10:40
+2018-12-05 18:10:40
+Close=2.870
+Adjustment=-
+Open=2.870
+High=2.870
+Low=2.870
+Volume=487None
+
+
+2018-12-05 22:10:33
+2018-12-05 22:10:33
+Close=2.870
+Adjustment=-
+Open=2.870
+High=2.870
+Low=2.870
+Volume=487None
+
+
+2018-12-06 18:10:41
+2018-12-06 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-06 22:10:38
+2018-12-06 22:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-07 18:10:35
+2018-12-07 18:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-07 22:10:34
+2018-12-07 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-10 18:10:41
+2018-12-10 18:10:41
+Close=2.800
+Adjustment=-0.070
+Open=2.800
+High=2.800
+Low=2.800
+Volume=20None
+
+
+2018-12-10 22:10:34
+2018-12-10 22:10:34
+Close=2.800
+Adjustment=-0.070
+Open=2.800
+High=2.800
+Low=2.800
+Volume=20None
+
+
+2018-12-11 22:10:40
+2018-12-11 22:10:40
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=42None
+
+
+2018-12-12 22:10:36
+2018-12-12 22:10:36
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=50None
+
+
+2018-12-13 18:10:43
+2018-12-13 18:10:43
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-13 22:10:31
+2018-12-13 22:10:31
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-14 18:10:36
+2018-12-14 18:10:36
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=70None
+
+
+2018-12-14 22:10:40
+2018-12-14 22:10:40
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=70None
+
+
+2018-12-17 18:10:39
+2018-12-17 18:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-17 22:10:33
+2018-12-17 22:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-18 18:10:40
+2018-12-18 18:10:40
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-18 22:10:38
+2018-12-18 22:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-19 18:10:40
+2018-12-19 18:10:40
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2018-12-19 22:10:34
+2018-12-19 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-20 18:10:41
+2018-12-20 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-20 22:10:33
+2018-12-20 22:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-21 18:10:35
+2018-12-21 18:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-21 22:10:39
+2018-12-21 22:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2018-12-24 18:10:44
+2018-12-24 18:10:44
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=20None
+
+
+2018-12-24 22:10:35
+2018-12-24 22:10:35
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=20None
+
+
+2018-12-25 18:11:19
+2018-12-25 18:11:19
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=20None
+
+
+2018-12-25 22:10:33
+2018-12-25 22:10:33
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=20None
+
+
+2018-12-26 18:10:40
+2018-12-26 18:10:40
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.770
+Volume=579None
+
+
+2018-12-26 22:10:36
+2018-12-26 22:10:36
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.770
+Volume=579None
+
+
+2018-12-27 18:10:33
+2018-12-27 18:10:33
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=30None
+
+
+2018-12-27 22:10:35
+2018-12-27 22:10:35
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=30None
+
+
+2018-12-28 22:10:36
+2018-12-28 22:10:36
+Close=2.780
+Adjustment=-0.010
+Open=2.780
+High=2.780
+Low=2.780
+Volume=40None
+
+
+2018-12-31 18:11:13
+2018-12-31 18:11:13
+Close=2.800
+Adjustment=0.020
+Open=2.800
+High=2.800
+Low=2.800
+Volume=5None
+
+
+2018-12-31 22:10:33
+2018-12-31 22:10:33
+Close=2.800
+Adjustment=0.020
+Open=2.800
+High=2.800
+Low=2.800
+Volume=5None
+
+
+2019-01-01 18:10:35
+2019-01-01 18:10:35
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2019-01-01 22:10:32
+2019-01-01 22:10:32
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2019-01-02 18:10:28
+2019-01-02 18:10:28
+Close=2.750
+Adjustment=-0.050
+Open=2.800
+High=2.800
+Low=2.750
+Volume=11None
+
+
+2019-01-02 22:10:34
+2019-01-02 22:10:34
+Close=2.750
+Adjustment=-0.050
+Open=2.800
+High=2.800
+Low=2.750
+Volume=11None
+
+
+2019-01-03 18:10:45
+2019-01-03 18:10:45
+Close=2.750
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.750
+Volume=140None
+
+
+2019-01-03 22:10:37
+2019-01-03 22:10:37
+Close=2.750
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.750
+Volume=140None
+
+
+2019-01-04 18:10:40
+2019-01-04 18:10:40
+Close=2.760
+Adjustment=0.010
+Open=2.800
+High=2.800
+Low=2.760
+Volume=130None
+
+
+2019-01-04 22:10:37
+2019-01-04 22:10:37
+Close=2.760
+Adjustment=0.010
+Open=2.800
+High=2.800
+Low=2.760
+Volume=130None
+
+
+2019-01-07 18:10:36
+2019-01-07 18:10:36
+Close=2.800
+Adjustment=0.040
+Open=2.800
+High=2.800
+Low=2.800
+Volume=42None
+
+
+2019-01-07 22:10:31
+2019-01-07 22:10:31
+Close=2.800
+Adjustment=0.040
+Open=2.800
+High=2.800
+Low=2.800
+Volume=42None
+
+
+2019-01-08 22:10:38
+2019-01-08 22:10:38
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.760
+Volume=200None
+
+
+2019-01-09 18:10:35
+2019-01-09 18:10:35
+Close=2.800
+Adjustment=-
+Open=2.760
+High=2.800
+Low=2.760
+Volume=181None
+
+
+2019-01-09 22:10:37
+2019-01-09 22:10:37
+Close=2.800
+Adjustment=-
+Open=2.760
+High=2.800
+Low=2.760
+Volume=181None
+
+
+2019-01-10 18:10:39
+2019-01-10 18:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-10 22:10:35
+2019-01-10 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-11 18:10:37
+2019-01-11 18:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-11 22:10:33
+2019-01-11 22:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-14 18:10:39
+2019-01-14 18:10:39
+Close=2.790
+Adjustment=-0.010
+Open=2.880
+High=2.880
+Low=2.790
+Volume=138None
+
+
+2019-01-14 22:10:33
+2019-01-14 22:10:33
+Close=2.790
+Adjustment=-0.010
+Open=2.880
+High=2.880
+Low=2.790
+Volume=138None
+
+
+2019-01-15 18:10:33
+2019-01-15 18:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-15 22:10:42
+2019-01-15 22:10:42
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-16 18:10:39
+2019-01-16 18:10:39
+Close=2.800
+Adjustment=0.010
+Open=2.800
+High=2.800
+Low=2.800
+Volume=110None
+
+
+2019-01-16 22:10:33
+2019-01-16 22:10:33
+Close=2.800
+Adjustment=0.010
+Open=2.800
+High=2.800
+Low=2.800
+Volume=110None
+
+
+2019-01-17 18:10:40
+2019-01-17 18:10:40
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-17 22:11:00
+2019-01-17 22:11:00
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-18 22:10:34
+2019-01-18 22:10:34
+Close=2.800
+Adjustment=-
+Open=2.850
+High=2.850
+Low=2.800
+Volume=221None
+
+
+2019-01-21 18:10:34
+2019-01-21 18:10:34
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2019-01-21 22:10:32
+2019-01-21 22:10:32
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2019-01-22 18:10:38
+2019-01-22 18:10:38
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=73None
+
+
+2019-01-22 22:10:34
+2019-01-22 22:10:34
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=73None
+
+
+2019-01-23 22:10:36
+2019-01-23 22:10:36
+Close=2.820
+Adjustment=0.020
+Open=2.820
+High=2.820
+Low=2.820
+Volume=10None
+
+
+2019-01-24 22:10:33
+2019-01-24 22:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-25 18:10:40
+2019-01-25 18:10:40
+Close=2.770
+Adjustment=-0.050
+Open=2.900
+High=2.900
+Low=2.750
+Volume=144None
+
+
+2019-01-25 22:10:36
+2019-01-25 22:10:36
+Close=2.770
+Adjustment=-0.050
+Open=2.900
+High=2.900
+Low=2.750
+Volume=144None
+
+
+2019-01-28 18:10:35
+2019-01-28 18:10:35
+Close=2.790
+Adjustment=0.020
+Open=2.770
+High=2.800
+Low=2.770
+Volume=378None
+
+
+2019-01-28 22:10:36
+2019-01-28 22:10:36
+Close=2.790
+Adjustment=0.020
+Open=2.770
+High=2.800
+Low=2.770
+Volume=378None
+
+
+2019-01-29 18:11:24
+2019-01-29 18:11:24
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-29 22:10:32
+2019-01-29 22:10:32
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-30 18:10:39
+2019-01-30 18:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-30 22:10:49
+2019-01-30 22:10:49
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-01-31 18:10:35
+2019-01-31 18:10:35
+Close=2.750
+Adjustment=-0.040
+Open=2.750
+High=2.750
+Low=2.750
+Volume=50None
+
+
+2019-01-31 22:10:42
+2019-01-31 22:10:42
+Close=2.750
+Adjustment=-0.040
+Open=2.750
+High=2.750
+Low=2.750
+Volume=50None
+
+
+2019-02-01 22:10:30
+2019-02-01 22:10:30
+Close=
+Adjustment=
+Open=
+High=
+Low=
+Volume=None
+
+
+2019-02-04 18:10:38
+2019-02-04 18:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-02-04 22:10:33
+2019-02-04 22:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-02-05 22:10:35
+2019-02-05 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-02-06 22:10:35
+2019-02-06 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-02-07 18:10:35
+2019-02-07 18:10:35
+Close=2.800
+Adjustment=0.050
+Open=2.750
+High=2.800
+Low=2.750
+Volume=76None
+
+
+2019-02-07 22:10:35
+2019-02-07 22:10:35
+Close=2.800
+Adjustment=0.050
+Open=2.750
+High=2.800
+Low=2.750
+Volume=76None
+
+
+2019-02-08 18:10:40
+2019-02-08 18:10:40
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-02-08 22:10:37
+2019-02-08 22:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-02-11 22:10:33
+2019-02-11 22:10:33
+Close=2.820
+Adjustment=0.020
+Open=2.750
+High=2.820
+Low=2.750
+Volume=142None
+
+
+2019-02-12 18:10:41
+2019-02-12 18:10:41
+Close=2.700
+Adjustment=-0.120
+Open=2.700
+High=2.700
+Low=2.700
+Volume=10None
+
+
+2019-02-12 22:10:44
+2019-02-12 22:10:44
+Close=2.700
+Adjustment=-0.120
+Open=2.700
+High=2.700
+Low=2.700
+Volume=10None
+
+
+2019-02-13 18:10:47
+2019-02-13 18:10:47
+Close=2.800
+Adjustment=0.100
+Open=2.800
+High=2.800
+Low=2.800
+Volume=162None
+
+
+2019-02-13 22:10:36
+2019-02-13 22:10:36
+Close=2.800
+Adjustment=0.100
+Open=2.800
+High=2.800
+Low=2.800
+Volume=162None
+
+
+2019-02-14 18:10:39
+2019-02-14 18:10:39
+Close=2.860
+Adjustment=0.060
+Open=2.850
+High=2.860
+Low=2.850
+Volume=20None
+
+
+2019-02-14 22:10:45
+2019-02-14 22:10:45
+Close=2.860
+Adjustment=0.060
+Open=2.850
+High=2.860
+Low=2.850
+Volume=20None
+
+
+2019-02-15 18:10:41
+2019-02-15 18:10:41
+Close=2.860
+Adjustment=-
+Open=2.860
+High=2.860
+Low=2.860
+Volume=2None
+
+
+2019-02-15 22:10:36
+2019-02-15 22:10:36
+Close=2.860
+Adjustment=-
+Open=2.860
+High=2.860
+Low=2.860
+Volume=2None
+
+
+2019-02-18 18:10:39
+2019-02-18 18:10:39
+Close=2.760
+Adjustment=-0.100
+Open=2.800
+High=2.800
+Low=2.760
+Volume=70None
+
+
+2019-02-18 22:10:36
+2019-02-18 22:10:36
+Close=2.760
+Adjustment=-0.100
+Open=2.800
+High=2.800
+Low=2.760
+Volume=70None
+
+
+2019-02-19 18:10:36
+2019-02-19 18:10:36
+Close=2.800
+Adjustment=0.040
+Open=2.800
+High=2.800
+Low=2.800
+Volume=112None
+
+
+2019-02-19 22:10:43
+2019-02-19 22:10:43
+Close=2.800
+Adjustment=0.040
+Open=2.800
+High=2.800
+Low=2.800
+Volume=112None
+
+
+2019-02-20 18:10:36
+2019-02-20 18:10:36
+Close=2.820
+Adjustment=0.020
+Open=2.820
+High=2.820
+Low=2.820
+Volume=15None
+
+
+2019-02-20 22:10:34
+2019-02-20 22:10:34
+Close=2.820
+Adjustment=0.020
+Open=2.820
+High=2.820
+Low=2.820
+Volume=15None
+
+
+2019-02-21 22:10:38
+2019-02-21 22:10:38
+Close=2.900
+Adjustment=0.080
+Open=2.850
+High=2.900
+Low=2.850
+Volume=585None
+
+
+2019-02-22 18:10:46
+2019-02-22 18:10:46
+Close=2.750
+Adjustment=-0.150
+Open=2.750
+High=2.750
+Low=2.750
+Volume=42None
+
+
+2019-02-22 22:10:43
+2019-02-22 22:10:43
+Close=2.750
+Adjustment=-0.150
+Open=2.750
+High=2.750
+Low=2.750
+Volume=42None
+
+
+2019-02-25 18:10:42
+2019-02-25 18:10:42
+Close=2.830
+Adjustment=0.080
+Open=2.750
+High=2.830
+Low=2.750
+Volume=1241None
+
+
+2019-02-25 22:10:32
+2019-02-25 22:10:32
+Close=2.830
+Adjustment=0.080
+Open=2.750
+High=2.830
+Low=2.750
+Volume=1241None
+
+
+2019-02-26 22:10:39
+2019-02-26 22:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-02-27 18:10:50
+2019-02-27 18:10:50
+Close=2.710
+Adjustment=-0.120
+Open=2.820
+High=2.820
+Low=2.710
+Volume=428None
+
+
+2019-02-27 22:10:32
+2019-02-27 22:10:32
+Close=2.710
+Adjustment=-0.120
+Open=2.820
+High=2.820
+Low=2.710
+Volume=428None
+
+
+2019-02-28 18:10:51
+2019-02-28 18:10:51
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-02-28 22:10:41
+2019-02-28 22:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-01 18:10:35
+2019-03-01 18:10:35
+Close=2.770
+Adjustment=0.060
+Open=2.800
+High=2.800
+Low=2.770
+Volume=478None
+
+
+2019-03-01 22:10:42
+2019-03-01 22:10:42
+Close=2.770
+Adjustment=0.060
+Open=2.800
+High=2.800
+Low=2.770
+Volume=478None
+
+
+2019-03-04 18:10:44
+2019-03-04 18:10:44
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-04 22:10:33
+2019-03-04 22:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-05 18:10:42
+2019-03-05 18:10:42
+Close=2.800
+Adjustment=0.030
+Open=2.770
+High=2.800
+Low=2.770
+Volume=50None
+
+
+2019-03-05 22:10:36
+2019-03-05 22:10:36
+Close=2.800
+Adjustment=0.030
+Open=2.770
+High=2.800
+Low=2.770
+Volume=50None
+
+
+2019-03-06 22:10:34
+2019-03-06 22:10:34
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=60None
+
+
+2019-03-07 18:10:35
+2019-03-07 18:10:35
+Close=2.780
+Adjustment=-0.020
+Open=2.800
+High=2.800
+Low=2.780
+Volume=12None
+
+
+2019-03-07 22:10:36
+2019-03-07 22:10:36
+Close=2.780
+Adjustment=-0.020
+Open=2.800
+High=2.800
+Low=2.780
+Volume=12None
+
+
+2019-03-08 18:10:32
+2019-03-08 18:10:32
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-08 22:10:37
+2019-03-08 22:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-11 18:10:38
+2019-03-11 18:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-11 22:10:41
+2019-03-11 22:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-12 18:10:40
+2019-03-12 18:10:40
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-12 22:10:45
+2019-03-12 22:10:45
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-13 18:11:16
+2019-03-13 18:11:16
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-13 22:10:36
+2019-03-13 22:10:36
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-14 18:11:17
+2019-03-14 18:11:17
+Close=2.610
+Adjustment=-0.170
+Open=2.660
+High=2.660
+Low=2.610
+Volume=77None
+
+
+2019-03-14 22:10:33
+2019-03-14 22:10:33
+Close=2.610
+Adjustment=-0.170
+Open=2.660
+High=2.660
+Low=2.610
+Volume=77None
+
+
+2019-03-15 22:10:38
+2019-03-15 22:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-18 18:10:40
+2019-03-18 18:10:40
+Close=2.740
+Adjustment=0.130
+Open=2.620
+High=2.740
+Low=2.610
+Volume=188None
+
+
+2019-03-18 22:10:38
+2019-03-18 22:10:38
+Close=2.740
+Adjustment=0.130
+Open=2.620
+High=2.740
+Low=2.610
+Volume=188None
+
+
+2019-03-19 18:10:39
+2019-03-19 18:10:39
+Close=2.760
+Adjustment=0.020
+Open=2.760
+High=2.760
+Low=2.760
+Volume=53None
+
+
+2019-03-19 22:10:36
+2019-03-19 22:10:36
+Close=2.760
+Adjustment=0.020
+Open=2.760
+High=2.760
+Low=2.760
+Volume=53None
+
+
+2019-03-20 18:10:50
+2019-03-20 18:10:50
+Close=2.760
+Adjustment=-
+Open=2.760
+High=2.760
+Low=2.760
+Volume=40None
+
+
+2019-03-20 22:10:34
+2019-03-20 22:10:34
+Close=2.760
+Adjustment=-
+Open=2.760
+High=2.760
+Low=2.760
+Volume=40None
+
+
+2019-03-21 18:10:38
+2019-03-21 18:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-21 22:10:34
+2019-03-21 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-22 18:10:39
+2019-03-22 18:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-22 22:10:35
+2019-03-22 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-25 18:10:41
+2019-03-25 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-25 22:10:38
+2019-03-25 22:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-26 18:10:44
+2019-03-26 18:10:44
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-26 22:10:35
+2019-03-26 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-27 18:10:38
+2019-03-27 18:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-27 22:10:44
+2019-03-27 22:10:44
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-28 18:10:41
+2019-03-28 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-28 22:10:39
+2019-03-28 22:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-29 18:10:45
+2019-03-29 18:10:45
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-03-29 22:10:37
+2019-03-29 22:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-01 18:10:44
+2019-04-01 18:10:44
+Close=2.650
+Adjustment=-0.110
+Open=2.840
+High=2.840
+Low=2.650
+Volume=433None
+
+
+2019-04-01 22:10:35
+2019-04-01 22:10:35
+Close=2.650
+Adjustment=-0.110
+Open=2.840
+High=2.840
+Low=2.650
+Volume=433None
+
+
+2019-04-02 22:10:49
+2019-04-02 22:10:49
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-03 18:11:04
+2019-04-03 18:11:04
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-03 22:10:47
+2019-04-03 22:10:47
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-04 18:10:42
+2019-04-04 18:10:42
+Close=2.670
+Adjustment=0.020
+Open=2.670
+High=2.670
+Low=2.670
+Volume=20None
+
+
+2019-04-04 22:10:39
+2019-04-04 22:10:39
+Close=2.670
+Adjustment=0.020
+Open=2.670
+High=2.670
+Low=2.670
+Volume=20None
+
+
+2019-04-05 18:10:55
+2019-04-05 18:10:55
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-05 22:10:50
+2019-04-05 22:10:50
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-08 18:10:48
+2019-04-08 18:10:48
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-08 22:10:41
+2019-04-08 22:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-09 22:10:40
+2019-04-09 22:10:40
+Close=2.800
+Adjustment=0.130
+Open=2.800
+High=2.810
+Low=2.800
+Volume=443None
+
+
+2019-04-10 18:11:05
+2019-04-10 18:11:05
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=213None
+
+
+2019-04-10 22:10:39
+2019-04-10 22:10:39
+Close=2.800
+Adjustment=-
+Open=2.800
+High=2.800
+Low=2.800
+Volume=213None
+
+
+2019-04-11 18:10:58
+2019-04-11 18:10:58
+Close=2.810
+Adjustment=0.010
+Open=2.680
+High=2.810
+Low=2.680
+Volume=96None
+
+
+2019-04-11 22:10:39
+2019-04-11 22:10:39
+Close=2.810
+Adjustment=0.010
+Open=2.680
+High=2.810
+Low=2.680
+Volume=96None
+
+
+2019-04-12 18:11:06
+2019-04-12 18:11:06
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-12 22:10:42
+2019-04-12 22:10:42
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-15 18:10:43
+2019-04-15 18:10:43
+Close=2.810
+Adjustment=-
+Open=2.820
+High=2.820
+Low=2.750
+Volume=96None
+
+
+2019-04-15 22:10:32
+2019-04-15 22:10:32
+Close=2.810
+Adjustment=-
+Open=2.820
+High=2.820
+Low=2.750
+Volume=96None
+
+
+2019-04-16 18:10:37
+2019-04-16 18:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-16 22:10:43
+2019-04-16 22:10:43
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-17 18:10:41
+2019-04-17 18:10:41
+Close=2.800
+Adjustment=-0.010
+Open=2.700
+High=2.800
+Low=2.700
+Volume=50None
+
+
+2019-04-17 22:10:42
+2019-04-17 22:10:42
+Close=2.800
+Adjustment=-0.010
+Open=2.700
+High=2.800
+Low=2.700
+Volume=50None
+
+
+2019-04-18 18:10:42
+2019-04-18 18:10:42
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-18 22:10:42
+2019-04-18 22:10:42
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-19 18:10:45
+2019-04-19 18:10:45
+Close=2.810
+Adjustment=0.010
+Open=2.800
+High=2.810
+Low=2.790
+Volume=124None
+
+
+2019-04-19 22:10:46
+2019-04-19 22:10:46
+Close=2.810
+Adjustment=0.010
+Open=2.800
+High=2.810
+Low=2.790
+Volume=124None
+
+
+2019-04-22 18:10:38
+2019-04-22 18:10:38
+Close=2.790
+Adjustment=-0.020
+Open=2.790
+High=2.790
+Low=2.790
+Volume=240None
+
+
+2019-04-22 22:10:40
+2019-04-22 22:10:40
+Close=2.790
+Adjustment=-0.020
+Open=2.790
+High=2.790
+Low=2.790
+Volume=240None
+
+
+2019-04-23 18:10:43
+2019-04-23 18:10:43
+Close=2.820
+Adjustment=0.030
+Open=2.790
+High=2.820
+Low=2.790
+Volume=76None
+
+
+2019-04-23 22:10:43
+2019-04-23 22:10:43
+Close=2.820
+Adjustment=0.030
+Open=2.790
+High=2.820
+Low=2.790
+Volume=76None
+
+
+2019-04-24 18:10:43
+2019-04-24 18:10:43
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-24 22:10:45
+2019-04-24 22:10:45
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-25 22:10:43
+2019-04-25 22:10:43
+Close=2.790
+Adjustment=-0.030
+Open=2.800
+High=2.800
+Low=2.790
+Volume=606None
+
+
+2019-04-26 18:10:43
+2019-04-26 18:10:43
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-26 22:10:39
+2019-04-26 22:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-29 18:11:26
+2019-04-29 18:11:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-29 22:10:58
+2019-04-29 22:10:58
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-04-30 18:10:58
+2019-04-30 18:10:58
+Close=2.860
+Adjustment=0.070
+Open=2.820
+High=2.860
+Low=2.820
+Volume=1150None
+
+
+2019-04-30 22:10:52
+2019-04-30 22:10:52
+Close=2.860
+Adjustment=0.070
+Open=2.820
+High=2.860
+Low=2.820
+Volume=1150None
+
+
+2019-05-01 18:10:35
+2019-05-01 18:10:35
+Close=2.860
+Adjustment=0.070
+Open=2.820
+High=2.860
+Low=2.820
+Volume=1150None
+
+
+2019-05-01 22:10:41
+2019-05-01 22:10:41
+Close=2.860
+Adjustment=0.070
+Open=2.820
+High=2.860
+Low=2.820
+Volume=1150None
+
+
+2019-05-02 18:10:39
+2019-05-02 18:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-02 22:10:36
+2019-05-02 22:10:36
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-03 18:10:37
+2019-05-03 18:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-03 22:10:38
+2019-05-03 22:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-06 18:11:39
+2019-05-06 18:11:39
+Close=2.860
+Adjustment=-
+Open=2.860
+High=2.860
+Low=2.860
+Volume=10None
+
+
+2019-05-06 22:10:40
+2019-05-06 22:10:40
+Close=2.860
+Adjustment=-
+Open=2.860
+High=2.860
+Low=2.860
+Volume=10None
+
+
+2019-05-07 18:10:39
+2019-05-07 18:10:39
+Close=2.800
+Adjustment=-0.060
+Open=2.860
+High=2.860
+Low=2.800
+Volume=50None
+
+
+2019-05-07 22:10:39
+2019-05-07 22:10:39
+Close=2.800
+Adjustment=-0.060
+Open=2.860
+High=2.860
+Low=2.800
+Volume=50None
+
+
+2019-05-08 18:11:27
+2019-05-08 18:11:27
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-08 22:10:36
+2019-05-08 22:10:36
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-09 18:10:38
+2019-05-09 18:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-09 22:10:41
+2019-05-09 22:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-10 18:11:24
+2019-05-10 18:11:24
+Close=2.730
+Adjustment=-0.070
+Open=2.780
+High=2.780
+Low=2.730
+Volume=184None
+
+
+2019-05-10 22:10:37
+2019-05-10 22:10:37
+Close=2.730
+Adjustment=-0.070
+Open=2.780
+High=2.780
+Low=2.730
+Volume=184None
+
+
+2019-05-13 18:10:41
+2019-05-13 18:10:41
+Close=2.770
+Adjustment=0.040
+Open=2.780
+High=2.780
+Low=2.770
+Volume=100None
+
+
+2019-05-13 22:10:40
+2019-05-13 22:10:40
+Close=2.770
+Adjustment=0.040
+Open=2.780
+High=2.780
+Low=2.770
+Volume=100None
+
+
+2019-05-14 18:10:41
+2019-05-14 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-14 22:10:39
+2019-05-14 22:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-15 18:10:34
+2019-05-15 18:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-15 22:10:35
+2019-05-15 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-16 18:10:39
+2019-05-16 18:10:39
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-16 22:10:34
+2019-05-16 22:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-17 18:10:40
+2019-05-17 18:10:40
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-17 22:10:31
+2019-05-17 22:10:31
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-20 18:10:44
+2019-05-20 18:10:44
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-20 22:10:36
+2019-05-20 22:10:36
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-21 18:10:37
+2019-05-21 18:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-21 22:10:38
+2019-05-21 22:10:38
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-22 18:10:43
+2019-05-22 18:10:43
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-22 22:10:43
+2019-05-22 22:10:43
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-05-23 18:10:41
+2019-05-23 18:10:41
+Close=2.750
+Adjustment=-0.020
+Open=2.770
+High=2.780
+Low=2.750
+Volume=797None
+
+
+2019-05-23 22:10:42
+2019-05-23 22:10:42
+Close=2.750
+Adjustment=-0.020
+Open=2.770
+High=2.780
+Low=2.750
+Volume=797None
+
+
+2019-05-24 18:10:21
+2019-05-24 18:10:21
+Close=2.740
+Adjustment=-0.010
+Open=2.740
+High=2.740
+Low=2.740
+Volume=700None
+
+
+2019-05-24 22:10:24
+2019-05-24 22:10:24
+Close=2.740
+Adjustment=-0.010
+Open=2.740
+High=2.740
+Low=2.740
+Volume=700None
+
+
+2019-05-27 18:10:29
+2019-05-27 18:10:29
+Close=2.720
+Adjustment=-0.020
+Open=2.720
+High=2.720
+Low=2.720
+Volume=248None
+
+
+2019-05-27 22:10:24
+2019-05-27 22:10:24
+Close=2.720
+Adjustment=-0.020
+Open=2.720
+High=2.720
+Low=2.720
+Volume=248None
+
+
+2019-05-28 18:10:43
+2019-05-28 18:10:43
+Close=2.720
+Adjustment=-
+Open=2.720
+High=2.720
+Low=2.720
+Volume=100None
+
+
+2019-05-28 22:10:37
+2019-05-28 22:10:37
+Close=2.720
+Adjustment=-
+Open=2.720
+High=2.720
+Low=2.720
+Volume=100None
+
+
+2019-05-29 18:10:38
+2019-05-29 18:10:38
+Close=2.650
+Adjustment=-0.070
+Open=2.700
+High=2.700
+Low=2.520
+Volume=489None
+
+
+2019-05-29 22:10:26
+2019-05-29 22:10:26
+Close=2.650
+Adjustment=-0.070
+Open=2.700
+High=2.700
+Low=2.520
+Volume=489None
+
+
+2019-05-30 18:10:34
+2019-05-30 18:10:34
+Close=2.620
+Adjustment=-0.030
+Open=2.620
+High=2.620
+Low=2.620
+Volume=84None
+
+
+2019-05-30 22:10:38
+2019-05-30 22:10:38
+Close=2.620
+Adjustment=-0.030
+Open=2.620
+High=2.620
+Low=2.620
+Volume=84None
+
+
+2019-05-31 22:10:26
+2019-05-31 22:10:26
+Close=2.700
+Adjustment=0.080
+Open=2.700
+High=2.700
+Low=2.700
+Volume=70None
+
+
+2019-06-03 18:10:41
+2019-06-03 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-03 22:10:26
+2019-06-03 22:10:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-04 18:10:28
+2019-06-04 18:10:28
+Close=2.700
+Adjustment=-
+Open=2.650
+High=2.730
+Low=2.650
+Volume=40None
+
+
+2019-06-04 22:10:26
+2019-06-04 22:10:26
+Close=2.700
+Adjustment=-
+Open=2.650
+High=2.730
+Low=2.650
+Volume=40None
+
+
+2019-06-05 22:10:38
+2019-06-05 22:10:38
+Close=2.700
+Adjustment=-
+Open=2.650
+High=2.730
+Low=2.650
+Volume=40None
+
+
+2019-06-06 22:10:36
+2019-06-06 22:10:36
+Close=2.700
+Adjustment=-
+Open=2.650
+High=2.730
+Low=2.650
+Volume=40None
+
+
+2019-06-07 22:10:26
+2019-06-07 22:10:26
+Close=2.530
+Adjustment=-0.170
+Open=2.610
+High=2.650
+Low=2.530
+Volume=1058None
+
+
+2019-06-10 18:10:32
+2019-06-10 18:10:32
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-10 22:10:26
+2019-06-10 22:10:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-11 18:10:27
+2019-06-11 18:10:27
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-11 22:10:26
+2019-06-11 22:10:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-12 18:10:37
+2019-06-12 18:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-12 22:10:26
+2019-06-12 22:10:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-13 18:10:41
+2019-06-13 18:10:41
+Close=2.600
+Adjustment=0.070
+Open=2.600
+High=2.610
+Low=2.600
+Volume=70None
+
+
+2019-06-13 22:10:27
+2019-06-13 22:10:27
+Close=2.600
+Adjustment=0.070
+Open=2.600
+High=2.610
+Low=2.600
+Volume=70None
+
+
+2019-06-14 22:10:26
+2019-06-14 22:10:26
+Close=2.610
+Adjustment=0.010
+Open=2.650
+High=2.650
+Low=2.600
+Volume=130None
+
+
+2019-06-17 18:10:27
+2019-06-17 18:10:27
+Close=2.600
+Adjustment=-0.010
+Open=2.590
+High=2.600
+Low=2.580
+Volume=126None
+
+
+2019-06-17 22:10:25
+2019-06-17 22:10:25
+Close=2.600
+Adjustment=-0.010
+Open=2.590
+High=2.600
+Low=2.580
+Volume=126None
+
+
+2019-06-18 18:10:33
+2019-06-18 18:10:33
+Close=2.600
+Adjustment=-
+Open=2.540
+High=2.600
+Low=2.540
+Volume=224None
+
+
+2019-06-18 22:10:26
+2019-06-18 22:10:26
+Close=2.600
+Adjustment=-
+Open=2.540
+High=2.600
+Low=2.540
+Volume=224None
+
+
+2019-06-19 18:10:36
+2019-06-19 18:10:36
+Close=2.600
+Adjustment=-
+Open=2.600
+High=2.600
+Low=2.600
+Volume=369None
+
+
+2019-06-19 22:10:37
+2019-06-19 22:10:37
+Close=2.600
+Adjustment=-
+Open=2.600
+High=2.600
+Low=2.600
+Volume=369None
+
+
+2019-06-20 18:10:26
+2019-06-20 18:10:26
+Close=2.600
+Adjustment=-
+Open=2.600
+High=2.600
+Low=2.600
+Volume=150None
+
+
+2019-06-20 22:10:25
+2019-06-20 22:10:25
+Close=2.600
+Adjustment=-
+Open=2.600
+High=2.600
+Low=2.600
+Volume=150None
+
+
+2019-06-21 22:10:27
+2019-06-21 22:10:27
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-24 18:10:34
+2019-06-24 18:10:34
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-24 22:10:26
+2019-06-24 22:10:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-25 18:10:43
+2019-06-25 18:10:43
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-25 22:10:26
+2019-06-25 22:10:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-26 22:10:25
+2019-06-26 22:10:25
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-27 22:10:32
+2019-06-27 22:10:32
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-28 18:10:32
+2019-06-28 18:10:32
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-06-28 22:10:26
+2019-06-28 22:10:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-01 18:10:30
+2019-07-01 18:10:30
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-01 22:10:24
+2019-07-01 22:10:24
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-02 18:10:32
+2019-07-02 18:10:32
+Close=2.620
+Adjustment=0.040
+Open=2.610
+High=2.620
+Low=2.610
+Volume=197None
+
+
+2019-07-02 22:10:21
+2019-07-02 22:10:21
+Close=2.620
+Adjustment=0.040
+Open=2.610
+High=2.620
+Low=2.610
+Volume=197None
+
+
+2019-07-03 18:10:37
+2019-07-03 18:10:37
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-03 22:10:35
+2019-07-03 22:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-04 18:10:24
+2019-07-04 18:10:24
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-04 22:10:24
+2019-07-04 22:10:24
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-05 22:10:21
+2019-07-05 22:10:21
+Close=2.620
+Adjustment=-
+Open=2.620
+High=2.620
+Low=2.620
+Volume=5None
+
+
+2019-07-08 18:10:32
+2019-07-08 18:10:32
+Close=2.620
+Adjustment=-
+Open=2.620
+High=2.620
+Low=2.620
+Volume=10None
+
+
+2019-07-08 22:10:21
+2019-07-08 22:10:21
+Close=2.620
+Adjustment=-
+Open=2.620
+High=2.620
+Low=2.620
+Volume=10None
+
+
+2019-07-09 18:10:41
+2019-07-09 18:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-09 22:10:21
+2019-07-09 22:10:21
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-10 18:10:32
+2019-07-10 18:10:32
+Close=2.650
+Adjustment=0.030
+Open=2.620
+High=2.650
+Low=2.620
+Volume=205None
+
+
+2019-07-10 22:10:32
+2019-07-10 22:10:32
+Close=2.650
+Adjustment=0.030
+Open=2.620
+High=2.650
+Low=2.620
+Volume=205None
+
+
+2019-07-11 18:10:28
+2019-07-11 18:10:28
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-11 22:10:21
+2019-07-11 22:10:21
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-12 22:10:24
+2019-07-12 22:10:24
+Close=2.620
+Adjustment=-0.030
+Open=2.620
+High=2.620
+Low=2.620
+Volume=11None
+
+
+2019-07-15 18:10:33
+2019-07-15 18:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-15 22:10:22
+2019-07-15 22:10:22
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-16 18:10:33
+2019-07-16 18:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-16 22:10:24
+2019-07-16 22:10:24
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-17 18:10:35
+2019-07-17 18:10:35
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-17 22:10:23
+2019-07-17 22:10:23
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-18 18:10:23
+2019-07-18 18:10:23
+Close=2.680
+Adjustment=0.060
+Open=2.680
+High=2.680
+Low=2.680
+Volume=131None
+
+
+2019-07-18 22:10:24
+2019-07-18 22:10:24
+Close=2.680
+Adjustment=0.060
+Open=2.680
+High=2.680
+Low=2.680
+Volume=131None
+
+
+2019-07-19 18:10:33
+2019-07-19 18:10:33
+Close=2.710
+Adjustment=0.030
+Open=2.680
+High=2.710
+Low=2.680
+Volume=350None
+
+
+2019-07-19 22:10:52
+2019-07-19 22:10:52
+Close=2.710
+Adjustment=0.030
+Open=2.680
+High=2.710
+Low=2.680
+Volume=350None
+
+
+2019-07-22 18:10:21
+2019-07-22 18:10:21
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-22 22:10:22
+2019-07-22 22:10:22
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-23 18:10:27
+2019-07-23 18:10:27
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-23 22:10:24
+2019-07-23 22:10:24
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-24 18:10:29
+2019-07-24 18:10:29
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-24 22:10:25
+2019-07-24 22:10:25
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-25 22:10:24
+2019-07-25 22:10:24
+Close=2.700
+Adjustment=-0.010
+Open=2.700
+High=2.700
+Low=2.700
+Volume=100None
+
+
+2019-07-26 18:10:21
+2019-07-26 18:10:21
+Close=2.710
+Adjustment=0.010
+Open=2.700
+High=2.710
+Low=2.700
+Volume=300None
+
+
+2019-07-26 22:10:23
+2019-07-26 22:10:23
+Close=2.710
+Adjustment=0.010
+Open=2.700
+High=2.710
+Low=2.700
+Volume=300None
+
+
+2019-07-29 18:10:33
+2019-07-29 18:10:33
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-29 22:10:24
+2019-07-29 22:10:24
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-30 18:10:23
+2019-07-30 18:10:23
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-30 22:10:25
+2019-07-30 22:10:25
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-07-31 22:10:25
+2019-07-31 22:10:25
+Close=2.670
+Adjustment=-0.040
+Open=2.670
+High=2.670
+Low=2.670
+Volume=462None
+
+
+2019-08-01 18:10:25
+2019-08-01 18:10:25
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-01 22:10:21
+2019-08-01 22:10:21
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-02 18:10:40
+2019-08-02 18:10:40
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-02 22:10:26
+2019-08-02 22:10:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-05 18:10:31
+2019-08-05 18:10:31
+Close=2.670
+Adjustment=-
+Open=2.670
+High=2.670
+Low=2.670
+Volume=50None
+
+
+2019-08-05 22:10:26
+2019-08-05 22:10:26
+Close=2.670
+Adjustment=-
+Open=2.670
+High=2.670
+Low=2.670
+Volume=50None
+
+
+2019-08-06 18:10:34
+2019-08-06 18:10:34
+Close=2.670
+Adjustment=-
+Open=2.590
+High=2.670
+Low=2.590
+Volume=166None
+
+
+2019-08-06 22:10:26
+2019-08-06 22:10:26
+Close=2.670
+Adjustment=-
+Open=2.590
+High=2.670
+Low=2.590
+Volume=166None
+
+
+2019-08-07 18:10:26
+2019-08-07 18:10:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-07 22:10:26
+2019-08-07 22:10:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-08 18:10:32
+2019-08-08 18:10:32
+Close=2.580
+Adjustment=-0.090
+Open=2.580
+High=2.580
+Low=2.580
+Volume=4None
+
+
+2019-08-08 22:10:26
+2019-08-08 22:10:26
+Close=2.580
+Adjustment=-0.090
+Open=2.580
+High=2.580
+Low=2.580
+Volume=4None
+
+
+2019-08-09 18:10:32
+2019-08-09 18:10:32
+Close=2.690
+Adjustment=0.110
+Open=2.580
+High=2.690
+Low=2.580
+Volume=53None
+
+
+2019-08-09 22:10:24
+2019-08-09 22:10:24
+Close=2.690
+Adjustment=0.110
+Open=2.580
+High=2.690
+Low=2.580
+Volume=53None
+
+
+2019-08-12 18:10:27
+2019-08-12 18:10:27
+Close=2.690
+Adjustment=0.110
+Open=2.580
+High=2.690
+Low=2.580
+Volume=53None
+
+
+2019-08-12 22:10:28
+2019-08-12 22:10:28
+Close=2.690
+Adjustment=0.110
+Open=2.580
+High=2.690
+Low=2.580
+Volume=53None
+
+
+2019-08-13 18:10:28
+2019-08-13 18:10:28
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-13 22:10:28
+2019-08-13 22:10:28
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-14 18:10:27
+2019-08-14 18:10:27
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-14 22:10:27
+2019-08-14 22:10:27
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-15 18:10:28
+2019-08-15 18:10:28
+Close=2.510
+Adjustment=-0.180
+Open=2.510
+High=2.510
+Low=2.510
+Volume=1None
+
+
+2019-08-15 22:10:37
+2019-08-15 22:10:37
+Close=2.510
+Adjustment=-0.180
+Open=2.510
+High=2.510
+Low=2.510
+Volume=1None
+
+
+2019-08-16 18:10:27
+2019-08-16 18:10:27
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-16 22:10:27
+2019-08-16 22:10:27
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-19 18:10:29
+2019-08-19 18:10:29
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-19 22:10:41
+2019-08-19 22:10:41
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-20 18:10:37
+2019-08-20 18:10:37
+Close=2.650
+Adjustment=0.140
+Open=2.650
+High=2.650
+Low=2.650
+Volume=120None
+
+
+2019-08-20 22:10:26
+2019-08-20 22:10:26
+Close=2.650
+Adjustment=0.140
+Open=2.650
+High=2.650
+Low=2.650
+Volume=120None
+
+
+2019-08-21 18:10:36
+2019-08-21 18:10:36
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-21 22:10:27
+2019-08-21 22:10:27
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-22 18:10:34
+2019-08-22 18:10:34
+Close=2.680
+Adjustment=0.030
+Open=2.680
+High=2.680
+Low=2.680
+Volume=75None
+
+
+2019-08-22 22:10:27
+2019-08-22 22:10:27
+Close=2.680
+Adjustment=0.030
+Open=2.680
+High=2.680
+Low=2.680
+Volume=75None
+
+
+2019-08-23 22:10:27
+2019-08-23 22:10:27
+Close=2.660
+Adjustment=-0.020
+Open=2.660
+High=2.660
+Low=2.660
+Volume=294None
+
+
+2019-08-26 18:10:35
+2019-08-26 18:10:35
+Close=2.680
+Adjustment=0.020
+Open=2.680
+High=2.680
+Low=2.680
+Volume=100None
+
+
+2019-08-26 22:10:27
+2019-08-26 22:10:27
+Close=2.680
+Adjustment=0.020
+Open=2.680
+High=2.680
+Low=2.680
+Volume=100None
+
+
+2019-08-27 18:10:29
+2019-08-27 18:10:29
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-27 22:10:26
+2019-08-27 22:10:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-28 18:10:28
+2019-08-28 18:10:28
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-28 22:10:27
+2019-08-28 22:10:27
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-29 18:10:29
+2019-08-29 18:10:29
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-29 22:10:26
+2019-08-29 22:10:26
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-08-30 18:10:37
+2019-08-30 18:10:37
+Close=2.550
+Adjustment=-0.130
+Open=2.550
+High=2.550
+Low=2.550
+Volume=2None
+
+
+2019-08-30 22:10:26
+2019-08-30 22:10:26
+Close=2.550
+Adjustment=-0.130
+Open=2.550
+High=2.550
+Low=2.550
+Volume=2None
+
+
+2019-09-02 18:10:27
+2019-09-02 18:10:27
+Close=2.550
+Adjustment=-0.130
+Open=2.550
+High=2.550
+Low=2.550
+Volume=2None
+
+
+2019-09-02 22:10:27
+2019-09-02 22:10:27
+Close=2.550
+Adjustment=-0.130
+Open=2.550
+High=2.550
+Low=2.550
+Volume=2None
+
+
+2019-09-03 18:10:48
+2019-09-03 18:10:48
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-09-03 22:10:27
+2019-09-03 22:10:27
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-09-04 18:10:36
+2019-09-04 18:10:36
+Close=2.680
+Adjustment=0.130
+Open=2.670
+High=2.690
+Low=2.670
+Volume=286None
+
+
+2019-09-04 22:10:26
+2019-09-04 22:10:26
+Close=2.680
+Adjustment=0.130
+Open=2.670
+High=2.690
+Low=2.670
+Volume=286None
+
+
+2019-09-05 18:10:27
+2019-09-05 18:10:27
+Close=2.680
+Adjustment=-
+Open=2.680
+High=2.680
+Low=2.680
+Volume=308None
+
+
+2019-09-05 22:10:27
+2019-09-05 22:10:27
+Close=2.680
+Adjustment=-
+Open=2.680
+High=2.680
+Low=2.680
+Volume=308None
+
+
+2019-09-06 18:10:35
+2019-09-06 18:10:35
+Close=2.680
+Adjustment=-
+Open=2.680
+High=2.680
+Low=2.680
+Volume=198None
+
+
+2019-09-06 22:10:26
+2019-09-06 22:10:26
+Close=2.680
+Adjustment=-
+Open=2.680
+High=2.680
+Low=2.680
+Volume=198None
+
+
+2019-09-09 18:10:36
+2019-09-09 18:10:36
+Close=2.680
+Adjustment=-
+Open=2.680
+High=2.680
+Low=2.680
+Volume=198None
+
+
+2019-09-09 22:10:27
+2019-09-09 22:10:27
+Close=2.680
+Adjustment=-
+Open=2.680
+High=2.680
+Low=2.680
+Volume=198None
+
+
+2019-09-10 18:10:36
+2019-09-10 18:10:36
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-09-10 22:10:27
+2019-09-10 22:10:27
+Close=-
+Adjustment=-
+Open=-
+High=-
+Low=-
+Volume=-None
+
+
+2019-09-11 18:10:37
+2019-09-11 18:10:37
+Close=2.680
+Adjustment=-
+Open=2.680
+High=2.680
+Low=2.680
+Volume=90None
+
+
+2019-09-11 22:10:27
+2019-09-11 22:10:27
+Close=2.680
+Adjustment=-
+Open=2.680
+High=2.680
+Low=2.680
+Volume=90None
+
+
+2019-09-12 18:10:47
+2019-09-12 18:10:47
+Close=2.700
+Adjustment=0.020
+Open=2.650
+High=2.700
+Low=2.650
+Volume=850None

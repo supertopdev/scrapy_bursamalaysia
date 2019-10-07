@@ -1,0 +1,6 @@
+SHELL="/bin/bash"
+0 6 * * * /usr/bin/php -q /home/ocknetmy715perak/public_html/medianews/app/crons/newsCron.php >/dev/null 2>&1
+0 12 * * * /usr/bin/php -q /home/ocknetmy715perak/public_html/medianews/app/crons/newsCron.php >/dev/null 2>&1
+0 18 * * * /usr/bin/php -q /home/ocknetmy715perak/public_html/medianews/app/crons/newsCron.php >/dev/null 2>&1
+*/15 * * * 1-5 cd /home/ocknetmy715perak/yo/scrapy/ockgroup && /usr/local/bin/scrapy crawl bursamalaysia > /home/ocknetmy715perak/yo/scrapy/ockgroup/error.log 2>&1
+0 18 * * 1-5 cd /home/ocknetmy715perak/yo/scrapy/ockgroup && /usr/local/bin/scrapy crawl bursamalaysia_eod > /home/ocknetmy715perak/yo/scrapy/ockgroup/error_eod.log 2>&1

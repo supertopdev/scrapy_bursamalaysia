@@ -1,0 +1,104 @@
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 82, in parse_start_url
+    if(len(adjustment_close)>0):
+UnboundLocalError: local variable 'adjustment_close' referenced before assignment
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 119, in parse_start_url
+    db=SQL_DB)
+  File "/usr/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 81, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 193, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (1044, "Access denied for user 'ocknetmy_chart'@'localhost' to database 'ocknetmy_bursa'")
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 119, in parse_start_url
+    db=SQL_DB)
+  File "/usr/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 81, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 193, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (1044, "Access denied for user 'ocknetmy_chart'@'localhost' to database 'ocknetmy_bursa'")
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 119, in parse_start_url
+    db=SQL_DB)
+  File "/usr/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 81, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 193, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (1045, "Access denied for user 'ocknetmy_bursa'@'localhost' (using password: YES)")
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 119, in parse_start_url
+    db=SQL_DB)
+  File "/usr/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 81, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 193, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (1044, "Access denied for user 'ocknetmy_chart'@'localhost' to database 'ocknetmy_bursa'")
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 89, in parse_start_url
+    print "Stock Name =", ock_stock_name[0]
+IndexError: list index out of range
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 119, in parse_start_url
+    db=SQL_DB)
+  File "/usr/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 81, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 193, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (1044, "Access denied for user 'ocknetmy_chart'@'localhost' to database 'ocknetmy_bursa'")
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 119, in parse_start_url
+    db=SQL_DB)
+  File "/usr/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 81, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 193, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (1045, "Access denied for user 'ocknetmy_bursat'@'localhost' (using password: YES)")
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 132, in parse_start_url
+    f.write('\n%s\nStock Name=%s\nStock Code=%s\nListing=%s\nSector=%s'%(ock_stock_name,ock_stock_code,ock_listing,ock_sector))
+TypeError: not enough arguments for format string
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 54, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 68, in get_cookies
+    self.driver = webdriver.Chrome('/usr/bin/chromedriver', chrome_options=options)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/chrome/webdriver.py", line 59, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/chrome/service.py", line 74, in start
+    raise WebDriverException("Can not connect to the ChromeDriver")
+WebDriverException: Message: Can not connect to the ChromeDriver
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 54, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_main.py", line 68, in get_cookies
+    self.driver = webdriver.Chrome('/usr/bin/chromedriver', chrome_options=options)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/chrome/webdriver.py", line 59, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/chrome/service.py", line 74, in start
+    raise WebDriverException("Can not connect to the ChromeDriver")
+WebDriverException: Message: Can not connect to the ChromeDriver
+

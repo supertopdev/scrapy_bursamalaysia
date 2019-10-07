@@ -1,0 +1,28 @@
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_2.py", line 44, in parse
+    cookies=self.get_cookies(base_crawl_url),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_2.py", line 54, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_2.py", line 44, in parse
+    cookies=self.get_cookies(base_crawl_url),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_2.py", line 54, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+

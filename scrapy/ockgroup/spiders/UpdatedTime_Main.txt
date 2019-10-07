@@ -1,0 +1,9 @@
+
+
+04-02-2015 01:45:04
+
+04-02-2015 01:46:36
+Stock Name=[u'OCK GROUP BERHAD (0172)']
+Stock Code=0172
+Listing=MAIN MARKET
+Sector=TRAD/SERVNone

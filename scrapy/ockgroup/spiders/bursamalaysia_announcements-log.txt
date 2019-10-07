@@ -1,0 +1,30 @@
+
+
+http://ws.bursamalaysia.com/market/listed-companies/company-announcements/Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 82, in getAnnouncements
+    json_obj = json.loads(string)
+  File "/usr/local/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/local/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/local/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+
+
+http://ws.bursamalaysia.com/market/listed-companies/company-announcements/Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 81, in getAnnouncements
+    print(type(response.body)+'11111111111111111111111111111111')
+TypeError: unsupported operand type(s) for +: 'type' and 'str'
+
+
+http://ws.bursamalaysia.com/market/listed-companies/company-announcements/Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 82, in getAnnouncements
+    json_obj = json.loads(string)
+  File "/usr/local/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/local/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/local/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

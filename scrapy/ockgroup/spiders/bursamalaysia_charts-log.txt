@@ -1,0 +1,13 @@
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_charts.py", line 54, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_charts.py", line 72, in get_cookies
+    self.driver = webdriver.Chrome('/usr/bin/chromedriver', chrome_options=options)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/chrome/webdriver.py", line 59, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/chrome/service.py", line 74, in start
+    raise WebDriverException("Can not connect to the ChromeDriver")
+WebDriverException: Message: Can not connect to the ChromeDriver
+

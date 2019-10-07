@@ -1,0 +1,1294 @@
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 59, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/ocknetmy715perak/yo/phantomjs-1.9.8-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 64, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/ocknetmy715perak/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/ocknetmy715perak/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 55, in __init__
+    desired_capabilities=desired_capabilities)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 73, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 121, in start_session
+    'desiredCapabilities': desired_capabilities,
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS(executable_path='/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs')
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 74, in start
+    raise WebDriverException("Unable to start phantomjs with ghostdriver.", e)
+WebDriverException: Message: Unable to start phantomjs with ghostdriver.
+Screenshot: available via screen
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 60, in get_cookies
+    self.driver.get(url)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 185, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 80, in start
+    raise WebDriverException("Can not connect to GhostDriver")
+WebDriverException: Message: Can not connect to GhostDriver
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 46, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=0172"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 58, in get_cookies
+    self.driver = webdriver.PhantomJS()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 80, in start
+    raise WebDriverException("Can not connect to GhostDriver")
+WebDriverException: Message: Can not connect to GhostDriver
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 61, in get_cookies
+    self.driver = webdriver.PhantomJS()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 80, in start
+    raise WebDriverException("Can not connect to GhostDriver")
+WebDriverException: Message: Can not connect to GhostDriver
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 63, in get_cookies
+    self.driver.get(url)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 185, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 61, in get_cookies
+    self.driver = webdriver.PhantomJS()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 80, in start
+    raise WebDriverException("Can not connect to GhostDriver")
+WebDriverException: Message: Can not connect to GhostDriver
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 61, in get_cookies
+    self.driver = webdriver.PhantomJS()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 80, in start
+    raise WebDriverException("Can not connect to GhostDriver")
+WebDriverException: Message: Can not connect to GhostDriver
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 63, in get_cookies
+    self.driver.get(url)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 185, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 63, in get_cookies
+    self.driver.get(url)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 185, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 61, in get_cookies
+    self.driver = webdriver.PhantomJS()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 80, in start
+    raise WebDriverException("Can not connect to GhostDriver")
+WebDriverException: Message: Can not connect to GhostDriver
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 63, in get_cookies
+    self.driver.get(url)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 185, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 76, in parse_start_url
+    sel = Selector(response)
+  File "/usr/local/lib/python2.7/site-packages/scrapy/selector/unified.py", line 79, in __init__
+    _root = LxmlDocument(response, self._parser)
+  File "/usr/local/lib/python2.7/site-packages/scrapy/selector/lxmldocument.py", line 27, in __new__
+    cache[parser] = _factory(response, parser)
+  File "/usr/local/lib/python2.7/site-packages/scrapy/selector/lxmldocument.py", line 13, in _factory
+    body = response.body_as_unicode().strip().encode('utf8') or '<html/>'
+AttributeError: 'Response' object has no attribute 'body_as_unicode'
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 63, in get_cookies
+    self.driver.get(url)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 185, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 61, in get_cookies
+    self.driver = webdriver.PhantomJS()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 80, in start
+    raise WebDriverException("Can not connect to GhostDriver")
+WebDriverException: Message: Can not connect to GhostDriver
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 61, in get_cookies
+    self.driver = webdriver.PhantomJS()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py", line 50, in __init__
+    self.service.start()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/phantomjs/service.py", line 80, in start
+    raise WebDriverException("Can not connect to GhostDriver")
+WebDriverException: Message: Can not connect to GhostDriver
+
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 111] Connection refused>
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+
+http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 48, in parse
+    cookies=self.get_cookies("http://www.bursamalaysia.com/market/listed-companies/list-of-companies/plc-profile.html?stock_code=5029"),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_eod.py", line 67, in get_cookies
+    cookies = self.driver.get_cookies()
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 556, in get_cookies
+    return self.execute(Command.GET_ALL_COOKIES)['value']
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 171, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 349, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 417, in _request
+    resp = opener.open(request)
+  File "/usr/local/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/local/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/local/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/local/lib/python2.7/httplib.py", line 1073, in getresponse
+    response.begin()
+  File "/usr/local/lib/python2.7/httplib.py", line 415, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/lib/python2.7/httplib.py", line 379, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''

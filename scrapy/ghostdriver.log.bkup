@@ -1,0 +1,8 @@
+Fontconfig error: Cannot load default config file
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-13T15:45:02.818Z] GhostDriver - Main - running on port 52439
+[INFO  - 2015-02-13T15:45:03.733Z] Session [46cde610-b397-11e4-9f5a-b958b3b132b7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-13T15:45:03.733Z] Session [46cde610-b397-11e4-9f5a-b958b3b132b7] - page.customHeaders:  - {}
+[INFO  - 2015-02-13T15:45:03.733Z] Session [46cde610-b397-11e4-9f5a-b958b3b132b7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.8","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-13T15:45:03.733Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 46cde610-b397-11e4-9f5a-b958b3b132b7
+PhantomJS has crashed. Please read the crash reporting guide at https://github.com/ariya/phantomjs/wiki/Crash-Reporting and file a bug report at https://github.com/ariya/phantomjs/issues/new with the crash dump file attached: /tmp/7d42eb24-124a-8e10-0ed5b491-35986fa4.dmp

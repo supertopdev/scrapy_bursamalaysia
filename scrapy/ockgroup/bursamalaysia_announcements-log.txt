@@ -1,0 +1,112 @@
+
+
+http://ws.bursamalaysia.com/market/listed-companies/company-announcements/announcements_listing_f.html?company=5029&page=1Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 109, in getAnnouncements
+    cookies=self.get_cookies(actual_crawl_url),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/6064905Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/6069977Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/6058889Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/6037513Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/6063425Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/6022169Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/6022165Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/6035245Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/6005449Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/5978489Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/5977005Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/5977245Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
+
+
+http://www.bursamalaysia.com/market/listed-companies/company-announcements/5973893Traceback (most recent call last):
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 128, in fetchPage
+    cookies=self.get_cookies(iframe_src),
+  File "/home/fareastholdingsb/yo/scrapy/ockgroup/ockgroup/spiders/bursamalaysia_announcements.py", line 60, in get_cookies
+    driver = webdriver.PhantomJS(executable_path=r'/home/fareastholdingsb/yo/phantomjs-1.9.2-linux-x86_64/bin/phantomjs', desired_capabilities=dcap, service_args=['--ignore-ssl-errors=true'])
+NameError: global name 'dcap' is not defined
